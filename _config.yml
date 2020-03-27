@@ -2,7 +2,7 @@ remote_theme: broccolini/swiss
 
 
 title: Vaishak Belle 
-description: Faculty in Artificial Intelligence
+description: Faculty at University of Edinburgh 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # "vaishakbelle.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_repo: vaishakbelle.github.io # the GitHub repo name for your project
