@@ -5,7 +5,7 @@ title: Vaishak Belle
 description: Faculty in Artificial Intelligence
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # "vaishakbelle.com" # the base hostname & protocol for your site, e.g. http://example.com
-github_repo: vaishakbelle # the GitHub repo name for your project
+github_repo: vaishakbelle.github.io # the GitHub repo name for your project
 github_username: vaishakbelle
 
 # Optional social link, you can choose from the following options:
