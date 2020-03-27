@@ -1,2 +1,21 @@
 remote_theme: broccolini/swiss
 theme_color: white
+
+title: Vaishak Belle 
+description: Faculty in artificial intelligence at University of Edinburgh, Alan Turing Faculty Fellow, Royal Society University Research Fellow
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "vaishakbelle.com" # the base hostname & protocol for your site, e.g. http://example.com
+github_repo: jekyll # the GitHub repo name for your project
+github_username: vaishakbelle
+
+# Optional social link, you can choose from the following options:
+# twitter (default), instagram, medium, or dribbble
+social_link: twitter
+social_username: vaishakbelle
+
+# Set theme color here
+# Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
+theme_color: black
+
+# Build settings
+markdown: kramdown
