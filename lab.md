@@ -7,7 +7,7 @@ permalink: /lab/
 
 The Lab carries out research in **artificial intelligence**, by blending ideas from **machine learning, knowledge representation, causality** and **multi-agent systems**.
 
-![](https://66.media.tumblr.com/994f435fec79197ca6e3000df9ac8da3/tumblr_inline_pm8x3bRe3E1qamqtz_500.png)
+![](uni.png)
 
 We are motivated by the need to augment _learning_ and _perception_ with _high-level structured, commonsensical knowledge_, to enable systems to learn faster and more accurate models of the world. We are interested in developing computational frameworks that are able to _explain their decisions, modular, re-usable_, and _robust_ to variations in problem description. A non-exhaustive list of topics include:
 
