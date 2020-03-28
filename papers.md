@@ -447,7 +447,7 @@ D. Nitti, V. Belle and L. De Raedt.
 
 **_Machine learning journal best student paper award._**
 
-(**Sample-based abstraction for hybrid relational MDPs**)(http://cl.ly/bfkj/EWRL12.pdf).
+[**Sample-based abstraction for hybrid relational MDPs**](http://cl.ly/bfkj/EWRL12.pdf).
 
 _European Workshop on Reinforcement Learning, ICML_, 2015.
 
