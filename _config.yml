@@ -14,7 +14,9 @@ social_username: vaishakbelle
 # Set theme color here
 # Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
 theme_color: black 
+
 paginate: 5
+paginate_path: "/" 
 
 # Build settings
 markdown: kramdown
