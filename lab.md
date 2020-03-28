@@ -50,7 +50,6 @@ For more information, please check our papers.
 *   _Giannis Papantonis_, interested in causality
 *   _Ionela-Georgiana Mocanu_, interested in PAC learning
 *   _Gary Smith_ (with Ron Petrick), interested in epistemic planning
-*   _Anton Fuxjaeger_, interested in applications of tractable models
 *   _Andreas Bueff_, interested in tractable learning and reinforcement learning
 *   _Sandor Bartha_ (with James Cheney), interested in program induction
 *   _Samuel Kolb_ (KU Leuven, with Luc De Raedt), interested in inference for hybrid domains
@@ -59,6 +58,7 @@ For more information, please check our papers.
 
 *   _Amélie Levray_ (Postdoctoral fellow), interested in tractable learning with credal networks
 *   _Stefanie Speichert_ (Msc, 2018), interested in program induction
+*   _Anton Fuxjaeger_ (Msc, 2019), interested in applications of tractable models to deep learning 
 *   _Davide Nitti_ (PhD 2016, KU Leuven, with Luc De Raedt), interested in machine learning for hybrid domains
 *   _Jazon Szabo_ (BSc, 2019), interested in modal logics for causality
 *   _Himan Mookherjee (Msc, 2018)_ (principal supervisor: James Cheney), interested in machine learning for anomaly detection
