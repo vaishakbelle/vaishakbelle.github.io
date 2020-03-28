@@ -26,10 +26,8 @@ permalink: /honors/
 
 * * *
 
-Talks and Invited Seminars
---------------------------
-
-[Selected listing here](/news/)
+[Selected Talks and Invited Seminars](/news/)
+-------------------------- 
 
 * * *
 
