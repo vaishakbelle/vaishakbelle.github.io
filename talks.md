@@ -9,12 +9,12 @@ An archive of seminars and invited talks can be found [here](/news/).
 
 Few of the slides are below:
 
-*   [Symbolic Logic meets Machine Learning: Towards Transparent and Responsible AI](https://vaishakbelle.com/post/188833844457/invited-talk-at-the-samsung-ai-forum)
-*   [Six perspectives on logic & learning (in infinite domains)](https://vaishakbelle.com/post/187529505387/logic-learning-dagstuhl-seminar)
-*   [Towards Intepretable & Responsible AI](https://vaishakbelle.com/post/179397748542/towards-intepretable-responsible-ai) [**(video)**](https://www.youtube.com/watch?v=yA6DD9kjzLE&t=1s)
-*   [Tutorial on unifying logic, probability and dynamics](https://vaishakbelle.com/post/179579507707/tutorial-on-unifying-logic-probability)
-*   [Probabilistic Planning by Probabilistic Programming: Semantics, Inference and Learning](https://vaishakbelle.com/post/179522647282/probabilistic-planning-by-probabilistic)
-*   [Effective inference and learning with probabilistic logical models in continuous domains](https://vaishakbelle.com/post/177473260277/acai-2018-summer-school-on-statistical-relational) [**(video)**](https://www.youtube.com/watch?v=KE00My6cLcQ&t=2s)
-*   [Perspectives on Explainable AI](https://vaishakbelle.com/post/171195470797/building-trust-in-ai-workshop)
-*   [Decision-theoretic planning via probabilistic programming](https://vaishakbelle.com/post/167464540597/talk-at-the-university-of-oxford)
-*   [Tutorial on First-Order Multi-agent Logics in Action](https://vaishakbelle.com/post/164232351845/tutorial-on-first-order-multi-agent-logics-in)
+*   [Symbolic Logic meets Machine Learning: Towards Transparent and Responsible AI](/2019/11/05/invited-talk-at-the-samsung-ai-forum.html)
+*   [Six perspectives on logic & learning (in infinite domains)](/2019/09/06/logic-learning-dagstuhl-seminar.html)
+*   [Towards Intepretable & Responsible AI](/2018/10/24/towards-intepretable-responsible-ai.html) [**(video)**](https://www.youtube.com/watch?v=yA6DD9kjzLE&t=1s)
+*   [Tutorial on unifying logic, probability and dynamics](/2017/08/12/tutorial-on-unifying-logic-dynamics-and.html)
+*   [Probabilistic Planning by Probabilistic Programming: Semantics, Inference and Learning](/2018/10/28/probabilistic-planning-by-probabilistic.html)
+*   [Effective inference and learning with probabilistic logical models in continuous domains](/2018/08/28/acai-2018-summer-school-on-statistical-relational.html) [**(video)**](https://www.youtube.com/watch?v=KE00My6cLcQ&t=2s)
+*   [Perspectives on Explainable AI](/2018/02/23/building-trust-in-ai-workshop.html)
+*   [Decision-theoretic planning via probabilistic programming](/2017/11/13/talk-at-the-university-of-oxford.html)
+*   [Tutorial on First-Order Multi-agent Logics in Action](/2017/08/15/tutorial-on-first-order-multi-agent-logics-in.html)
