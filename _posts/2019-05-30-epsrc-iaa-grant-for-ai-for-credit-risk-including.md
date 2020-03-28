@@ -6,7 +6,7 @@ tags:
 - grants
 tumblr_url: https://vaishakbelle.com/post/185243833022/epsrc-iaa-grant-for-ai-for-credit-risk-including
 ---
-[link](http://web.inf.ed.ac.uk/cisa/news/epsrc-iaa-grant-for-ai-for-credit-risk-including-2)
+[Link](http://web.inf.ed.ac.uk/cisa/news/epsrc-iaa-grant-for-ai-for-credit-risk-including-2)
 
 Raffaella and I are thrilled to receive an EPSRC IAA grant on “AI for credit risk.”
 
