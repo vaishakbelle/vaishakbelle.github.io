@@ -1,27 +1,25 @@
-# remote_theme: broccolini/swiss
+remote_theme: broccolini/swiss
+title: Vaishak Belle 
+description: Faculty at University of Edinburgh 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://vaishakbelle.com" # "vaishakbelle.com" # the base hostname & protocol for your site, e.g. http://example.com
+github_repo: vaishakbelle.github.io # the GitHub repo name for your project
+github_username: vaishakbelle
 
+# Optional social link, you can choose from the following options:
+# twitter (default), instagram, medium, or dribbble
+social_link: twitter
+social_username: vaishakbelle
 
-# title: Vaishak Belle 
-# description: Faculty at University of Edinburgh 
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "" # "vaishakbelle.com" # the base hostname & protocol for your site, e.g. http://example.com
-# github_repo: vaishakbelle.github.io # the GitHub repo name for your project
-# github_username: vaishakbelle
+# Set theme color here
+# Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
+theme_color: black 
 
-# # Optional social link, you can choose from the following options:
-# # twitter (default), instagram, medium, or dribbble
-# social_link: twitter
-# social_username: vaishakbelle
-
-# # Set theme color here
-# # Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
-# theme_color: white
-
-# # Build settings
-# markdown: kramdown
+# Build settings
+markdown: kramdown
 
 # so simple
 
-remote_theme: mmistakes/so-simple-theme
 # remote_theme: mmistakes/so-simple-theme
-#skin: "/assets/css/skins/default.css"
+# # remote_theme: mmistakes/so-simple-theme
+# #skin: "/assets/css/skins/default.css"
