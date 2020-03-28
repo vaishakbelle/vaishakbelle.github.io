@@ -4,7 +4,7 @@ title: Papers
 permalink: /papers/
 ---
 
-### Working Papers
+<!-- ### Working Papers
 
 **Learning Tractable Probabilistic Models in Open Worlds**.
 
@@ -16,7 +16,7 @@ A. Levray and V. Belle.
 
 * * *
 
-### Accepted
+### Accepted -->
 
 **Regression and Progression in Stochastic Domains**.
 

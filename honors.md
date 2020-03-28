@@ -29,7 +29,7 @@ permalink: /honors/
 Talks and Invited Seminars
 --------------------------
 
-[Selected listing here](http://vaishakbelle.com/talks)
+[Selected listing here](/news/)
 
 * * *
 
@@ -46,7 +46,7 @@ Funding:
 Service
 -------
 
-*   _[Scientific events that I have organised or participated in](http://vaishakbelle.com/tagged/engagement)_
+*   _[Scientific events that I have organised or participated in](/news/)_
 *   Co-Chair of Doctoral Consortium, KR 2020
 *   Co-Chair of Young researchers symposium, CODS-COMAD 2020
 *   Chair for IJCAI-17 Sister Conference Best Paper Track
