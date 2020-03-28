@@ -1,6 +1,6 @@
 ---
-layout: ZKM Center for Art and Media
-title: no title
+layout: post 
+title: ZKM Center for Art and Media
 date: '2019-05-18T03:04:29+01:00'
 tags:
 - talks
