@@ -38,7 +38,7 @@ For example, our recent work has touched upon:
 
 For more information, please check our papers. 
 
-**Principal Investigator:** [_Vaishak Belle_](/contact/) 
+**Principal Investigator:** Vaishak Belle 
 
 **Postdoctoral fellows and PhD students:**
 
