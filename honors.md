@@ -26,7 +26,7 @@ permalink: /honors/
 
 * * *
 
-[Selected Talks and Invited Seminars](/news/)
+[Selected Talks and Invited Seminars](/talks/)
 -------------------------- 
 
 
