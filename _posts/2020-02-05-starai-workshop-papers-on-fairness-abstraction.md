@@ -1,7 +1,6 @@
 ---
 layout: post
-title: StarAI workshop papers on fairness, abstraction and generalized sum-product
-  problems
+title: StarAI workshop papers 
 date: '2020-02-05T07:35:16+00:00'
 tags:
 - papers

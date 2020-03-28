@@ -8,5 +8,5 @@ tumblr_url: https://vaishakbelle.com/post/164232351845/tutorial-on-first-order-m
 ---
 [Tutorial on First-Order Multi-agent Logics in Action](https://www.evernote.com/shard/s7/sh/208203d5-8ca7-4880-b7fd-5c688567685a/90582949ae4945de98387b6b35a7eda3)  
 
-I’m giving a tutorial on _First-Order Multi-agent Logics in Action_ at IJCAI in Melbourne, Australia.
+I'm giving a tutorial on _First-Order Multi-agent Logics in Action_ at IJCAI in Melbourne, Australia.
 

@@ -6,7 +6,7 @@ tags:
 - talks
 tumblr_url: https://vaishakbelle.com/post/186814006622/talk-at-the-skeptics-on-the-fringe
 ---
-[Talk at the Skeptics on the Fringe](https://www.meetup.com/EdinburghSkeptics/events/263006169/)  
+[Link](https://www.meetup.com/EdinburghSkeptics/events/263006169/)  
 
 I gave a talk at the Skeptics on the Fringe on ethical AI. Thanks to the [Edinburgh Skeptics](https://www.edinburghskeptics.co.uk) for the invitation.
 

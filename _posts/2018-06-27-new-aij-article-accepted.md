@@ -6,7 +6,7 @@ tags:
 - papers
 tumblr_url: https://vaishakbelle.com/post/175308554032/new-aij-article-accepted
 ---
-[New AIJ article accepted](https://www.sciencedirect.com/science/article/pii/S000437021830314X)  
+[Paper  link](https://www.sciencedirect.com/science/article/pii/S000437021830314X)  
 
 The article introduces a general logical framework for reasoning about discrete and continuous probabilistic models in dynamical domains.
 

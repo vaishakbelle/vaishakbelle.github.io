@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Machine learning Journal article on planning in hybrid relational MDPs
+title: Machine learning Journal article
 date: '2017-10-06T07:40:16+01:00'
 tags: []
 tumblr_url: https://vaishakbelle.com/post/166106733152/machine-learning-journal-article-on-planning-in

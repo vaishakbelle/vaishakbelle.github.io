@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Talk at the Amsterdam Machine Learning Lab '
+title: 'Talk at the Amsterdam Machine Learning Lab'
 date: '2017-06-13T14:23:27+01:00'
 tags:
 - talks

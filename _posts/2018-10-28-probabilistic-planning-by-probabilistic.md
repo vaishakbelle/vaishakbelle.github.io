@@ -7,7 +7,7 @@ tags:
 - talks
 tumblr_url: https://vaishakbelle.com/post/179522647282/probabilistic-planning-by-probabilistic
 ---
-[Probabilistic Planning by Probabilistic Programming: Semantics, Inference and Learning](https://www.maskor.fh-aachen.de/events/CogRob2018/)  
+[Workshop link](https://www.maskor.fh-aachen.de/events/CogRob2018/)  
 
 I gave a talk at the Cognitive Robotics Workshop at KR-18. Thanks to Alex and Gerald for the invitation! [Slides here](https://cl.ly/6ba11ad688cc/download/CogRob%202018.pdf).
 

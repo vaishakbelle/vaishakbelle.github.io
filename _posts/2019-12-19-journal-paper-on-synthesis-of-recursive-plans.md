@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Journal paper on synthesis of recursive plans
+title: Journal paper on synthesis of recursive plans
 date: '2019-12-19T10:06:54+00:00'
 tags:
 - papers

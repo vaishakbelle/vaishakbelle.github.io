@@ -7,7 +7,7 @@ tags:
 - engagement
 tumblr_url: https://vaishakbelle.com/post/167548181517/interpretability-of-algorithmic-systems-workshop
 ---
-[Interpretability of Algorithmic Systems Workshop](https://interpretability.wordpress.com/main/)  
+[Workshop link](https://interpretability.wordpress.com/main/)  
 
 I gave a talk at the workshop on how the synthesis of logic and machine learning, especially areas such as statistical relational learning, can enable interpretability.
 
