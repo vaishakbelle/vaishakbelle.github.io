@@ -4,7 +4,7 @@ description: Faculty at University of Edinburgh
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vaishakbelle.com" # "vaishakbelle.com" # the base hostname & protocol for your site, e.g. http://example.com
 #github_repo: vaishakbelle.github.io # the GitHub repo name for your project
-github_username: vaishakbelle
+#github_username: vaishakbelle
 
 # Optional social link, you can choose from the following options:
 # twitter (default), instagram, medium, or dribbble
