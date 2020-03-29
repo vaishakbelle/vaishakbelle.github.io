@@ -4,25 +4,25 @@ title: Honors
 permalink: /honors/
 ---
 
-*   _Best student paper award_, International Conference on Inductive Logic Programming, 2019
-*   _Best paper_, The Fourth International Workshop on Declarative Learning Based Programming at IJCAI, 2019
-*   _Royal Society University Research Fellowship_, 2019
-*   _Member_, Royal Society of Edinburgh Young Academy of Scotland, 2018
-*   _Turing Faculty Fellow_, Alan Turing Institute, 2017
-*   _Early Career Spotlight_, 26th International Joint Conference on Artificial Intelligence, 2017
-*   _Chancellor’s fellowship_, 2016
-*   _Microsoft Best paper award_, 31st Conference on Uncertainty in Artificial Intelligence, 2015
-*   _Machine Learning Journal Award (best student paper)_, European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases, 2015
-*   FWO _postdoctoral fellowship_, 2015
-*   _Silver medal_, Kurt Goedel Society, 2014
-*   _Finalist_, Kurt Goedel Fellowship, 2014
-*   _Young scientist_, Heidelberg Laureate Forum, 2014
-*   _Second place_ (Team), RoboCup@Home league, International RoboCup Competition, 2008
-*   _First place_ (Team), RoboCup@Home league, RoboCup German Open Competition, 2008
-*   Bonn-Aachen International Center _scholarship_, 2010
-*   DFG Graduate school (GK 643) _scholarship_, 2008
-*   EUMI _Scholarship_, 2005
-*   Melton Foundation _fellowship_, 2002
+*   __Machine learning journal best student paper award__, International Conference on Inductive Logic Programming, 2019
+*   __Best paper__, The Fourth International Workshop on Declarative Learning Based Programming at IJCAI, 2019
+*   __Royal Society University Research Fellowship__, 2019
+*   __Member of Royal Society of Edinburgh Young Academy of Scotland__, 2018
+*   __Faculty Fellow__, Alan Turing Institute, 2017
+*   __Early Career Spotlight__, 26th International Joint Conference on Artificial Intelligence, 2017
+*   __Chancellor’s fellowship__, 2016
+*   __Microsoft Best paper award__, 31st Conference on Uncertainty in Artificial Intelligence, 2015
+*   __Machine learning journal best student paper award__, European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases, 2015
+*   __FWO postdoctoral fellowship__, 2015
+*   __Silver medal__, Kurt Goedel Society, 2014
+*   __Finalist__, Kurt Goedel Fellowship, 2014
+*   __Young scientist attendee__, Heidelberg Laureate Forum, 2014
+*   __Second place (with Team)__, RoboCup@Home league, International RoboCup Competition, 2008
+*   __First place (with Team)__, RoboCup@Home league, RoboCup German Open Competition, 2008
+*   __Bonn-Aachen International Center scholarship__, 2010
+*   __DFG Graduate school (GK 643) scholarship__, 2008
+*   __EUMI Scholarship__, 2005
+*   __Melton Foundation fellowship__, 2002
 
 * * *
 
