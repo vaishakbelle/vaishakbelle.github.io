@@ -5,7 +5,7 @@ permalink: /lab/
 ---
 
 
-The Lab carries out research in **artificial intelligence**, by unifying ideas from **machine learning** and **symbolic systems (logics, programs & plans)**.
+The Lab carries out research in **artificial intelligence**, by unifying ideas from **machine learning** and **symbolic systems (logics, programs & plans)**, with a recent emphasis on *explainability, scalability,* and *ethics*.
 
 ![](uni.png)
 
