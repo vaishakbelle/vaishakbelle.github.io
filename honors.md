@@ -26,12 +26,11 @@ permalink: /honors/
 
 * * *
 
+<!-- 
 [Selected Talks and Invited Seminars](/talks/)
 -------------------------- 
-
-
-
-* * *
+* * * 
+--> 
 
 Funding:
 --------
