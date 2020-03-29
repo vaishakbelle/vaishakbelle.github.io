@@ -32,7 +32,7 @@ permalink: /honors/
 * * * 
 --> 
 
-Funding:
+Funding 
 --------
 
 *   Royal Society University Research Fellowship, _Efficient Inference and Learning in Probabilistic Logical Models_, 2019
@@ -45,8 +45,8 @@ Funding:
 Service
 -------
 
-*   _[Scientific events that I  organized/participated in](/news/)_
+*   An archive of scientific events that I  organized and/or participated in [can be found here](/news/)
 *   Co-Chair of Doctoral Consortium, KR 2020
 *   Co-Chair of Young researchers symposium, CODS-COMAD 2020
 *   Chair for IJCAI-17 Sister Conference Best Paper Track
-*   _Senior/ Program Committee Member/ Reviewer_ for (may not be updated regularly): AAAI 2020 (SPC), IJCAI 2020 (SPC), ICLR 2020, UAI 2019, NeurIPS 2019, ICML 2019, AAMAS 2019 (SPC), AAAI 2019 (SPC), ICLR 2019, ECML PKDD 2018, NIPS 2018, AAAI 2018, ICLR 2018, AAMAS 2018 (SPC), JAIR, IJCAI 2018, AAMAS 2017, ECML PKDD 2017, TPLP, IJCAI 2017, AIJ, NIPS 2017, ECML PKDD 2016, ECAI 2016, IJCAI 2016, AAMAS 2016, AAAI 2016, KR 2016, ECML 2015, IJCAI 2015, AAMAS 2015, AAAI 2015, Commonsense 2015, Cognitive Robotics 2014, ECAI 2014, AIJ, IJCAI 2013, Commonsense 2013, IJCAI 2011, Nonmonotonic Reasoning 2010, ACM SIGACT
+*   **Senior/ Program Committee Member/ Reviewer**  (not updated regularly): AAAI 2020 (SPC), IJCAI 2020 (SPC), ICLR 2020, UAI 2019, NeurIPS 2019, ICML 2019, AAMAS 2019 (SPC), AAAI 2019 (SPC), ICLR 2019, ECML PKDD 2018, NIPS 2018, AAAI 2018, ICLR 2018, AAMAS 2018 (SPC), JAIR, IJCAI 2018, AAMAS 2017, ECML PKDD 2017, TPLP, IJCAI 2017, AIJ, NIPS 2017, ECML PKDD 2016, ECAI 2016, IJCAI 2016, AAMAS 2016, AAAI 2016, KR 2016, ECML 2015, IJCAI 2015, AAMAS 2015, AAAI 2015, Commonsense 2015, Cognitive Robotics 2014, ECAI 2014, AIJ, IJCAI 2013, Commonsense 2013, IJCAI 2011, Nonmonotonic Reasoning 2010, ACM SIGACT
