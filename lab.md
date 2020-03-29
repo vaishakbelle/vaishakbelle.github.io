@@ -28,13 +28,13 @@ We are motivated by the need to augment _learning_ and _perception_ with _high-l
 For example, our recent work has touched upon: 
 
 *   [morality in machine learning systems](https://arxiv.org/pdf/1810.03736) 
-*   [tractable learning with relational logic](https://www.evernote.com/shard/s7/sh/4af8f2a4-39da-4481-89ac-c9bf614052b7/a736c308c0c434cb98ffe68650c47a52) 
+*   [tractable learning with relational logic](/attachments/ilp2019.pdf) 
 *   [deep tractable probabilistic generative models](https://arxiv.org/pdf/1807.05464) 
 *   [learning with missing data](https://arxiv.org/pdf/1901.05847)
 *   [program learning for explainability](https://arxiv.org/pdf/1807.05527) 
 *   [implementing fairness](https://arxiv.org/abs/1905.07026)
 *   [model abstraction for explainability](https://arxiv.org/pdf/1810.02434) 
-*   [strategies for interpretable & responsible AI](https://www.evernote.com/shard/s7/client/snv?noteGuid=ebb6675f-6eb5-455b-8e81-8a151b4f5cdc&noteKey=8fa9bbefdba6d9f99b47e6d9255fa0b3&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs7%2Fsh%2Febb6675f-6eb5-455b-8e81-8a151b4f5cdc%2F8fa9bbefdba6d9f99b47e6d9255fa0b3&title=biochemist%2Barticle) 
+*   [strategies for interpretable & responsible AI](/attachments/biochem.pdf) 
 
 For more information, please check our papers. 
 
