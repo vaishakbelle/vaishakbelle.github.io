@@ -28,10 +28,10 @@ We are motivated by the need to augment _learning_ and _perception_ with _high-l
 For example, our recent work has touched upon: 
 
 *   [morality in machine learning systems](https://arxiv.org/pdf/1810.03736) 
-*   [tractable learning with relational logic](/attachments/ilp2019.pdf) 
+*   [tractable learning with relational logic](/attachments/pacfol.pdf) 
 *   [deep tractable probabilistic generative models](https://arxiv.org/pdf/1807.05464) 
 *   [learning with missing data](https://arxiv.org/pdf/1901.05847)
-*   [program learning for explainability](https://arxiv.org/pdf/1807.05527) 
+*   [program learning for explainability](/attachments/ilp2019.pdf) 
 *   [implementing fairness](https://arxiv.org/abs/1905.07026)
 *   [model abstraction for explainability](https://arxiv.org/pdf/1810.02434) 
 *   [strategies for interpretable & responsible AI](/attachments/biochem.pdf) 
