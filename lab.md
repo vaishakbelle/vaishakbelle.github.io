@@ -7,7 +7,7 @@ permalink: /lab/
 
 The Lab carries out research in **artificial intelligence**, by unifying ideas from **machine learning** and **symbolic systems (logics, programs & plans)**, with a recent emphasis on *explainability, scalability,* and *ethics*.
 
-<img src="/uni.png" width="350"> 
+<img src="/uni.png" width="450"> 
 
 We are motivated by the need to augment _learning_ and _perception_ with _high-level structured, commonsensical knowledge_, to enable systems to learn faster and more accurate models of the world. We are interested in developing computational frameworks that are able to _explain their decisions, modular, re-usable_, and _robust_ to variations in problem description. A non-exhaustive list of topics include:
 
