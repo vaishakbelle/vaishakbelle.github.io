@@ -5,9 +5,9 @@ permalink: /talks/
 ---
 
 
-An archive of seminars and invited talks can be found [here](/news/).
+An archive of seminars, invited talks and other announcements can be found [here](/news/).
 
-Few of the slides are below:
+Some of the slides are below:
 
 *   [Symbolic Logic meets Machine Learning: Towards Transparent and Responsible AI](/2019/11/05/invited-talk-at-the-samsung-ai-forum.html)
 *   [Six perspectives on logic & learning (in infinite domains)](/2019/09/06/logic-learning-dagstuhl-seminar.html)
