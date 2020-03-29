@@ -35,10 +35,10 @@ permalink: /honors/
 Funding 
 --------
 
-*   Royal Society University Research Fellowship, _Efficient Inference and Learning in Probabilistic Logical Models_, 2019
-*   EPSRC IAA (with Raffaella Calabrese), _Explainable AI for credit risk_, 2019
-*   Industry supported studentship (with James Cheney), _probabilistic property-based testing,_ 2018
-*   EPSRC First Grant, _Towards Explainable and Robust Statistical AI: A Symbolic Approach_, 2018
+*   Royal Society University Research Fellowship, __Efficient Inference and Learning in Probabilistic Logical Models__, 2019
+*   EPSRC IAA (with Raffaella Calabrese), __Explainable AI for credit risk__, 2019
+*   Industry supported studentship (with James Cheney), __Probabilistic property-based testing__, 2018
+*   EPSRC First Grant, __Towards Explainable and Robust Statistical AI: A Symbolic Approach__, 2018
 
 * * *
 
