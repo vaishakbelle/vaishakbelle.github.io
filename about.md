@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-![](vaishak.jpeg) 
+![](vaishak.JPG | width=250) 
 
 **PhD (2012), MSc (2008), Laurea Specialistica (2008)** 
 
