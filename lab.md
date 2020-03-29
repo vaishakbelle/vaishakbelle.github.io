@@ -5,7 +5,7 @@ permalink: /lab/
 ---
 
 
-The Lab carries out research in **artificial intelligence**, by blending ideas from **machine learning, knowledge representation, causality** and **multi-agent systems**.
+The Lab carries out research in **artificial intelligence**, by unifying ideas from **machine learning** and **symbolic systems (logics, programs & plans)**.
 
 ![](uni.png)
 
