@@ -26,13 +26,13 @@ V. Belle and H. Levesque.
 
 
 
-**Logical Interpretations of Autoencoders**.
+[**Logical Interpretations of Autoencoders**](/attachments/ecaiauto.pdf).
 
 _ECAI_, 2020.
 
 A. Fuxjaeger and V. Belle.
 
-**Polynomial-time Implicit Learnability in SMT**.
+[**Polynomial-time Implicit Learnability in SMT**](/attachments/ecaipac.pdf).
 
 _ECAI_, 2020.
 
