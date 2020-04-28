@@ -18,6 +18,13 @@ A. Levray and V. Belle.
 
 ### Accepted -->
 
+
+[**Abstracting Probabilistic Models: Relations, Constraints and Beyond**](/attachments/abs.pdf).
+
+_Knowledge-based Systems_, 2020.
+
+V. Belle.
+
 [**Regression and Progression in Stochastic Domains**](/attachments/regressprogress.pdf).
 
 _Artificial Intelligence_, 2020.
