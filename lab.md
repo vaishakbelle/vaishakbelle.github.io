@@ -52,10 +52,11 @@ For more information, please check our papers.
 *   _Gary Smith_ (with Ron Petrick), interested in epistemic planning
 *   _Andreas Bueff_, interested in tractable learning and reinforcement learning
 *   _Sandor Bartha_ (with James Cheney), interested in program induction
-*   _Samuel Kolb_ (KU Leuven, with Luc De Raedt), interested in inference for hybrid domains
+
 
 **Alumni:**
 
+*   _Samuel Kolb_ (PhD 2019, KU Leuven, with Luc De Raedt), interested in inference for hybrid domains
 *   _Amélie Levray_ (Postdoctoral fellow), interested in tractable learning with credal networks
 *   _Stefanie Speichert_ (Msc, 2018), interested in program induction
 *   _Anton Fuxjaeger_ (Msc, 2019), interested in applications of tractable models to deep learning 
