@@ -4,19 +4,13 @@ title: Papers
 permalink: /papers/
 ---
 
-<!-- ### Working Papers
 
-**Learning Tractable Probabilistic Models in Open Worlds**.
+[**Learning Credal Sum Product Networks**.](http://arxiv.org/abs/1901.05847)
 
-_CoRR_, abs/1901.05847, 2019.
+AKBC, 2020. 
 
 A. Levray and V. Belle.
 
-[\[url\]](http://arxiv.org/abs/1901.05847)
-
-* * *
-
-### Accepted -->
 
 
 [**Abstracting Probabilistic Models: Relations, Constraints and Beyond**](/attachments/abs.pdf).
