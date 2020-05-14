@@ -7,7 +7,7 @@ permalink: /papers/
 
 [**Learning Credal Sum Product Networks**.](http://arxiv.org/abs/1901.05847)
 
-AKBC, 2020. 
+*AKBC*, 2020. 
 
 A. Levray and V. Belle.
 
