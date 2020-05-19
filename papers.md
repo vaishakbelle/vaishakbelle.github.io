@@ -5,19 +5,19 @@ permalink: /papers/
 ---
 
 
-* [**Learning Credal Sum Product Networks**.](http://arxiv.org/abs/1901.05847)
+[**Learning Credal Sum Product Networks**.](http://arxiv.org/abs/1901.05847)
 
-> *AKBC*, 2020.
+*AKBC*, 2020.
 
-> A. Levray and V. Belle.
+A. Levray and V. Belle.
 
 
 
-* [**Abstracting Probabilistic Models: Relations, Constraints and Beyond**](/attachments/abs.pdf).  
+[**Abstracting Probabilistic Models: Relations, Constraints and Beyond**](/attachments/abs.pdf).  
 
-> _Knowledge-based Systems_, 2020.
+_Knowledge-based Systems_, 2020.
 
-> V. Belle.
+V. Belle.
 
 
 [**Regression and Progression in Stochastic Domains**](/attachments/regressprogress.pdf).
