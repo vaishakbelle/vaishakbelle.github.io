@@ -5,7 +5,7 @@ permalink: /papers/
 ---
 
 
-[**Learning Credal Sum Product Networks**.](http://arxiv.org/abs/1901.05847)
+[**Learning Credal Sum Product Networks**.](https://openreview.net/pdf?id=3-Tc21z1Ub)
 
 *AKBC*, 2020.
 
