@@ -4,6 +4,18 @@ title: Papers
 permalink: /papers/
 ---
 
+[**Generating Random Logic Programs Using Constraint Programming**.](https://arxiv.org/pdf/2006.01889)
+
+*CP*, 2020.
+
+P. Dilkas and V. Belle.
+
+[**Logic, Probability and Action:  A Situation Calculus  Perspective**.](https://arxiv.org/abs/2006.09868)
+
+*SUM*, 2020.
+
+V. Belle.
+
 
 [**Learning Credal Sum-Product Networks**.](https://openreview.net/pdf?id=3-Tc21z1Ub)
 
