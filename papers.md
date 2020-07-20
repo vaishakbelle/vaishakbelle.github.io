@@ -4,7 +4,7 @@ title: Papers
 permalink: /papers/
 ---
 
-[**Generating Random Logic Programs Using Constraint Programming**.](https://arxiv.org/pdf/2006.01889)
+[**Generating Random Logic Programs Using Constraint Programming**.](/attachments/cp.pdf)
 
 *CP*, 2020.
 
