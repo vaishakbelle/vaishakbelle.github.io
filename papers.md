@@ -17,7 +17,7 @@ P. Dilkas and V. Belle.
 V. Belle.
 
 
-[**Learning Credal Sum-Product Networks**.](https://openreview.net/pdf?id=3-Tc21z1Ub)
+[**Learning Credal Sum-Product Networks**.](/attachments/akbc.pdf)
 
 *AKBC*, 2020.
 
