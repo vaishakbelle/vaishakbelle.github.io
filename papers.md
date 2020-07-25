@@ -10,7 +10,7 @@ permalink: /papers/
 
 P. Dilkas and V. Belle.
 
-[**Logic, Probability and Action:  A Situation Calculus  Perspective**.](https://arxiv.org/abs/2006.09868)
+[**Logic, Probability and Action:  A Situation Calculus  Perspective**.](/attachments/logprobsum.pdf)
 
 *SUM*, 2020.
 
