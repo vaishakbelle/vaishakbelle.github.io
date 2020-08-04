@@ -4,6 +4,26 @@ title: Papers
 permalink: /papers/
 ---
 
+
+[**Symbolic Logic meets Machine Learning: A Brief Survey in Infinite Domains**.](https://arxiv.org/abs/2006.08480)
+
+*SUM*, 2020.
+
+V. Belle.
+
+
+**Implicitly Learning to Reason in First-Order Logic (Extended Abstract)**.
+
+_KR_, 2020.
+
+V. Belle and B. Juba.
+
+**Abstracting Probabilistic Models: Relations, Constraints and Beyond (Extended Abstract)**.  
+
+_KR_, 2020.
+
+V. Belle.
+
 [**Generating Random Logic Programs Using Constraint Programming**.](/attachments/cp.pdf)
 
 *CP*, 2020.
