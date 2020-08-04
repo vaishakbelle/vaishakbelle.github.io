@@ -5,6 +5,12 @@ permalink: /papers/
 ---
 
 
+**A Correctness Result for Synthesizing Plans With Loops in Stochastic Domains**.
+
+_ICAPS (Journal Track)_, 2020.
+
+L. Treszkai and V. Belle.
+
 [**Symbolic Logic meets Machine Learning: A Brief Survey in Infinite Domains**.](https://arxiv.org/abs/2006.08480)
 
 *SUM*, 2020.
