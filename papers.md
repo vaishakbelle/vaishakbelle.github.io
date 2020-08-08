@@ -4,6 +4,12 @@ title: Papers
 permalink: /papers/
 ---
 
+[**Semiring Programming: A Semantic Framework for Generalized Sum Product Problems**](/attachments/semi.pdf).
+
+_International Journal of Approximate Reasoning_, 2020.
+
+V. Belle and L. De Raedt. 
+
 
 **A Correctness Result for Synthesizing Plans With Loops in Stochastic Domains**.
 
