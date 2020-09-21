@@ -5,7 +5,7 @@ permalink: /talks/
 ---
 
 
-An archive of seminars, invited talks and other announcements can be found [here](/news/).
+An archive of seminars, invited talks and other announcements can be found [here](/news/) and [in my twitter feed](https://twitter.com/vaishakbelle). 
 
 Some of the slides are below:
 
