@@ -21,48 +21,25 @@
           </ul>
         </div>
 
-        <div class="container mx-auto px-2 mb-2 clearfix header-text">
-          <h1 class="h0 inline-block col-9 sm-width-full py-4 mt-3 header-title">{{ site.title }}</h1>
+       
 
-          <div class="clearfix mb-4 py-1">
-            <div class="col-4 sm-width-full left border-top-thin">
-              <div class="table">
-                <div class="inline-block mt-3 mr-1">
-                  {% include dot-accent.html %}
-                </div>
-                <div class="inline-block mt-3 mr-1">
-                  {% include dot-accent.html %}
-                </div>
-                <div class="inline-block mt-3">
-                  <!-- {% include github.html %} -->
-                </div>
-              </div>
-              <!-- Set site description in config.yml -->
-              <p class="h4 lh-condensed font-smoothing mt-2 py-1">{{ site.description }}</p>
-            </div>
-
-            <div class="col-4 sm-width-full left border-top-thin mt-3 mt-lg-0 ml-lg-4 table">
-                <div class="inline-block mt-3 mr-1">
-                  {% include dot.html %}
-                </div>
-                <div class="inline-block mt-3">
-                  {% include {{ site.social_link | default: "twitter" }}.html %}
-                </div>
-            </div>
-          </div>
-
-        </div>
       </header>
 
-      <div class="container mx-auto px-2 py-4">
-        {% for post in site.posts limit:5 %}
-          {% include post_block.html %}
-        {% endfor %}
-      </div>
 
     </div>
+    
+    For news and announcements, please see <a href=https://twitter.com/vaishakbelle>my twitter feed,</a> some highlights below: 
+    
+    <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Camera ready, w <a href="https://twitter.com/lucderaedt?ref_src=twsrc%5Etfw">@lucderaedt</a> — Semiring programming: A semantic framework for generalized sum product problems <a href="https://t.co/f5q1e1w6aW">https://t.co/f5q1e1w6aW</a></p>&mdash; Vaishak Belle (@vaishakbelle) <a href="https://twitter.com/vaishakbelle/status/1300718134983364610?ref_src=twsrc%5Etfw">September 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    
+    <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Lecture at FU Berlin on Fair and Responsible AI, all via <a href="https://twitter.com/hashtag/probabilistic?src=hash&amp;ref_src=twsrc%5Etfw">#probabilistic</a> <a href="https://twitter.com/hashtag/circuits?src=hash&amp;ref_src=twsrc%5Etfw">#circuits</a> — <a href="https://t.co/pwdp8fwWKq">https://t.co/pwdp8fwWKq</a></p>&mdash; Vaishak Belle (@vaishakbelle) <a href="https://twitter.com/vaishakbelle/status/1303649401102008320?ref_src=twsrc%5Etfw">September 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    
+    <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Scotsman reports on our <a href="https://twitter.com/hashtag/XAI?src=hash&amp;ref_src=twsrc%5Etfw">#XAI</a> (<a href="https://twitter.com/hashtag/explainable?src=hash&amp;ref_src=twsrc%5Etfw">#explainable</a> machine learning in particular) work with the NatWest Group — <a href="https://t.co/HRp2lhAtgs">https://t.co/HRp2lhAtgs</a></p>&mdash; Vaishak Belle (@vaishakbelle) <a href="https://twitter.com/vaishakbelle/status/1306186075212255234?ref_src=twsrc%5Etfw">September 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    
+    
+    
 
-    {% include footer.html %}
+ 
 
   </body>
 
