@@ -38,15 +38,16 @@ For example, our recent work has touched upon:
 
 For more information, please check our papers. 
 
-**Principal Investigator:** Vaishak Belle 
+**Faculty:** Vaishak Belle 
 
 **Postdoctoral fellows and PhD students:**
 
+*   _Rafael Karampatsis_ (postdoc), interested in ML interpretability 
 *   _Paulius Dilkas_, interested in logical abstractions
 *   _Miguel Mendez Lucero_, interested in causality
 *   _Jonathan Feldstein_ (with James Cheney), interested in probabilistic programming
 *   _Eleanor Platt_ (with Amos Storkey), interested in interpretable deep learning
-*   _Fazl Barez_ (with Helen Hastie), interested in explainable AI
+*   _Fazl Barez_ (with Ekaterina Komendantskaya), interested in explainable AI
 *   _Giannis Papantonis_, interested in causality
 *   _Ionela-Georgiana Mocanu_, interested in PAC learning
 *   _Gary Smith_ (with Ron Petrick), interested in epistemic planning
