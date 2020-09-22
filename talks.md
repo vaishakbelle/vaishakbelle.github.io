@@ -13,7 +13,7 @@ For an **archive of seminars, invited talks** and other **announcements,** see [
 
 A few **video recordings** of the talks can be found [here (for invited talks)](https://www.youtube.com/playlist?list=PLI5qUrwTNc7PBkjEhOHsF8xZ0rwc8zWzy) and [here (for conference presentations)](https://www.youtube.com/playlist?list=PLI5qUrwTNc7NoPeQYyfBObap4sCdsw5xJ). 
 
-A podcast episode where AI and morality was discussed can be found [here](https://podbay.fm/p/the-reluctant-theologian-podcast/e/1579050000). 
+A **podcast episode** where AI and morality was discussed can be found [here](https://podbay.fm/p/the-reluctant-theologian-podcast/e/1579050000). 
 
 A few of the **slide decks** are below:
 
