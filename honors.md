@@ -45,7 +45,7 @@ Funding
 Service
 -------
 
-*   An archive of scientific events that I  organized and/or participated in [can be found here](/news/)
+*   An archive of scientific events that I  organized and/or participated in [can be found here](/talks)
 *   __Co-Chair__ of Doctoral Consortium, KR 2020
 *   __Co-Chair__ of Young researchers symposium, CODS-COMAD 2020
 *   __Chair__ for IJCAI-17 Sister Conference Best Paper Track
