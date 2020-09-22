@@ -32,6 +32,13 @@ permalink: /honors/
 * * * 
 --> 
 
+Consultancy 
+--------
+
+*  I am consulting and collaborating with a number of industry and educational partners, including the NatWest Group, on explainable AI. Please feel free to send me an email if interested to know more. 
+
+* * *
+
 Funding 
 --------
 
