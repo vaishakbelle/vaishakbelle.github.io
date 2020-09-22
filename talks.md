@@ -4,10 +4,13 @@ title: Talks
 permalink: /talks/
 ---
 
+<!--For an archive of seminars, invited talks and other announcements can be found [here](/news/) and [in my twitter feed](https://twitter.com/vaishakbelle). -->
 
-An archive of seminars, invited talks and other announcements can be found [here](/news/) and [in my twitter feed](https://twitter.com/vaishakbelle). 
+**For an archive of seminars, invited talks and other announcements, see [my twitter feed](https://twitter.com/vaishakbelle).** 
 
-Some of the slides are below:
+A few video recordings of the talks, can be found [here (for invited talks)](https://www.youtube.com/playlist?list=PLI5qUrwTNc7PBkjEhOHsF8xZ0rwc8zWzy) and [here (for conference presentations)](https://www.youtube.com/playlist?list=PLI5qUrwTNc7NoPeQYyfBObap4sCdsw5xJ). 
+
+A few of the slide decks are below:
 
 *   [Symbolic Logic meets Machine Learning: Towards Transparent and Responsible AI](/2019/11/05/invited-talk-at-the-samsung-ai-forum.html)
 *   [Six perspectives on logic & learning (in infinite domains)](/2019/09/06/logic-learning-dagstuhl-seminar.html)
