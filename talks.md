@@ -11,7 +11,7 @@ permalink: /talks/
 
 **For an archive of seminars,** invited talks and other announcements, see [my twitter feed](https://twitter.com/vaishakbelle). 
 
-A few **video recordings** of the talks, can be found [here (for invited talks)](https://www.youtube.com/playlist?list=PLI5qUrwTNc7PBkjEhOHsF8xZ0rwc8zWzy) and [here (for conference presentations)](https://www.youtube.com/playlist?list=PLI5qUrwTNc7NoPeQYyfBObap4sCdsw5xJ). 
+A few **video recordings** of the talks can be found [here (for invited talks)](https://www.youtube.com/playlist?list=PLI5qUrwTNc7PBkjEhOHsF8xZ0rwc8zWzy) and [here (for conference presentations)](https://www.youtube.com/playlist?list=PLI5qUrwTNc7NoPeQYyfBObap4sCdsw5xJ). 
 
 A few of the **slide decks** are below:
 
