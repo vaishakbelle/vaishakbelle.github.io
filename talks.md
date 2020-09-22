@@ -9,9 +9,11 @@ permalink: /talks/
 *   [Probabilistic Planning by Probabilistic Programming: Semantics, Inference and Learning](/2018/10/28/probabilistic-planning-by-probabilistic.html)
 *   [Effective inference and learning with probabilistic logical models in continuous domains](/2018/08/28/acai-2018-summer-school-on-statistical-relational.html) [**(video)**](https://www.youtube.com/watch?v=KE00My6cLcQ&t=2s) -->
 
-For an **archive of seminars, invited talks and other announcements,** see [my twitter feed](https://twitter.com/vaishakbelle). 
+For an **archive of seminars, invited talks** and other **announcements,** see [my twitter feed](https://twitter.com/vaishakbelle). 
 
 A few **video recordings** of the talks can be found [here (for invited talks)](https://www.youtube.com/playlist?list=PLI5qUrwTNc7PBkjEhOHsF8xZ0rwc8zWzy) and [here (for conference presentations)](https://www.youtube.com/playlist?list=PLI5qUrwTNc7NoPeQYyfBObap4sCdsw5xJ). 
+
+A podcast episode where AI and morality was discussed can be found [here](https://podbay.fm/p/the-reluctant-theologian-podcast/e/1579050000). 
 
 A few of the **slide decks** are below:
 
