@@ -16,7 +16,7 @@ permalink: /news/
 
 
 * *Aug 8, 2020:*
-[Journal paper on Semiring programming](https://vaishakbelle.com/2020/08/17/laiv.html)
+[Journal paper on Semiring programming](https://vaishakbelle.com/2020/08/08/semi.html)
 
 
 * *Aug 3, 2020:* 
