@@ -6,19 +6,19 @@ permalink: /papers/
 
 [**Principles and practice of explainable machine learning.**](https://arxiv.org/abs/2009.11698) 
 
-_Working paper_
+_Working paper, 2020._
 
 V. Belle and I. Papantonis
 
 [**Tractable probabilistic models: a causal perspective.**](https://arxiv.org/abs/2001.10905) 
 
-_Working paper_
+_Working paper, 2020._
 
 I. Papantonis and V. Belle
 
 [**Probabilistic and causal prior constraints in tractable probabilistic models.**](https://arxiv.org/abs/2001.11349) 
 
-_Working paper_
+_Working paper, 2020._
 
 I. Papantonis and V. Belle
 
