@@ -8,19 +8,19 @@ permalink: /papers/
 
 _Working paper, 2020._
 
-V. Belle and I. Papantonis
+V. Belle and I. Papantonis.
 
 [**Tractable probabilistic models: a causal perspective.**](https://arxiv.org/abs/2001.10905) 
 
 _Working paper, 2020._
 
-I. Papantonis and V. Belle
+I. Papantonis and V. Belle.
 
 [**Probabilistic and causal prior constraints in tractable probabilistic models.**](https://arxiv.org/abs/2001.11349) 
 
 _Working paper, 2020._
 
-I. Papantonis and V. Belle
+I. Papantonis and V. Belle.
 
 
 [**Semiring Programming: A Semantic Framework for Generalized Sum Product Problems**](/attachments/semi.pdf).
