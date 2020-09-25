@@ -4,6 +4,15 @@ title: News
 permalink: /news/
 ---
 
+
+**Sep 25, 2020**
+
+**Talk at the SICSA conference**
+
+I'll be giving a talk at the conference on fair and responsible AI in the cyber physical systems session. Thanks to Ram & Christian for the invitation. [Link to event.](https://sicsaconference.org/conference-sessions/our-session-speakers/)
+
+
+
 [**Sep 14, 2020**](https://vaishakbelle.com/2020/09/14/nwg.html)
 
 [**Scotsman reports on XAI work with NatWest Group**
