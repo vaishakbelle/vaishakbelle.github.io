@@ -4,6 +4,19 @@ title: Papers
 permalink: /papers/
 ---
 
+[**Principles and practice of explainable machine learning**](https://arxiv.org/abs/2009.11698) (Working paper)
+
+V. Belle and I. Papantonis
+
+[**Tractable probabilistic models: a causal perspective**](https://arxiv.org/abs/2001.10905) (Working paper)
+
+I. Papantonis and V.Belle
+
+[**Probabilistic and causal prior constraints in tractable probabilistic models**](https://arxiv.org/abs/2001.11349) (Working paper)
+
+I. Papantonis and V.Belle
+
+
 [**Semiring Programming: A Semantic Framework for Generalized Sum Product Problems**](/attachments/semi.pdf).
 
 _International Journal of Approximate Reasoning_, 2020.
