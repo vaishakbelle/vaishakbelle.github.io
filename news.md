@@ -4,6 +4,12 @@ title: News
 permalink: /news/
 ---
 
+**Oct 15, 2020**
+
+**Talk at U3A**
+
+I'll be giving a talk at on responsible AI at the Edinburgh chapter of [U3A](https://www.u3a.org.uk). Thanks to Rod & George for the invitation. 
+
 
 **Sep 25, 2020**
 
