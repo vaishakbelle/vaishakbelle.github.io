@@ -4,6 +4,13 @@ title: News
 permalink: /news/
 ---
 
+**Oct 22, 2020**
+
+**Talk at AI, ethics & society**
+
+The talk is entitled Fairness and Moral responsibility meets Computational Tractability, [event link here](https://www.criticalperspectives-aies.com/program) 
+
+
 **Oct 15, 2020**
 
 **Talk at U3A**
