@@ -8,7 +8,7 @@ permalink: /news/
 
 **Talk at AI, ethics & society**
 
-The talk is entitled Fairness and Moral responsibility meets Computational Tractability, [event link here](https://www.criticalperspectives-aies.com/program) 
+The talk is entitled &Fairness and Moral responsibility meets Computational Tractability*; [link to the event here.](https://www.criticalperspectives-aies.com/program) 
 
 
 **Oct 15, 2020**
