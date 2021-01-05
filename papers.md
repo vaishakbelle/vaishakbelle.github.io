@@ -19,7 +19,7 @@ M. Varley and V. Belle.
 
 [**Tractable Probabilistic Models for Moral Responsibility and Blame**](/attachments/moral.pdf).
 
-_ Data Mining and Knowledge Discovery_, 2021. 
+_Data Mining and Knowledge Discovery_, 2021. 
 
 L. Hammond and V. Belle.
 
