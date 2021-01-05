@@ -4,6 +4,13 @@ title: News
 permalink: /news/
 ---
 
+**Jan 05, 2021**
+
+**3 journal papers accepted**
+
+Three journal papers have been accepted, all on tractable probabilistic models. With Andreas and Stefanie, a continuous variant is proposed. With Michael, modeling fairness is considered. And with Lewis, the learning of moral responsibility is investigated. 
+
+
 **Oct 22, 2020**
 
 **Talk at AI, ethics & society**

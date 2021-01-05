@@ -4,24 +4,24 @@ title: Papers
 permalink: /papers/
 ---
 
-[**Principles and practice of explainable machine learning.**](https://arxiv.org/abs/2009.11698) 
+[** Probabilistic Tractable Models in Mixed Discrete-Continuous Domains**](https://www.mitpressjournals.org/doi/abs/10.1162/dint_a_00064). 
 
-_Working paper, 2020._
+_Data Intelligence_, 2021. 
 
-V. Belle and I. Papantonis.
+A. Bueff, S. Speichert and V. Belle. 
 
-[**Tractable probabilistic models: a causal perspective.**](https://arxiv.org/abs/2001.10905) 
 
-_Working paper, 2020._
+[** Fairness in Machine Learning with Tractable Models**](/attachments/fair.pdf).
 
-I. Papantonis and V. Belle.
+_ Knowledge-Based Systems_, 2021. 
 
-[**Probabilistic and causal prior constraints in tractable probabilistic models.**](https://arxiv.org/abs/2001.11349) 
+M. Varley and V. Belle. 
 
-_Working paper, 2020._
+[**Tractable Probabilistic Models for Moral Responsibility and Blame**](/attachments/moral.pdf).
 
-I. Papantonis and V. Belle.
+_ Data Mining and Knowledge Discovery_, 2021. 
 
+L. Hammond and V. Belle.
 
 [**Semiring Programming: A Semantic Framework for Generalized Sum Product Problems**](/attachments/semi.pdf).
 
