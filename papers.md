@@ -4,16 +4,16 @@ title: Papers
 permalink: /papers/
 ---
 
-[** Probabilistic Tractable Models in Mixed Discrete-Continuous Domains**](https://www.mitpressjournals.org/doi/abs/10.1162/dint_a_00064). 
+[**Probabilistic Tractable Models in Mixed Discrete-Continuous Domains**](https://www.mitpressjournals.org/doi/abs/10.1162/dint_a_00064). 
 
 _Data Intelligence_, 2021. 
 
 A. Bueff, S. Speichert and V. Belle. 
 
 
-[** Fairness in Machine Learning with Tractable Models**](/attachments/fair.pdf).
+[**Fairness in Machine Learning with Tractable Models**](/attachments/fair.pdf).
 
-_ Knowledge-Based Systems_, 2021. 
+_Knowledge-Based Systems_, 2021. 
 
 M. Varley and V. Belle. 
 
