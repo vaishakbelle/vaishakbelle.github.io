@@ -4,7 +4,7 @@ title: Papers
 permalink: /papers/
 ---
 
-**_[DBLP](https://dblp.org/pid/52/570) or [Scholar](http://scholar.google.co.uk/citations?user=iQNOnjEAAAAJ) might be updated more regularly._** 
+**_[DBLP](https://dblp.org/pid/52/570), [Research Explorer](https://www.research.ed.ac.uk/portal/en/persons/vaishak-belle(bd14c9d9-1e8b-4816-b547-d3727e0d8537)/publications.html) or [Scholar](http://scholar.google.co.uk/citations?user=iQNOnjEAAAAJ) might be updated more regularly._** 
 
 [**Probabilistic Tractable Models in Mixed Discrete-Continuous Domains**](https://www.mitpressjournals.org/doi/abs/10.1162/dint_a_00064). 
 
