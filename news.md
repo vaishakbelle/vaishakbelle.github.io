@@ -4,7 +4,7 @@ title: News
 permalink: /news/
 ---
 
-**_My [twitter feed](https://twitter.com/vaishakbelle) might be updated more regularly._**
+<!--**_My [twitter feed](https://twitter.com/vaishakbelle) might be updated more regularly._**-->
 
 **Jan 05, 2021**
 
