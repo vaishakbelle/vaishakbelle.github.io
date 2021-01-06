@@ -4,6 +4,8 @@ title: Papers
 permalink: /papers/
 ---
 
+*[DBLP](https://dblp.org/pid/52/570) or [Scholar](http://scholar.google.co.uk/citations?user=iQNOnjEAAAAJ) might be updated more regularly.*
+
 [**Probabilistic Tractable Models in Mixed Discrete-Continuous Domains**](https://www.mitpressjournals.org/doi/abs/10.1162/dint_a_00064). 
 
 _Data Intelligence_, 2021. 

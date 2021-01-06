@@ -4,6 +4,8 @@ title: News
 permalink: /news/
 ---
 
+*My [twitter feed](https://twitter.com/vaishakbelle) might be updated more regularly.*
+
 **Jan 05, 2021**
 
 **3 journal papers accepted**
