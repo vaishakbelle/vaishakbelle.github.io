@@ -6,6 +6,10 @@ permalink: /news/
 
 <!--**_My [twitter feed](https://twitter.com/vaishakbelle) might be updated more regularly._**-->
 
+**Jan 19, 2021** 
+
+co-organising a [workshop on deep learning & logic](https://research.samsung.com/news/-When-deep-learning-meets-logic-a-three-days-virtual-workshop-on-neural-symbolic-integration-sponsored-by-Samsung-Research)
+
 **Jan 05, 2021**
 
 **3 journal papers accepted**
