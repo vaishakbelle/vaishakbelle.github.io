@@ -10,7 +10,7 @@ permalink: /news/
 
 **Workshop on deep learning and logic** 
 
-co-organising a [workshop on deep learning & logic](https://research.samsung.com/news/-When-deep-learning-meets-logic-a-three-days-virtual-workshop-on-neural-symbolic-integration-sponsored-by-Samsung-Research)
+Together with Efi, Loizos & Phokion, we are co-organising a [workshop on deep learning & logic.](https://research.samsung.com/news/-When-deep-learning-meets-logic-a-three-days-virtual-workshop-on-neural-symbolic-integration-sponsored-by-Samsung-Research)
 
 **Jan 05, 2021**
 
