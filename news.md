@@ -6,6 +6,24 @@ permalink: /news/
 
 <!--**_My [twitter feed](https://twitter.com/vaishakbelle) might be updated more regularly._**-->
 
+
+
+
+
+**Mar 21, 2021** 
+
+**AIUK** 
+
+Will be speaking at the [AIUK event](https://twitter.com/vaishakbelle/status/1369970093363449858?s=20) on principles and practice of interpretability in machine learning. 
+
+**Feb 8, 2021** 
+
+**KRML** 
+
+Will be co-chairing a special session on knowledge representation & machine learning at KR-2021.
+ 
+
+
 **Jan 19, 2021** 
 
 **Workshop on deep learning and logic** 
