@@ -11,7 +11,7 @@ permalink: /news/
 
 **Dagstuhl seminar on Trustworthiness and Responsibility in AI** 
 
-Sriraam, Shannon, Kush, Hana and I are excited to be organizing a dagstuhl seminar on Trustworthiness and Responsibility in AI. [Link here.](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22071) 
+Sriraam, Shannon, Kush, Joost, Hana and I are excited to be organizing a dagstuhl seminar on Trustworthiness and Responsibility in AI. [Link here.](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22071) 
 
 
 
