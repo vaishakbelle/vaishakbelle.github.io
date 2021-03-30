@@ -6,11 +6,11 @@ permalink: /papers/
 
 <!--**_[DBLP](https://dblp.org/pid/52/570), [Research Explorer](https://www.research.ed.ac.uk/portal/en/persons/vaishak-belle(bd14c9d9-1e8b-4816-b547-d3727e0d8537)/publications.html) or [Scholar](http://scholar.google.co.uk/citations?user=iQNOnjEAAAAJ) might be updated more regularly._**--> 
 
-[**Probabilistic Tractable Models in Mixed Discrete-Continuous Domains**](https://www.mitpressjournals.org/doi/abs/10.1162/dint_a_00064). 
+[**Closed-Form Results for Prior Constraints in Sum-Product Networks**](https://www.frontiersin.org/articles/10.3389/frai.2021.644062/abstract). 
 
-_Data Intelligence_, 2021. 
+_Frontiers in artificial intelligence_, 2021. 
 
-A. Bueff, S. Speichert and V. Belle. 
+I. Papantonis and V. Belle. 
 
 
 [**Fairness in Machine Learning with Tractable Models**](/attachments/fair.pdf).
@@ -24,6 +24,13 @@ M. Varley and V. Belle.
 _Data Mining and Knowledge Discovery_, 2021. 
 
 L. Hammond and V. Belle.
+
+[**Probabilistic Tractable Models in Mixed Discrete-Continuous Domains**](https://www.mitpressjournals.org/doi/abs/10.1162/dint_a_00064). 
+
+_Data Intelligence_, 2021. 
+
+A. Bueff, S. Speichert and V. Belle. 
+
 
 [**Semiring Programming: A Semantic Framework for Generalized Sum Product Problems**](/attachments/semi.pdf).
 
