@@ -8,7 +8,17 @@ permalink: /news/
 
 
 
+**Mar 30, 2021** 
 
+**Project on trustworthy systems** 
+
+A consortia project on trustworthy systems and goverance was accepted late last year. [News link here.](https://www.ed.ac.uk/informatics/news-events/stories/2020/3-2-million-project-governance-regulation-machines)
+
+**Mar 22, 2021** 
+
+**Prior constraints** 
+
+A journal paper has been accepted on prior constraints in tractable probabilistic models, available on the papers tab. Congratulations Giannis! 
 
 **Mar 21, 2021** 
 
