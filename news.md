@@ -7,8 +7,15 @@ permalink: /news/
 <!--**_My [twitter feed](https://twitter.com/vaishakbelle) might be updated more regularly._**-->
 
 
-
 **Mar 30, 2021** 
+
+**Dagstuhl seminar on Trustworthiness and Responsibility in AI** 
+
+Sriraam, Shannon, Kush, Hana and I are excited to be organizing a dagstuhl seminar on Trustworthiness and Responsibility in AI. [Link here.](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22071) 
+
+
+
+**Mar 25, 2021** 
 
 **Project on trustworthy systems** 
 
