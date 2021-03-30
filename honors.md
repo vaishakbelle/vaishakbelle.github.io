@@ -42,6 +42,8 @@ I am consulting and collaborating with a number of industry and educational part
 Funding 
 --------
 
+
+*   [Consortia project on trustworthy systems](https://www.ed.ac.uk/informatics/news-events/stories/2020/3-2-million-project-governance-regulation-machines), UKRI Trustworthy Autonomous Systems Programme, 2020 
 *   Royal Society University Research Fellowship, __Efficient Inference and Learning in Probabilistic Logical Models__, 2019
 *   EPSRC IAA (with Raffaella Calabrese), __Explainable AI for credit risk__, 2019
 *   Industry supported studentship (with James Cheney), __Probabilistic property-based testing__, 2018
