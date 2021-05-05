@@ -6,6 +6,12 @@ permalink: /papers/
 
 <!--**_[DBLP](https://dblp.org/pid/52/570), [Research Explorer](https://www.research.ed.ac.uk/portal/en/persons/vaishak-belle(bd14c9d9-1e8b-4816-b547-d3727e0d8537)/publications.html) or [Scholar](http://scholar.google.co.uk/citations?user=iQNOnjEAAAAJ) might be updated more regularly._**--> 
 
+[**Learning Implicitly with Noisy Data in Linear Arithmetic**](https://arxiv.org/pdf/2010.12619.pdf). 
+
+_IJCAI_, 2021. 
+
+A. Rader, I. Mocanu, V. Belle, and B. Juba. 
+
 [**Closed-Form Results for Prior Constraints in Sum-Product Networks**](https://www.frontiersin.org/articles/10.3389/frai.2021.644062/abstract). 
 
 _Frontiers in artificial intelligence_, 2021. 
