@@ -10,7 +10,8 @@ permalink: /news/
 
 **Paper on learning linear programming objectives accepted at IJCAI** 
 
-Congrats to Gini and Alex on getting this paper accepted on implicit learning. [Preprint here.](/papers/)
+We have a new paper accepted on learning optimal linear programming objectives. We take an “implicit“ hypothesis construction approach that yields nice theoretical bounds. 
+Congrats to Gini and Alex on getting this paper accepted. [Preprint here.](/papers/)
 
 **Mar 30, 2021** 
 
