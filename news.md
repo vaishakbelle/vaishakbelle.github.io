@@ -6,6 +6,11 @@ permalink: /news/
 
 <!--**_My [twitter feed](https://twitter.com/vaishakbelle) might be updated more regularly._**-->
 
+**May 5, 2021** 
+
+**Paper on learning linear programming objectives accepted at IJCAI** 
+
+Congrats to Gini and Alex on getting this paper accepted on implicit learning. [Preprint here.](/papers/)
 
 **Mar 30, 2021** 
 
