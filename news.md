@@ -10,7 +10,7 @@ permalink: /news/
 
 **Paper on weighted model counting at SAT** 
 
-Weighted model counting often assumes that weights are only specified on literals, often necessitating the need to introduce auxillary variables. We consider a new approached based on psuedo-Boolean functions, leading to SOTA. 
+Weighted model counting often assumes that weights are only specified on literals, often necessitating the need to introduce auxillary variables. We consider a new approach based on psuedo-Boolean functions, leading to a more general definition. Empirically, we also get SOTA results. 
 
 **May 5, 2021** 
 
