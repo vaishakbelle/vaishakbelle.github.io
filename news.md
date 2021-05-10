@@ -8,13 +8,13 @@ permalink: /news/
 
 **May 10, 2021** 
 
-**Paper on weighted model counting at SAT** 
+**Paper on weighted model counting at SAT-2021** 
 
 Weighted model counting often assumes that weights are only specified on literals, often necessitating the need to introduce auxillary variables. We consider a new approach based on psuedo-Boolean functions, leading to a more general definition. Empirically, we also get SOTA results. 
 
 **May 5, 2021** 
 
-**Paper on learning linear programming objectives accepted at IJCAI** 
+**Paper on learning linear programming objectives accepted at IJCAI-2021** 
 
 We have a new paper accepted on learning optimal linear programming objectives. We take an “implicit“ hypothesis construction approach that yields nice theoretical bounds. 
 Congrats to Gini and Alex on getting this paper accepted. [Preprint here.](/papers/)
