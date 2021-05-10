@@ -10,7 +10,7 @@ permalink: /papers/
 
 _SAT_, 2021. 
 
-P. Dilkas, and V. Belle.
+P. Dilkas and V. Belle.
 
 [**Learning Implicitly with Noisy Data in Linear Arithmetic**](https://arxiv.org/pdf/2010.12619.pdf). 
 
