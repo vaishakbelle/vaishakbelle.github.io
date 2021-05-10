@@ -6,6 +6,12 @@ permalink: /papers/
 
 <!--**_[DBLP](https://dblp.org/pid/52/570), [Research Explorer](https://www.research.ed.ac.uk/portal/en/persons/vaishak-belle(bd14c9d9-1e8b-4816-b547-d3727e0d8537)/publications.html) or [Scholar](http://scholar.google.co.uk/citations?user=iQNOnjEAAAAJ) might be updated more regularly._**--> 
 
+[**Weighted Model Counting Without Parameter Variables**](https://www.iiia.csic.es/sat2021/)
+
+_SAT_, 2021. 
+
+P. Dilkas, and V. Belle.
+
 [**Learning Implicitly with Noisy Data in Linear Arithmetic**](https://arxiv.org/pdf/2010.12619.pdf). 
 
 _IJCAI_, 2021. 
