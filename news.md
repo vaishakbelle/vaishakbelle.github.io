@@ -6,6 +6,12 @@ permalink: /news/
 
 <!--**_My [twitter feed](https://twitter.com/vaishakbelle) might be updated more regularly._**-->
 
+**May 10, 2021** 
+
+**Paper on weighted model counting at SAT** 
+
+Weighted model counting often assumes that weights are only specified on literals, often necessitating the need to introduce auxillary variables. We consider a new approached based on psuedo-Boolean functions, leading to SOTA. 
+
 **May 5, 2021** 
 
 **Paper on learning linear programming objectives accepted at IJCAI** 
