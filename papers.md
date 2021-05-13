@@ -18,12 +18,7 @@ _UAI_, 2021.
 P. Dilkas and V. Belle.
 
 
-[**Weighted Model Counting with Conditional Weights for Bayesian Networks**](https://auai.org/uai2021/)
 
-_UAI, 2021. 
-
-
-P. Dilkas and V. Belle.
 
 
 [**Weighted Model Counting Without Parameter Variables**](https://www.iiia.csic.es/sat2021/)
