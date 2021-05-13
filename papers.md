@@ -4,7 +4,27 @@ title: Papers
 permalink: /papers/
 ---
 
-<!--**_[DBLP](https://dblp.org/pid/52/570), [Research Explorer](https://www.research.ed.ac.uk/portal/en/persons/vaishak-belle(bd14c9d9-1e8b-4816-b547-d3727e0d8537)/publications.html) or [Scholar](http://scholar.google.co.uk/citations?user=iQNOnjEAAAAJ) might be updated more regularly._**--> 
+[**Lifted Reasoning Meets Weighted Model Integration**](https://auai.org/uai2021/)
+
+_UAI_, 2021.
+
+J. Feldstein and V. Belle. 
+
+[**Weighted Model Counting with Conditional Weights for Bayesian Networks**](https://auai.org/uai2021/)
+
+_UAI_, 2021. 
+
+
+P. Dilkas and V. Belle.
+
+
+[**Weighted Model Counting with Conditional Weights for Bayesian Networks**](https://auai.org/uai2021/)
+
+_UAI, 2021. 
+
+
+P. Dilkas and V. Belle.
+
 
 [**Weighted Model Counting Without Parameter Variables**](https://www.iiia.csic.es/sat2021/)
 
@@ -764,4 +784,5 @@ _ICPR_, 2008.
 
 V. Belle, T. Deselaers and S. Schiffer.
 
+<!--**_[DBLP](https://dblp.org/pid/52/570), [Research Explorer](https://www.research.ed.ac.uk/portal/en/persons/vaishak-belle(bd14c9d9-1e8b-4816-b547-d3727e0d8537)/publications.html) or [Scholar](http://scholar.google.co.uk/citations?user=iQNOnjEAAAAJ) might be updated more regularly._**--> 
 
