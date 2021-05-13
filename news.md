@@ -10,7 +10,7 @@ permalink: /news/
 
 **Two papers on probabilistic inference at UAI-2021** 
 
-The first paper considers a lifted approached to weighted model integration. The second develops a measure-theoretic perspective on weighted model counting and proposes a way to encode conditional weights on literals analogously to conditional probabilities, which leads to significant performance improvements. 
+Jonathan's paper considers a lifted approached to weighted model integration, including circuit construction. Paulius' paper develops a measure-theoretic perspective on weighted model counting and proposes a way to encode conditional weights on literals analogously to conditional probabilities, which leads to significant performance improvements. 
 
 **Paper on weighted model counting at SAT-2021** 
 
