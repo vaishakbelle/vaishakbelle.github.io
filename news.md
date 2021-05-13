@@ -39,7 +39,7 @@ A consortia project on trustworthy systems and goverance was accepted late last 
 
 **Mar 22, 2021** 
 
-**Prior constraints** 
+**Journal paper on prior constraints in tractable models** 
 
 A journal paper has been accepted on prior constraints in tractable probabilistic models, available on the papers tab. Congratulations Giannis! 
 
