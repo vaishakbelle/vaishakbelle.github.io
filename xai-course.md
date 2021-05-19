@@ -1,8 +1,8 @@
----
+<!-- ---
 layout: page  
-title: 
+title: XAI 
 permalink: /xai-course/
---- 
+--- -->
 
 
 
