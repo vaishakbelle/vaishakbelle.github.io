@@ -34,3 +34,12 @@ Course Duration: 3 months (the final month for assignments only)
 Method of Assessment: Coursework 100% (2 coding assignments and a final coding project)
 
 Level:  This is an intermediate Masters-level course (SCQF Level 11). It develops your skills and/or provides a broad understanding of the subject in some detail - some foundational knowledge is required. Please see the entry requirements for further details. Masters-level courses are relatively intensive and require independent learning, critical thinking, analysis and reflection.
+
+## Lectures and topics
+
+- Preface to ML 
+- Preface to XAI: concepts, ideas, discussions 
+- Frameworks
+- 6 XAI techniques (SHAP, InTrees, Anchors, PDP, Counterfactuals, Deletion diagnostics)
+- Advanced techniques & deep learning strategies
+- Future research directions 
