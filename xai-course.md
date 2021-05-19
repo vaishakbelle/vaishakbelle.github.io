@@ -1,6 +1,6 @@
 ---
 layout: page  
-permalink: /xai/
+permalink: /xai-course/
 --- 
 
 
