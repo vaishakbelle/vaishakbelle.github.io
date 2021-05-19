@@ -1,15 +1,13 @@
 ---
 layout: page  
+title: 
 permalink: /xai-course/
 --- 
 
 
 
-## Course on explainable machine learning (XAI)
+## A course on explainable machine learning (XAI)
 
-
-
-## Course abstract
 
 Artificial intelligence (AI) provides many opportunities to improve private and public life. Discovering patterns and structures in large troves of data in an automated manneris a core component of data science, and currently drives applications in diverse areas such as computational biology, law and finance. However, such a highly positive impact
 
