@@ -1,3 +1,9 @@
+-------
+layout: page
+title: XAI
+permalink: /xai/
+------- 
+
 
 ## Course on explainable machine learning (XAI)
 
