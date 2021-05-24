@@ -8,7 +8,7 @@ permalink: /news/
 
 **A course on explainable machine learning** 
 
-I will be teaching a course or explainability machine learning, a practical introduction, supported by  Andreas Bueff and others. [Link here](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/courses/explainable-machine-learning-a-practical-intro). 
+I will be teaching a course on explainability machine learning, a practical introduction, supported by  Andreas Bueff and others. [Link here](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/courses/explainable-machine-learning-a-practical-intro). 
 
 **May 10, 2021** 
 
