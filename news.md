@@ -4,7 +4,11 @@ title: News
 permalink: /news/
 ---
 
-<!--**_My [twitter feed](https://twitter.com/vaishakbelle) might be updated more regularly._**-->
+**May 24, 2021**
+
+**A course on explainable machine learning** 
+
+I will be teaching a course or explainability machine learning, a practical introduction, supported by  Andreas Bueff and others. [Link here](https://www.ed.ac.uk/bayes/about-us/our-work/education/workforce-development/courses/explainable-machine-learning-a-practical-intro). 
 
 **May 10, 2021** 
 
