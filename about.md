@@ -4,9 +4,12 @@ title: About
 permalink: /about/
 ---
 
+<!--
+
+<img src="/VaishakBelle2019.jpg" width="500">--> 
 
 
-<img src="/VaishakBelle2019.jpg" width="500">
+<img src="/vaishak.JPG" >
 
 **PhD (2012), MSc (2008), Laurea Specialistica (2008)** 
 
