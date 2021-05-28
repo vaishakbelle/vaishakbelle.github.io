@@ -36,7 +36,6 @@ For example, our recent work has touched upon:
 *   [model abstraction for explainability](https://arxiv.org/pdf/1810.02434) 
 *   [strategies for interpretable & responsible AI](/attachments/biochem.pdf) 
 
-For more information, please check our papers. 
 
 **Faculty:** Vaishak Belle 
 
