@@ -5,7 +5,7 @@ permalink: /lab/
 ---
 
 
-The Lab carries out research in **artificial intelligence**, by unifying ideas from **machine learning** and **symbolic systems (logics, programs & plans)**, with a recent emphasis on *explainability* and *ethics*.
+The Lab carries out research in **artificial intelligence**, by unifying ideas from **machine learning** and **logic**, with a recent emphasis on *explainability* and *ethics*.
 
 <img src="/uni.png" width="450"> 
 
@@ -59,17 +59,7 @@ For more information, please check our papers.
 
 *   _Samuel Kolb_ (PhD 2019, KU Leuven, with Luc De Raedt), interested in inference for hybrid domains
 *   _Amélie Levray_ (Postdoctoral fellow), interested in tractable learning with credal networks
-*   _Stefanie Speichert_ (Msc, 2018), interested in program induction
-*   _Anton Fuxjaeger_ (Msc, 2019), interested in applications of tractable models to deep learning 
 *   _Davide Nitti_ (PhD 2016, KU Leuven, with Luc De Raedt), interested in machine learning for hybrid domains
-*   _Jazon Szabo_ (BSc, 2019), interested in modal logics for causality
-*   _Himan Mookherjee (Msc, 2018)_ (principal supervisor: James Cheney), interested in machine learning for anomaly detection
-*   _Michael Varley_ (MSc, 2018), interested in algorithmic fairness
-*   _Lewis Hammond_ (MSc, 2018), interested in responsible decision making
-*   _Laszlo Treszkai_ (MSc, 2018), interested in probabilistic planning
-*   _Amit Parag_ (MSc by Research, 2019), interested in machine learning for physics
-*   _Rose Khan_ (MSc, 2017), interested in default reasoning
-*   _Nazgul Tazhigaliyeva_ (MSc, 2017), interested in model counting
 
 **Visitors:**
 
