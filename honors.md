@@ -42,7 +42,7 @@ I am consulting and collaborating with a number of industry and educational part
 Funding 
 --------
 
-
+* AHRC grant on experential AI (with Drew Hemment), **The New Real – Trust and acceptance in networked, online experiences to enable and support post-COVID19 recovery** 
 *   [Consortia project on trustworthy systems](https://www.ed.ac.uk/informatics/news-events/stories/2020/3-2-million-project-governance-regulation-machines), UKRI Trustworthy Autonomous Systems Programme, 2020 
 *   Royal Society University Research Fellowship, __Efficient Inference and Learning in Probabilistic Logical Models__, 2019
 *   EPSRC IAA (with Raffaella Calabrese), __Explainable AI for credit risk__, 2019
@@ -54,7 +54,7 @@ Funding
 Service
 -------
 
-*   An archive of scientific events that I  organized and/or participated in [can be found here](/news)
+*   An archive of scientific events that I  organized and/or participated in [can be found here](/talks)
 *   __Co-Chair__ of KR-ML special track, KR 2021
 *   __Co-Organizer__ of Dagstuhl seminar on [trustworthy AI](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22071), Dagstuhl 2021
 *   __Co-Chair__ of Doctoral Consortium, KR 2020
