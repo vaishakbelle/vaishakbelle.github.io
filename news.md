@@ -8,7 +8,7 @@ permalink: /news/
 
 **Talk on XAI**
 
-I’ll be giving a talk on explainable AI at Lancaster University (Leipzig) Symposium on Intelligent Systems (LEISYS) on July 22
+I’ll be giving a talk on explainable AI at [Lancaster University (Leipzig) Symposium on Intelligent Systems (LEISYS) on July 22.](https://www.lancasterleipzig.de/events/leipzig-symposium)
 
 **May 17, 2021** 
 
@@ -20,13 +20,13 @@ Will be giving a talk on logic & learning at LMU Munich, drawing from my SUM-202
 
 **Talk on explainable machine learning**
 
-Gave a talk this Monday on the principles & practice of machine learning, covering motivations & insights from our survey paper. Key questions raised included, how to: extract intelligible explanations + modify the model to fit changing needs. 
+[Gave a talk this Monday](https://t.co/YNsYuESB7i?amp=1) in Edinburgh on the principles & practice of machine learning, covering motivations & insights from our survey paper. Key questions raised included, how to: extract intelligible explanations + modify the model to fit changing needs. 
 
 **May 31, 2021** 
 
 **Journal paper on explainable machine learning accepted**
 
-Our work (with Giannis) surveying and distilling approaches to explainability in machine learning has been accepted. Preprint here, but the final version will be online and open access soon.
+Our work (with Giannis) surveying and distilling approaches to explainability in machine learning has been accepted. [Preprint here](/papers), but the final version will be online and open access soon.
 
 **May 24, 2021**
 
