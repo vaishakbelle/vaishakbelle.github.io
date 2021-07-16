@@ -1,15 +1,16 @@
 ---
 layout: page
-title: News & Talks
+title: Talks
 permalink: /talks/
 ---
+For an archive of seminars, invited talks and other announcements can be found [here](/news/) and [in my twitter feed](https://twitter.com/vaishakbelle).
 
 <!--For an archive of seminars, invited talks and other announcements can be found [here](/news/) and [in my twitter feed](https://twitter.com/vaishakbelle). *   [Towards Intepretable & Responsible AI](/2018/10/24/towards-intepretable-responsible-ai.html) [**(video)**](https://www.youtube.com/watch?v=yA6DD9kjzLE&t=1s)
 *   [Tutorial on unifying logic, probability and dynamics](/2017/08/12/tutorial-on-unifying-logic-dynamics-and.html)
 *   [Probabilistic Planning by Probabilistic Programming: Semantics, Inference and Learning](/2018/10/28/probabilistic-planning-by-probabilistic.html)
-*   [Effective inference and learning with probabilistic logical models in continuous domains](/2018/08/28/acai-2018-summer-school-on-statistical-relational.html) [**(video)**](https://www.youtube.com/watch?v=KE00My6cLcQ&t=2s) -->
+*   [Effective inference and learning with probabilistic logical models in continuous domains](/2018/08/28/acai-2018-summer-school-on-statistical-relational.html) [**(video)**](https://www.youtube.com/watch?v=KE00My6cLcQ&t=2s) 
 
-For **seminars, invited talks** and other **announcements,** I mostly use [twitter.](https://twitter.com/vaishakbelle) *But* for posterity sake, I also keep [this report](https://spikenow.com/collab/?id=SIjnWE9remXL6vPKrgF3FIYvY9B1tSApaCFpyvyQIDQ). 
+For **seminars, invited talks** and other **announcements,** I mostly use [twitter.](https://twitter.com/vaishakbelle) *But* for posterity sake, I also keep [this report](https://spikenow.com/collab/?id=SIjnWE9remXL6vPKrgF3FIYvY9B1tSApaCFpyvyQIDQ). -->
 
 A few **video recordings** of the talks can be found [here (for invited talks)](https://www.youtube.com/playlist?list=PLI5qUrwTNc7PBkjEhOHsF8xZ0rwc8zWzy) and [here (for conference presentations)](https://www.youtube.com/playlist?list=PLI5qUrwTNc7NoPeQYyfBObap4sCdsw5xJ). 
 
