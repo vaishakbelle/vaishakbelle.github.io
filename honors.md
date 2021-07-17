@@ -54,7 +54,7 @@ Funding
 Service
 -------
 
-*   An archive of scientific events that I  organized and/or participated in [can be found here](/talks)
+*   An archive of scientific events that I  organized and/or participated in [can be found here](/news)
 *   __Co-Chair__ of KR-ML special track, KR 2021
 *   __Co-Organizer__ of Dagstuhl seminar on [trustworthy AI](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22071), Dagstuhl 2021
 *   __Co-Chair__ of Doctoral Consortium, KR 2020
