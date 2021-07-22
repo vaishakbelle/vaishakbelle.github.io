@@ -34,39 +34,39 @@ _SAT_, 2021.
 
 P. Dilkas and V. Belle.
 
-[**Learning Implicitly with Noisy Data in Linear Arithmetic.**](https://arxiv.org/pdf/2010.12619.pdf). 
+[**Learning Implicitly with Noisy Data in Linear Arithmetic.**](https://arxiv.org/pdf/2010.12619.pdf) 
 
 _IJCAI_, 2021. 
 
 A. Rader, I. Mocanu, V. Belle, and B. Juba. 
 
-[**Closed-Form Results for Prior Constraints in Sum-Product Networks.**](https://www.frontiersin.org/articles/10.3389/frai.2021.644062/abstract). 
+[**Closed-Form Results for Prior Constraints in Sum-Product Networks.**](https://www.frontiersin.org/articles/10.3389/frai.2021.644062/abstract) 
 
 _Frontiers in artificial intelligence_, 2021. 
 
 I. Papantonis and V. Belle. 
 
 
-[**Fairness in Machine Learning with Tractable Models.**](/attachments/fair.pdf).
+[**Fairness in Machine Learning with Tractable Models.**](/attachments/fair.pdf)
 
 _Knowledge-Based Systems_, 2021. 
 
 M. Varley and V. Belle. 
 
-[**Tractable Probabilistic Models for Moral Responsibility and Blame.**](/attachments/moral.pdf).
+[**Tractable Probabilistic Models for Moral Responsibility and Blame.**](/attachments/moral.pdf)
 
 _Data Mining and Knowledge Discovery_, 2021. 
 
 L. Hammond and V. Belle.
 
-[**Probabilistic Tractable Models in Mixed Discrete-Continuous Domains.**](https://www.mitpressjournals.org/doi/abs/10.1162/dint_a_00064). 
+[**Probabilistic Tractable Models in Mixed Discrete-Continuous Domains.**](https://www.mitpressjournals.org/doi/abs/10.1162/dint_a_00064)
 
 _Data Intelligence_, 2021. 
 
 A. Bueff, S. Speichert and V. Belle. 
 
 
-[**Semiring Programming: A Semantic Framework for Generalized Sum Product Problems.**](/attachments/semi.pdf).
+[**Semiring Programming: A Semantic Framework for Generalized Sum Product Problems.**](/attachments/semi.pdf)
 
 _International Journal of Approximate Reasoning_, 2020.
 
