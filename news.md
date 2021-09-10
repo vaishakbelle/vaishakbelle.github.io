@@ -4,6 +4,14 @@ title: News
 permalink: /news/
 --- 
 
+**Sept 9, 2021** 
+
+ I gave an invited talk on “Logic & Learning: From Aristotle to Neural Networks” at the [AISEC annual workshop.](https://www.macs.hw.ac.uk/aisec/index.php/events/industrial-workshop-2021)
+
+**Sept 8, 2021**
+
+I served on an invited panel on "robotics & automation" at the [Pharma Data & SmartLabs Congress, 2021.](https://app.swapcard.com/event/pharma-data-and-smartlabs-congress/products/RXZlbnRWaWV3XzI3MzAxNw==?)
+
 **July 6, 2021** 
 
 **Talk on XAI**
