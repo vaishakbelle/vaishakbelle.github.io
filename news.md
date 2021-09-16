@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 --- 
 
+** Sept 16, 2021** 
+
+I gave an invited tutorial the [Bath CDT Art-AI](https://twitter.com/ARTAIBath/status/1438455567824166913?s=20). I covered current trends and future trends on explainable machine learning.
+
 **Sept 9, 2021** 
 
  I gave an invited talk on “Logic & Learning: From Aristotle to Neural Networks” at the [AISEC annual workshop.](https://www.macs.hw.ac.uk/aisec/index.php/events/industrial-workshop-2021)
