@@ -4,7 +4,7 @@ title: News
 permalink: /news/
 --- 
 
-** Sept 16, 2021** 
+**Sept 16, 2021** 
 
 I gave an invited tutorial the [Bath CDT Art-AI](https://twitter.com/ARTAIBath/status/1438455567824166913?s=20). I covered current trends and future trends on explainable machine learning.
 
