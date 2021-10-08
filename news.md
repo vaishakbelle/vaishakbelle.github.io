@@ -4,6 +4,11 @@ title: News
 permalink: /news/
 --- 
 
+**Oct 8, 2021** 
+
+Interested in synthesizing the semantics of programming languages? We have a new paper on that, [accepted at OOPSLA.](/papers)
+
+
 **Sept 16, 2021** 
 
 I gave an invited tutorial the [Bath CDT Art-AI](https://twitter.com/ARTAIBath/status/1438455567824166913?s=20). I covered current trends and future trends on explainable machine learning.
