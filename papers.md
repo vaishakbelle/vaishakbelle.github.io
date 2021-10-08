@@ -4,6 +4,12 @@ title: Papers
 permalink: /papers/
 ---
 
+[**One Down, 699 to go: or, synthesizing compositional desugarings.**](https://arxiv.org/abs/2109.06114v1)
+
+_OOPSLA_, 2021.
+
+S. Bartha, J. Cheney, and V Belle. 
+
 [**Principles and Practice of Explainable Machine Learning.**](https://www.frontiersin.org/articles/10.3389/fdata.2021.688969/full)
 
 _Frontiers in Big Data_, 2021.
