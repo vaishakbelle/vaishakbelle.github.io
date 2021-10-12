@@ -6,7 +6,7 @@ permalink: /news/
 
 **Oct 12, 2021** 
 
-We have a new artificial intelligence journal paper on multi-agent epistemic planning, with collaborators from University of Toronto, Queen's University and University of Melbourne.(/papers) 
+We have a [new artificial intelligence journal paper on multi-agent epistemic planning](/papers), with collaborators from University of Toronto, Queen's University and University of Melbourne.
 
 **Oct 8, 2021** 
 
