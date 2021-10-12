@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 --- 
 
+**Oct 12, 2021** 
+
+We have a new artificial intelligence journal paper on multi-agent epistemic planning, with collaborators from University of Toronto, Queen's University and University of Melbourne.(/papers) 
+
 **Oct 8, 2021** 
 
 Interested in synthesizing the semantics of programming languages? We have a new paper on that, [accepted at OOPSLA.](/papers)
