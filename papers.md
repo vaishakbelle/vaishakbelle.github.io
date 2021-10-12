@@ -7,7 +7,7 @@ permalink: /papers/
 
 [**Efficient Multi-agent Epistemic Planning: Teaching Planners About Nested Belief.**](https://arxiv.org/abs/2110.02480) 
 
-_Artificial Intelligence Journal_, 2021. 
+_Artificial Intelligence_, 2021. 
 
  C. Muise, V. Belle, P. Felli, S. McIlraith, T. Miller, A. Pearce, A and L. Sonenberg. 
 
