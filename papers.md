@@ -4,6 +4,13 @@ title: Papers
 permalink: /papers/
 ---
 
+
+[**Efficient Multi-agent Epistemic Planning: Teaching Planners About Nested Belief.**](https://arxiv.org/abs/2110.02480) 
+
+_Artificial Intelligence Journal_, 2021. 
+
+ C. Muise, V. Belle, P. Felli, S. McIlraith, T. Miller, A. Pearce, A and L. Sonenberg. 
+
 [**One Down, 699 to go: or, synthesizing compositional desugarings.**](https://arxiv.org/abs/2109.06114v1)
 
 _OOPSLA_, 2021.
