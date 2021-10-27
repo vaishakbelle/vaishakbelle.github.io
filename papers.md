@@ -24,13 +24,13 @@ _Frontiers in Big Data_, 2021.
 I. Papantonis and V. Belle. 
 
 
-[**Lifted Reasoning Meets Weighted Model Integration**](https://auai.org/uai2021/)
+[**Lifted Reasoning Meets Weighted Model Integration.**](https://www.auai.org/uai2021/pdf/uai2021.138.pdf)
 
 _UAI_, 2021.
 
 J. Feldstein and V. Belle. 
 
-[**Weighted Model Counting with Conditional Weights for Bayesian Networks.**](https://auai.org/uai2021/)
+[**Weighted Model Counting with Conditional Weights for Bayesian Networks.**](https://www.auai.org/uai2021/pdf/uai2021.167.pdf)
 
 _UAI_, 2021. 
 
@@ -41,7 +41,7 @@ P. Dilkas and V. Belle.
 
 
 
-[**Weighted Model Counting Without Parameter Variables.**](https://www.iiia.csic.es/sat2021/)
+[**Weighted Model Counting Without Parameter Variables.**](https://www.pure.ed.ac.uk/ws/portalfiles/portal/213422322/Weighted_Model_Counting_DILKAS_DOA05052021_AFV.pdf)
 
 _SAT_, 2021. 
 
