@@ -4,6 +4,11 @@ title: News
 permalink: /news/
 --- 
 
+**Nov 4, 2021** 
+
+[sharing a preview of a book chapter, "Logic meets Learning: From Aristotle to Neural Networks"](/papers). Part of the exciting new book "Neuro-Symbolic Artificial Intelligence: The State of the Art" by Pascal Hitzler  and Md Kamruzzaman Sarker.
+ 
+
 **Oct 12, 2021** 
 
 We have a [new artificial intelligence journal paper on multi-agent epistemic planning](/papers), with collaborators from University of Toronto, Queen's University and University of Melbourne.
