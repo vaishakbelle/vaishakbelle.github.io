@@ -6,7 +6,7 @@ permalink: /news/
 
 **Nov 4, 2021** 
 
-[sharing a preview of a book chapter, "Logic meets Learning: From Aristotle to Neural Networks"](/papers). Part of the exciting new book "Neuro-Symbolic Artificial Intelligence: The State of the Art" by Pascal Hitzler  and Md Kamruzzaman Sarker.
+[Sharing a preview of a book chapter, "Logic meets Learning: From Aristotle to Neural Networks"](/papers). Part of the exciting new book "Neuro-Symbolic Artificial Intelligence: The State of the Art" by Pascal Hitzler  and Md Kamruzzaman Sarker.
  
 
 **Oct 12, 2021** 
