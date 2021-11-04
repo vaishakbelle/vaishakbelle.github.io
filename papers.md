@@ -4,6 +4,11 @@ title: Papers
 permalink: /papers/
 ---
 
+[**Logic meets Learning: From Aristotle to Neural Networks.**](/attachments/03-Belle.pdf) 
+
+_Neuro-Symbolic Artificial Intelligence: The State of the Art_, 2021. 
+
+ V. Belle. 
 
 [**Efficient Multi-agent Epistemic Planning: Teaching Planners About Nested Belief.**](https://arxiv.org/abs/2110.02480) 
 
