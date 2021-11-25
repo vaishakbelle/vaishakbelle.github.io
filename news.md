@@ -4,6 +4,11 @@ title: News
 permalink: /news/
 --- 
 
+**Nov 24, 2021** 
+
+Gave a talk on the chapter "Logic meets Learning: From Aristotle to Neural Networks" at the doctoral training center UnRAVeL – UNcertainty and Randomness in Algorithms, VErification and Logic in Aachen (Virtual). Thanks to Joost-Pieter for the invitation! [Link here](https://www.unravel.rwth-aachen.de/cms/UnRAVeL/Das-Graduiertenkolleg/Aktuelle-Veranstaltungen/~rjrar/Gastvortrag-/lidx/1/) 
+ 
+
 **Nov 4, 2021** 
 
 [Sharing a preview of a book chapter, "Logic meets Learning: From Aristotle to Neural Networks"](/papers). Part of the exciting new book "Neuro-Symbolic Artificial Intelligence: The State of the Art" by Pascal Hitzler  and Md Kamruzzaman Sarker.
