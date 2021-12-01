@@ -4,6 +4,12 @@ title: Papers
 permalink: /papers/
 ---
 
+**MultiplexNet: Towards Fully Satisfied Logical Constraints in Neural Networks.**
+
+_AAAI, 2022._ 
+
+N. Hoernle, R. Karampatsis,  V. Belle and K. Gal.
+
 [**Logic meets Learning: From Aristotle to Neural Networks.**](/attachments/03-Belle.pdf) 
 
 _Neuro-Symbolic Artificial Intelligence: The State of the Art_, 2021. 
