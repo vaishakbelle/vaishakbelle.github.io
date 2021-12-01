@@ -4,6 +4,11 @@ title: News
 permalink: /news/
 --- 
 
+**Dec 1, 2021** 
+
+Interested in training neural networks with logical constraints? We have a [new paper](/papers) that aims towards full satisfaction of Boolean and linear arithmetic constraints on training at AAAI-2022. Congrats to Nick and Rafael! 
+
+
 **Nov 24, 2021** 
 
 Gave a talk on the chapter "Logic meets Learning: From Aristotle to Neural Networks" at the doctoral training center UnRAVeL – UNcertainty and Randomness in Algorithms, VErification and Logic in Aachen (Virtual). Thanks to Joost-Pieter for the invitation! [Link here](https://www.unravel.rwth-aachen.de/cms/UnRAVeL/Das-Graduiertenkolleg/Aktuelle-Veranstaltungen/~rjrar/Gastvortrag-/lidx/1/) 
