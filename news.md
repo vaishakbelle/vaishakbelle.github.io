@@ -4,6 +4,11 @@ title: News
 permalink: /news/
 --- 
 
+
+**Dec 15, 2021** 
+
+Bjorn and I are advertising a 2 year postdoc on integrating causality, reasoning and knowledge graphs for misinformation detection. [See here.](https://twitter.com/bjoernross/status/1469273157156618256?s=20) 
+
 **Dec 1, 2021** 
 
 Interested in training neural networks with logical constraints? We have a [new paper](/papers) that aims towards full satisfaction of Boolean and linear arithmetic constraints on training at AAAI-2022. Congrats to Nick and Rafael! 
