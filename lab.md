@@ -5,7 +5,7 @@ permalink: /lab/
 ---
 
 
-The Lab carries out research in **artificial intelligence**, by unifying ideas from **machine learning** and **logic**, with a recent emphasis on *explainability* and *ethics*.
+The Lab carries out research in **artificial intelligence**, by unifying **learning** and **logic**, with a recent emphasis on *explainability* and *ethics*.
 
 <img src="/uni.png" width="450"> 
 
@@ -24,6 +24,7 @@ We are motivated by the need to augment _learning_ and _perception_ with _high-l
 *   automated reasoning
 *   modal logics (knowledge, action, belief)
 *   multi-agent systems and epistemic planning
+*   integrating causality and learning 
 
 For example, our recent work has touched upon: 
 
