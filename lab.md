@@ -41,24 +41,29 @@ For example, our recent work has touched upon:
 
 **Postdoctoral fellows and PhD students:**
 
-*   _Rafael Karampatsis_ (postdoc), interested in ML interpretability 
+
 *   _Paulius Dilkas_, interested in logical abstractions
 *   _Miguel Mendez Lucero_, interested in causality
 *   _Jonathan Feldstein_ (with James Cheney), interested in probabilistic programming
-*   _Eleanor Platt_ (with Amos Storkey), interested in interpretable deep learning
 *   _Fazl Barez_ (with Ekaterina Komendantskaya), interested in explainable AI
 *   _Giannis Papantonis_, interested in causality
 *   _Ionela-Georgiana Mocanu_, interested in PAC learning
 *   _Gary Smith_ (with Ron Petrick), interested in epistemic planning
 *   _Andreas Bueff_, interested in tractable learning and reinforcement learning
 *   _Sandor Bartha_ (with James Cheney), interested in program induction
+*   _Benedicte Legastelois_ (with TAS project collaborators), interested in explainability 
+*   _Xin Du_ (with TAS project collaborators), interested in explainability 
 
 
 **Alumni:**
 
 *   _Samuel Kolb_ (PhD 2019, KU Leuven, with Luc De Raedt), interested in inference for hybrid domains
-*   _Amélie Levray_ (Postdoctoral fellow), interested in tractable learning with credal networks
+*   _Amélie Levray_ (Postdoctoral fellow 2018-2019), interested in tractable learning with credal networks
 *   _Davide Nitti_ (PhD 2016, KU Leuven, with Luc De Raedt), interested in machine learning for hybrid domains
+*   _Eleanor Platt_ (research associate), interested in explainability 
+*   **MSc students**, including Stefanie Speichert (ILP in hybrid domains), Laszlo Treszkai (generalized planning), Lewis Hammond (moral responsibility), Michael Varley (Fairness)
+*   _Amit Parag_ (MscR 2019), interested in tractable models and cosmological simulations  
+*   _Rafael Karampatsis_ (Postdoctoral fellow 2019-2021), interested in ML interpretability 
 
 **Visitors:**
 
