@@ -52,8 +52,8 @@ For example, our recent work has touched upon:
 *   _Gary Smith_ (with Ron Petrick), interested in epistemic planning
 *   _Andreas Bueff_, interested in tractable learning and reinforcement learning
 *   _Sandor Bartha_ (with James Cheney), interested in program induction
-*   _Benedicte Legastelois_ (with TAS project collaborators), interested in explainability 
-*   _Xin Du_ (with TAS project collaborators), interested in explainability 
+*   _Benedicte Legastelois_ (Postdoctoral fellow with TAS project collaborators), interested in explainability 
+*   _Xin Du_ (Postdoctoral fellow with TAS project collaborators), interested in explainability 
 
 
 **Alumni:**
