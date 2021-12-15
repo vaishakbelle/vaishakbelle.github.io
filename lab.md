@@ -62,7 +62,7 @@ For example, our recent work has touched upon:
 *   _Amélie Levray_ (Postdoctoral fellow 2018-2019), interested in tractable learning with credal networks
 *   _Davide Nitti_ (PhD 2016, KU Leuven, with Luc De Raedt), interested in machine learning for hybrid domains
 *   _Eleanor Platt_ (research associate), interested in explainability 
-*   **MSc students**, including Stefanie Speichert (ILP in hybrid domains), Laszlo Treszkai (generalized planning), Lewis Hammond (moral responsibility), Michael Varley (Fairness)
+*   MSc students, including _Stefanie Speichert_ (ILP in hybrid domains), _Laszlo Treszkai_ (generalized planning), _Lewis Hammond_ (moral responsibility), _Michael Varley_ (Fairness)
 *   _Amit Parag_ (MscR 2019), interested in tractable models and cosmological simulations  
 *   _Rafael Karampatsis_ (Postdoctoral fellow 2019-2021), interested in ML interpretability 
 
