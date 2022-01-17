@@ -4,9 +4,9 @@ title: News
 permalink: /news/
 --- 
 
-**Jan 17, 2021** 
+**Jan 17, 2022** 
 
-Will be co-chairing the artificial intelligence track of the UK-Tunisia Joint Conference. Co-organised by the Royal Society and the Tunisian Ministry of Higher Education and Scientific Research, and with the support of the British Council in Tunisia, the UK/Tunisia bilateral meeting for early career researchers (ECRs), the conference will take place virtually on 17 January 2022. 
+Will be co-chairing the artificial intelligence track of the UK-Tunisia Joint Conference. Co-organised by the Royal Society and the Tunisian Ministry of Higher Education and Scientific Research, and with the support of the British Council in Tunisia, the UK/Tunisia bilateral meeting for early career researchers (ECRs), the conference will take place virtually. 
 
 **Dec 15, 2021** 
 
