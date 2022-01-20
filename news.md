@@ -4,7 +4,7 @@ title: News
 permalink: /news/
 --- 
 
-**Jan, 2022** 
+**Jan 20, 2022** 
 
 The book on neuro-symbolic systems by Md and Pascal, to which I contributed a chapter on learning and logic, is [out.](https://www.iospress.com/catalog/books/neuro-symbolic-artificial-intelligence-the-state-of-the-art) 
 
