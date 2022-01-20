@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 --- 
 
+** Jan, 2022** 
+
+The book on neuro-symbolic systems by Md and Pascal, to which I contributed a chapter on learning and logic, is [out.](https://www.iospress.com/catalog/books/neuro-symbolic-artificial-intelligence-the-state-of-the-art) 
+
 **Jan 17, 2022** 
 
 Will be co-chairing the artificial intelligence track of the UK-Tunisia Joint Conference. Co-organised by the Royal Society and the Tunisian Ministry of Higher Education and Scientific Research, and with the support of the British Council in Tunisia, the UK/Tunisia bilateral meeting for early career researchers (ECRs), the conference will take place virtually. 
