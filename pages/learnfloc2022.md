@@ -35,7 +35,7 @@ Duration: half day
 
 ## Speaker 
 
-[Vaishak Belle](vaishakbelle.com)
+[Vaishak Belle](https://vaishakbelle.com)
 
 
 
