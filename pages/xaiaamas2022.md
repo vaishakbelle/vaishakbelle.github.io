@@ -46,7 +46,7 @@ Duration: full day
 
 ## Speaker 
 
-[Vaishak Belle](vaishakbelle.com)
+[Vaishak Belle](https://vaishakbelle.com)
 
 
 
