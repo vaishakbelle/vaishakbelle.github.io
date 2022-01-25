@@ -1,4 +1,9 @@
 
+<!-- ---
+layout: page  
+title: XAI 
+permalink: /pages/
+--- -->
 
 
 ## Explainability in Machine Learning: A basic introduction for the uninitiated 
