@@ -1,18 +1,13 @@
-<!-- ---
-layout: page  
-title: XAI 
-permalink: /xai-course/
---- -->
 
 
 
 ## Explainability in Machine Learning: A basic introduction for the uninitiated 
 
-## To be held at [AAMAS-2022](https://aamas2022-conference.auckland.ac.nz) 
+## Tutorial to be held at [AAMAS-2022](https://aamas2022-conference.auckland.ac.nz) 
 
 ### Abstract 
 
-Explainability and interpretability has received considerable attention in almost all major AI conferences. However, the state of the art that is being published is dense, and inaccessible to most non-ML community members. How can the uninitiated AI researcher make sense and get herself acquainted with the literature? 
+Explainability and interpretability has received considerable attention in almost all major AI conferences. However, the state of the art that is being published is somewhat inaccessible to most non-ML community members. How can the uninitiated AI researcher make sense and get herself acquainted with the literature? 
 
 In this tutorial, we provide an introduction to the fundamentals and taxonomy of ML explainability. We emphasize the interactive nature of explanations, discuss two popular techniques in detail and conclude with challenges to the area of explainability. 
 
@@ -39,13 +34,10 @@ For a quick preview, see a brief at the [AIUK conference, starting at 35 min](ht
 
 ## Course Delivery Information
 
-Start Date: 01 June, 2021
+AAMAS-2022 tutorial dates are May 9-10, 2022
 
-Course Duration: 3 months (the final month for assignments only)
+Duration: full day
 
-Method of Assessment: Coursework 100% (2 coding assignments and a final coding project)
-
-Level:  This is an intermediate Masters-level course (SCQF Level 11). It develops your skills and/or provides a broad understanding of the subject in some detail - some foundational knowledge is required. Please see the entry requirements for further details. Masters-level courses are relatively intensive and require independent learning, critical thinking, analysis and reflection.
 
 ## Speaker 
 
