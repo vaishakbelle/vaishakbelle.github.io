@@ -39,7 +39,7 @@ For a quick preview, see a brief at the [AIUK conference, starting at 35 min](ht
 
 ## Course Delivery Information
 
-AAMAS-2022 tutorial dates are May 9-10, 2022
+AAMAS-2022 tutorial dates are May 9-10, 2022
 
 Duration: full day
 
