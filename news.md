@@ -4,6 +4,11 @@ title: News
 permalink: /news/
 --- 
 
+
+**Feb 23, 2022** 
+
+[Advertising a postdoctoral fellowship](https://twitter.com/vaishakbelle/status/1496127943822696450?s=20&t=Ryk--gxrWfMVb_Q4adircQ) on knowledge representation / explainable AI / neuro-symbolic systems, funded by the Royal Society. 
+
 **Jan 20, 2022** 
 
 The book on neuro-symbolic systems by Md and Pascal, to which I contributed a chapter on learning and logic, is [out.](https://www.iospress.com/catalog/books/neuro-symbolic-artificial-intelligence-the-state-of-the-art) 
