@@ -4,7 +4,7 @@ title: Papers
 permalink: /papers/
 ---
 
-[**Analyzing Generalized Planning Under Nondeterminism**](/attachments/genplan.pdf)
+[**Analyzing Generalized Planning Under Nondeterminism.**](/attachments/genplan.pdf)
 
 _Artificial Intelligence_, 2022.
 
