@@ -4,7 +4,14 @@ title: Papers
 permalink: /papers/
 ---
 
-**MultiplexNet: Towards Fully Satisfied Logical Constraints in Neural Networks.**
+[**Analyzing Generalized Planning Under Nondeterminism**](/attachments/genplan.pdf)
+
+_Artificial Intelligence_, 2022.
+
+V. Belle. 
+
+
+[**MultiplexNet: Towards Fully Satisfied Logical Constraints in Neural Networks.**](https://arxiv.org/pdf/2111.01564) 
 
 _AAAI, 2022._ 
 
