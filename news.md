@@ -4,6 +4,9 @@ title: News
 permalink: /news/
 --- 
 
+**Mar 9, 2022**
+
+Have a [new article accepted](/papers) at the artificial intelligence journal on analying generalized planning in the presence of nondeterminism. Generalized planning looks at the synthesis and correctness of plans with loops, program-like plans, and other branching structures. The article looks at how correctness needs to be defined in the presence of nondeterministic actions, probabilistic effects, unbounded state-action spaces, etc. 
 
 **Feb 23, 2022** 
 
