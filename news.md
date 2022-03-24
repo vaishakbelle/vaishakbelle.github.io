@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 --- 
 
+**Mar 23, 2022**
+
+Our AIUK talk was live on the climate stage, with an interdisciplinary discussion between our speakers who covered themes & concepts within the New Real's work & The New Real Observatory. [Link here](https://twitter.com/experientialAI/status/1506616753710718989?s=20&t=gsMtuYfKrU9ibvO5D_sAQg) 
+
 **Mar 18, 2022** 
 
 I'll be joining Drew Hemment from EFI to speak on AI + Arts at AIUK, the flagship conference by the Alan Turing institute. [Link to event here](https://www.turing.ac.uk/ai-uk?_cldee=dmFpc2hha0BlZC5hYy51aw%3d%3d&recipientid=contact-3c291326799ce71180ffe0071b7fe041-c64febfb34a1400788cd3378a008267c&esid=fcb98f7e-13a6-ec11-983f-6045bd0e6ace) 
