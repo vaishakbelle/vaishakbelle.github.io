@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 --- 
 
+**April 26, 2022** 
+
+We have a new journal paper out on doing [intention recognition with ProbLog](https://www.frontiersin.org/articles/10.3389/frai.2022.806262/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Artificial_Intelligence&id=806262). Congrats to Gary! 
+
 **Mar 23, 2022**
 
 Our AIUK talk was live on the climate stage, with an interdisciplinary discussion between our speakers who covered themes & concepts within the New Real's work & The New Real Observatory. [Link here](https://twitter.com/experientialAI/status/1506616753710718989?s=20&t=gsMtuYfKrU9ibvO5D_sAQg) 
