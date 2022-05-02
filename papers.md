@@ -4,6 +4,13 @@ title: Papers
 permalink: /papers/
 ---
 
+[**Signal Perceptron: On the Identifiability of Boolean Function Spaces and Beyond**]
+
+_Frontiers in Artificial Intelligence_, 2022.
+
+M. Lucero,  R. Karampatsis,  E. Gallardo and  V. Belle.
+
+
 [**Intention Recognition with ProbLog.**](https://www.frontiersin.org/articles/10.3389/frai.2022.806262/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Artificial_Intelligence&id=806262)
 
 _Frontiers in Artificial Intelligence_, 2022.
