@@ -4,7 +4,7 @@ title: Papers
 permalink: /papers/
 ---
 
-[**Signal Perceptron: On the Identifiability of Boolean Function Spaces and Beyond**]
+**Signal Perceptron: On the Identifiability of Boolean Function Spaces and Beyond**
 
 _Frontiers in Artificial Intelligence_, 2022.
 
