@@ -8,6 +8,10 @@ permalink: /news/
 
 We have a new journal paper out on a new type of perceptron that addresses the decades-old problem by Minsky of [capturing the Boolean XOR function in a single layer](/papers). Congrats to Miguel! 
 
+**May 1, 2022** 
+
+I will be giving a tutorial on explainable machine learning, covering the basics, at AAMAS-2022. [See the webpage for details](https://aamas2022-conference.auckland.ac.nz/program/tutorials/)
+
 
 **April 26, 2022** 
 
