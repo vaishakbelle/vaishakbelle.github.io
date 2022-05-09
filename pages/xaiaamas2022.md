@@ -10,6 +10,17 @@ permalink: /pages/
 
 ## Tutorial to be held at [AAMAS-2022](https://aamas2022-conference.auckland.ac.nz) 
 
+## Zoom link: 
+
+Topic: Zoom Tutorial at AAMAS-2022 on Explainability in Machine Learning 
+Time: May 9, 2022 10:00 AM London
+
+Join Zoom Meeting
+https://ed-ac-uk.zoom.us/j/89819775690
+
+Meeting ID: 898 1977 5690
+Passcode: AZ1V2uxF
+
 ### Abstract 
 
 Explainability and interpretability has received considerable attention in almost all major AI conferences. However, the state of the art that is being published is somewhat inaccessible to most non-ML community members. How can the uninitiated AI researcher make sense and get herself acquainted with the literature? 
