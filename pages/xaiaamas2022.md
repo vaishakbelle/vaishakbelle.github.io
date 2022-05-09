@@ -10,16 +10,15 @@ permalink: /pages/
 
 ## Tutorial to be held at [AAMAS-2022](https://aamas2022-conference.auckland.ac.nz) 
 
-## Zoom link: 
+## Recorded videos 
 
-Topic: Zoom Tutorial at AAMAS-2022 on Explainability in Machine Learning 
-Time: May 9, 2022 10:00 AM London
+Part 1: https://youtu.be/rLuXj0SVpt8
 
-Join Zoom Meeting
-https://ed-ac-uk.zoom.us/j/89819775690
+Part 2: https://youtu.be/VPgII6ihX3Y
 
-Meeting ID: 898 1977 5690
-Passcode: AZ1V2uxF
+Part 3: https://youtu.be/K6VugHouwXc
+
+
 
 ### Abstract 
 
