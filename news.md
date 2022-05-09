@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 --- 
 
+**May 9, 2022**
+
+The tutorial on explainability in machine learning was given today at AAMAS-2022 virtually, and the videos are [now on youtube.](http://vaishakbelle.com/pages/xaiaamas2022)
+
 **May 2, 2022** 
 
 We have a new journal paper out on a new type of perceptron that addresses the decades-old problem by Minsky of [capturing the Boolean XOR function in a single layer](/papers). Congrats to Miguel! 
