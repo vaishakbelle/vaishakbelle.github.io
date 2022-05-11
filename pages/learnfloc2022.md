@@ -35,7 +35,7 @@ The course looks at fundamentals and assumes some knowledge of propositional and
  
 ## Details on Tutorial 2 
 
-### Abstract 
+### Abstract 
 
 
 Explainability and interpretability has received considerable attention in almost all major AI conferences. However, the state of the art that is being published is somewhat inaccessible to most non-ML community members. How can the uninitiated AI researcher make sense and get herself acquainted with the literature?
