@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 --- 
 
+**May 11, 2022** 
+
+Together with Efi Tsamoura and Martin Grohe, we are organizing the Samsung AI neurosymbolic workshop, June 6 - June 8, 2022. Invited speakers include Gary Marcus, Dan Roth, Abhinav Gupta and many more. Please do register to join: https://research.samsung.com/sanw 
+
 **May 9, 2022**
 
 The tutorial on explainability in machine learning was given today at AAMAS-2022 virtually, and the videos are [now on youtube.](http://vaishakbelle.com/pages/xaiaamas2022)
