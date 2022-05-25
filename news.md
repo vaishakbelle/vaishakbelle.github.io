@@ -4,6 +4,11 @@ title: News
 permalink: /news/
 --- 
 
+**May 25, 2022** 
+
+I'll be giving an invited talk at the Trustworthy AI workshop in Belfast in June. Registration is free for this hybrid event. Link here: 
+https://computing.ulster.ac.uk/TAI-RM2022/
+
 **May 11, 2022** 
 
 Together with Efi Tsamoura and Martin Grohe, we are organizing the Samsung AI neurosymbolic workshop, June 6 - June 8, 2022. Invited speakers include Gary Marcus, Dan Roth, Abhinav Gupta and many more. Please do register to join: https://research.samsung.com/sanw 
