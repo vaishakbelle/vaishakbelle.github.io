@@ -4,6 +4,11 @@ title: News
 permalink: /news/
 --- 
 
+**June 28, 2022** 
+
+I'll be giving a seminar the School of Business. Registration link here: https://www.eventbrite.co.uk/e/principles-and-practice-of-explainable-machine-learning-crc-tickets-370296555967 
+
+
 **June 8, 2022** 
 
 I gave a seminar at the C4AI in Sao Paolo, Brazil, as part of the "perspectives on AI" series. The talk was entitled “Principles of Explainable Machine Learning: Interpretability, Reasoning and Beyond”, link (including youtube video) here: https://c4ai.inova.usp.br/c4ai-seminar-perspectives-in-ai-prof-vaishak-belle-june-8th-2022-16h-17h30-brazil-time/
