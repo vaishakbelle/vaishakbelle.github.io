@@ -6,7 +6,7 @@ permalink: /news/
 
 **June 29, 2022** 
 
-Advertising a fully funded PhD position on Neuro-symbolic AI and/or explainability; [please apply here.] (https://www.ed.ac.uk/informatics/postgraduate/fees/research-scholarships/research-grant-funding/phd-studentship-neuro-symbolic-ai-explainability)
+Advertising a fully funded PhD position on Neuro-symbolic AI and/or explainability; [please apply here.](https://www.ed.ac.uk/informatics/postgraduate/fees/research-scholarships/research-grant-funding/phd-studentship-neuro-symbolic-ai-explainability)
 
 **June 28, 2022** 
 
