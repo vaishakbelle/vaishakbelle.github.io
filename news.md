@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 --- 
 
+**June 29, 2022** 
+
+Advertising a fully funded PhD position on Neuro-symbolic AI and/or explainability; [please apply here.] (https://www.ed.ac.uk/informatics/postgraduate/fees/research-scholarships/research-grant-funding/phd-studentship-neuro-symbolic-ai-explainability)
+
 **June 28, 2022** 
 
 I'll be giving a seminar the School of Business. Registration link here: https://www.eventbrite.co.uk/e/principles-and-practice-of-explainable-machine-learning-crc-tickets-370296555967 
