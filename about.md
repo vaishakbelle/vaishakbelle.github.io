@@ -13,7 +13,9 @@ permalink: /about/
 
 **PhD (2012), MSc (2008), Laurea Specialistica (2008)** 
 
-**Faculty, Chancellor’s Fellow, Royal Society University Research Fellow, and Alan Turing Faculty Fellow at the University of Edinburgh.** Research theme: intersection of **machine learning** and **logic**, in service of the science and technology of **artificial intelligence**.  
+**Faculty, Chancellor’s Fellow, Royal Society University Research Fellow, and Alan Turing Faculty Fellow at the University of Edinburgh.** 
+
+**Research theme:** intersection of **machine learning** and **logic**, in service of the science and technology of **artificial intelligence**.  
 
 **Very brief bio:** *Dr Vaishak Belle is Faculty at the University of Edinburgh. He has made a career out of doing research on the science and technology of AI. Supported by generous funding from the Royal Society, among others, he has published over 60 articles, won best paper awards, and consulted with banks on explainability.* 
 
