@@ -21,8 +21,8 @@ permalink: /about/
 
 *At the University of Edinburgh, he directs a research lab on artificial intelligence, specialising in the unification of logic and machine learning, with a recent emphasis on explainability and ethics. He has given research seminars at academic institutions such as MIT and Oxford, tutorials at AI conferences, and talks at venues such as Ars Electronica and the Samsung AI Forum.*
 
-*He has co-authored over 60 scientific articles on AI, at venues such as IJCAI, UAI, AAAI, MLJ, AIJ, JAIR, AAMAS, and along with his co-authors, he has won the Microsoft best paper award at UAI, the Machine learning journal best student paper award at ECML-PKDD, and the Machine learning journal best student paper award at ILP. In 2014, he received a silver medal by the Kurt Goedel Society. He has also consulted with major banks on explainable AI and its impact in financial institutions.*
+*He has co-authored over 60 scientific articles on AI, at venues such as IJCAI, UAI, AAAI, MLJ, AIJ, JAIR, AAMAS, and along with his co-authors, he has won the Microsoft best paper award at UAI, the Machine learning journal best student paper award at ECML-PKDD, and the Machine learning journal best student paper award at ILP. In 2014, he received a silver medal by the Kurt Goedel Society.*
 
-*He has served on the senior program committee/area chair of major AI conferences, co-chaired the ML track at KR, among others, and as PI and CoI secured a grant income of several million pounds.*
+*He has served on the senior program committee/area chair of major AI conferences, co-chaired the ML track at KR, among others, and as PI and CoI secured a grant income of several million pounds. Recently, he has consulted with major banks on explainable AI and its impact in financial institutions.*
 
 
