@@ -10,7 +10,7 @@ I will be giving a tutorial on logic and learning and symbolic reasoning more ge
 
 **Aug 1, 2022**
 
-I gave a keynote talk at the probabilistic logic programming workshop at FLOC 2022. Thanks to Roberta and Luke for the invitation. My talk was on tractable problematic models, causality, and explainability. [Slides here](https://www.evernote.com/shard/s7/sh/4155ee56-0d09-48ed-aca4-fe42d75486fa/dbf113557b2241dd20ee2ad7436c1a69)
+I gave a keynote talk at the probabilistic logic programming workshop at FLOC 2022. Thanks to Roberta and Luke for the invitation. My talk was on tractable probabilistic models, causality, and explainability. [Slides here](https://www.evernote.com/shard/s7/sh/4155ee56-0d09-48ed-aca4-fe42d75486fa/dbf113557b2241dd20ee2ad7436c1a69)
 
 I was also supposed to give a tutorial  on logic and learning but I could not make it in person, so these slides are pre-recorded and will be uploaded soon: https://vaishakbelle.com/pages/learnfloc2022.html
 
