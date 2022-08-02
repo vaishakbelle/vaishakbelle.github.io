@@ -6,7 +6,7 @@ permalink: /news/
 
 **Aug 2, 2022**
 
-I will be giving a tutorial on logic and learning and symbolic reasoning more generally add the Oxford machine learning summer school:  https://www.oxfordml.school/program-speakers
+I will be giving a tutorial on logic and learning and symbolic reasoning more generally at the Oxford machine learning summer school:  https://www.oxfordml.school/program-speakers
 
 **Aug 1, 2022**
 
