@@ -4,6 +4,20 @@ title: News
 permalink: /news/
 --- 
 
+**Aug 2, 2022**
+
+I will be giving a tutorial on logic and learning and symbolic reasoning more generally add the Oxford machine learning summer school:  https://www.oxfordml.school/program-speakers
+
+**Aug 1, 2022**
+
+I gave an invite to talk at the probabilistic logic programming workshop at FLOC 2022. My talk was on tractable problematic models, causality, and explainability. [Slides here](https://www.evernote.com/shard/s7/sh/4155ee56-0d09-48ed-aca4-fe42d75486fa/dbf113557b2241dd20ee2ad7436c1a69)
+
+
+**July 28, 2022** 
+
+Gini and Dexter Yang (who did his Msc with us) have gotten a paper on breaking Captcha using capsule nets in the journal Neural Networks. Congrats to them both. Paper here: https://doi.org/10.1016/j.neunet.2022.06.041
+
+
 **June 29, 2022** 
 
 Advertising a fully funded PhD position on Neuro-symbolic AI and/or explainability; [please apply here.](https://www.ed.ac.uk/informatics/postgraduate/fees/research-scholarships/research-grant-funding/phd-studentship-neuro-symbolic-ai-explainability)
