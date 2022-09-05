@@ -4,7 +4,13 @@ title: Papers
 permalink: /papers/
 ---
 
-**Signal Perceptron: On the Identifiability of Boolean Function Spaces and Beyond**
+[**Breaking CAPTCHA with Capsule Networks.**](https://www.sciencedirect.com/science/article/pii/S0893608022002568)
+
+_Neural Networks_, 2022. 
+
+I. Mocanu, Z. Yang, and V. Belle. 
+
+**Signal Perceptron: On the Identifiability of Boolean Function Spaces and Beyond**.
 
 _Frontiers in Artificial Intelligence_, 2022.
 
