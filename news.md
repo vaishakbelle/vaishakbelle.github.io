@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 --- 
 
+**Sep 8, 2022** 
+
+Will be giving a talk about ML explainability at the [Pharma Data UK event](https://www.oxfordglobal.co.uk/pharmatec-series/speakers/). 
+
 **Aug 2, 2022**
 
 I will be giving a tutorial on logic and learning and symbolic reasoning more generally at the Oxford machine learning summer school:  https://www.oxfordml.school/program-speakers
