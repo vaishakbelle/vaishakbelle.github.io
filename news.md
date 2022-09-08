@@ -6,7 +6,7 @@ permalink: /news/
 
 **Sep 8, 2022** 
 
-Will be giving a talk about ML explainability at the [Pharma Data UK event](https://www.oxfordglobal.co.uk/pharmatec-series/speakers/). 
+Will be giving a talk about ML explainability at the [Pharma Data UK event](https://www.oxfordglobal.co.uk/pharmatec-series/speakers/). [Slides here.](https://www.evernote.com/shard/s7/sh/b0da1982-0dfe-4b7e-5fdf-a3d1e9307e91/8628c6b8bb30b5836b6d619d14a7da57)
 
 **Aug 2, 2022**
 
@@ -16,7 +16,7 @@ I will be giving a tutorial on logic and learning and symbolic reasoning more ge
 
 I gave a keynote talk at the probabilistic logic programming workshop at FLOC 2022. Thanks to Roberta and Luke for the invitation. My talk was on tractable probabilistic models, causality, and explainability. [Slides here](https://www.evernote.com/shard/s7/sh/4155ee56-0d09-48ed-aca4-fe42d75486fa/dbf113557b2241dd20ee2ad7436c1a69)
 
-I was also supposed to give a tutorial  on logic and learning but I could not make it in person, so these slides are pre-recorded and will be uploaded soon: https://vaishakbelle.com/pages/learnfloc2022.html
+I was also supposed to give a tutorial  on logic and learning but I could not make it in person, so these slides are pre-recorded and will be uploaded soon: https://vaishakbelle.com/pages/learnfloc2022.html 
 
 
 **July 28, 2022** 
