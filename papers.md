@@ -4,6 +4,13 @@ title: Papers
 permalink: /papers/
 ---
 
+[**Tractable Probabilistic Models for Ethical AI.**](/papers/ethicsiccs.pdf)
+
+_ICCS_, 2022.
+
+V. Belle. 
+
+
 [**Breaking CAPTCHA with Capsule Networks.**](https://www.sciencedirect.com/science/article/pii/S0893608022002568)
 
 _Neural Networks_, 2022. 
