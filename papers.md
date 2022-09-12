@@ -4,7 +4,7 @@ title: Papers
 permalink: /papers/
 ---
 
-[**Tractable Probabilistic Models for Ethical AI.**](/papers/ethicsiccs.pdf)
+[**Tractable Probabilistic Models for Ethical AI.**](/attachments/ethicsiccs.pdf)
 
 _ICCS_, 2022.
 
