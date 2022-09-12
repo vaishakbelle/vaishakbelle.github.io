@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 --- 
 
+**Sep 14, 2022** 
+
+I will be giving a keynote at [ICCS on tractable probabilistic models and ethical AI.](https://iccs-conference.org/?page_id=1099) Thanks to Tanya for the invitation!
+
 **Sep 8, 2022** 
 
 Will be giving a talk about ML explainability at the [Pharma Data UK event](https://www.oxfordglobal.co.uk/pharmatec-series/speakers/). [Slides here.](https://www.evernote.com/shard/s7/sh/b0da1982-0dfe-4b7e-5fdf-a3d1e9307e91/8628c6b8bb30b5836b6d619d14a7da57)
