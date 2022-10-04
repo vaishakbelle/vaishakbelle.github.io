@@ -4,6 +4,14 @@ title: News
 permalink: /news/
 --- 
 
+**Oct 4, 2022**
+
+I will be giving a talk at University of South Carolina, Columbia, SC, at the Seminar in Advances in Computing. It will based on my book chapter, “Logic & Learning: From Aristotle to Neural Networks”.
+
+**Oct 3, 2022**
+
+I will be giving a talk at Bayes Fest, as the Bayes Centre celebrates turning four. It will be on "Explainability, causality and computational and-or graphs." 
+
 **Sep 14, 2022** 
 
 I will be giving a keynote at [ICCS on tractable probabilistic models and ethical AI.](https://iccs-conference.org/?page_id=1099) Thanks to Tanya for the invitation! [Slides here](https://www.evernote.com/shard/s7/client/snv?noteGuid=023bb62c-6814-b1f5-9adb-e9193cfaff0f&noteKey=5518018135afc27223f8a69efc61f6f4&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs7%2Fsh%2F023bb62c-6814-b1f5-9adb-e9193cfaff0f%2F5518018135afc27223f8a69efc61f6f4&title=iccs-pdf.pdf)
