@@ -4,6 +4,14 @@ title: News
 permalink: /news/
 --- 
 
+**Oct 18, 2022** 
+
+Will be giving a talk on tractable models for ethical AI at the "The Unexpected: Talks on Humans and AI" at University of applied Arts, Vienna. [Link here](https://dieangewandte.at/en/news/detail?artikel_id=1665492971921) 
+
+**Oct 12, 2022** 
+
+Gave a talk on tractable models for ethical AI (based on my ICCS keynote) at the UKRI TAS Governance Node Seminar. 
+
 **Oct 4, 2022**
 
 I will be giving a talk at University of South Carolina, Columbia, SC, at the Seminar in Advances in Computing. It will based on my book chapter, “Logic & Learning: From Aristotle to Neural Networks”.
