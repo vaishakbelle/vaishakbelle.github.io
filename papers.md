@@ -7,48 +7,6 @@ permalink: /papers/
 **A full can list be found at [DBLP](https://dblp.org/pid/52/570), [Edinburgh Preprints](https://www.research.ed.ac.uk/portal/en/persons/vaishak-belle(bd14c9d9-1e8b-4816-b547-d3727e0d8537)/publications.html), and [Google Scholar](http://scholar.google.co.uk/citations?user=iQNOnjEAAAAJ). Selected publications below, loosely organized thematically.** 
 
 
-### Ethical AI 
-
-
-[**Tractable Probabilistic Models for Ethical AI.**](/attachments/ethicsiccs.pdf)
-
-_ICCS_, 2022.
-
-V. Belle. 
-
-[**Fairness in Machine Learning with Tractable Models.**](/attachments/fair.pdf)
-
-_Knowledge-Based Systems_, 2021. 
-
-M. Varley and V. Belle. 
-
-[**Tractable Probabilistic Models for Moral Responsibility and Blame.**](/attachments/moral.pdf)
-
-_Data Mining and Knowledge Discovery_, 2021. 
-
-L. Hammond and V. Belle.
-
-
-### Neuro-Symbolic AI
-
-[**MultiplexNet: Towards Fully Satisfied Logical Constraints in Neural Networks.**](https://arxiv.org/pdf/2111.01564) 
-
-_AAAI, 2022._ 
-
-N. Hoernle, R. Karampatsis,  V. Belle and K. Gal.
-
-[**Logic meets Learning: From Aristotle to Neural Networks.**](/attachments/03-Belle.pdf) 
-
-_Neuro-Symbolic Artificial Intelligence: The State of the Art_, 2021. 
-
- V. Belle. 
-
-
-[**Breaking CAPTCHA with Capsule Networks.**](https://www.sciencedirect.com/science/article/pii/S0893608022002568)
-
-_Neural Networks_, 2022. 
-
-I. Mocanu, Z. Yang, and V. Belle. 
 
 
 
@@ -199,6 +157,54 @@ V. Belle and G. Lakemeyer.
 _Journal of Artificial Intelligence Research_, 49:363-402, 2014.
 
 V. Belle and G. Lakemeyer.
+
+
+### Neuro-Symbolic AI
+
+[**MultiplexNet: Towards Fully Satisfied Logical Constraints in Neural Networks.**](https://arxiv.org/pdf/2111.01564) 
+
+_AAAI, 2022._ 
+
+N. Hoernle, R. Karampatsis,  V. Belle and K. Gal.
+
+[**Logic meets Learning: From Aristotle to Neural Networks.**](/attachments/03-Belle.pdf) 
+
+_Neuro-Symbolic Artificial Intelligence: The State of the Art_, 2021. 
+
+ V. Belle. 
+
+
+[**Breaking CAPTCHA with Capsule Networks.**](https://www.sciencedirect.com/science/article/pii/S0893608022002568)
+
+_Neural Networks_, 2022. 
+
+I. Mocanu, Z. Yang, and V. Belle. 
+
+
+
+### Ethical AI 
+
+
+[**Tractable Probabilistic Models for Ethical AI.**](/attachments/ethicsiccs.pdf)
+
+_ICCS_, 2022.
+
+V. Belle. 
+
+[**Fairness in Machine Learning with Tractable Models.**](/attachments/fair.pdf)
+
+_Knowledge-Based Systems_, 2021. 
+
+M. Varley and V. Belle. 
+
+[**Tractable Probabilistic Models for Moral Responsibility and Blame.**](/attachments/moral.pdf)
+
+_Data Mining and Knowledge Discovery_, 2021. 
+
+L. Hammond and V. Belle.
+
+
+
 
 
 ### Theses 
