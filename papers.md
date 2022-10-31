@@ -4,7 +4,7 @@ title: Papers
 permalink: /papers/
 ---
 
-**A full can list be found at [DBLP](https://dblp.org/pid/52/570), [Edinburgh Preprints](https://www.research.ed.ac.uk/portal/en/persons/vaishak-belle(bd14c9d9-1e8b-4816-b547-d3727e0d8537)/publications.html), and [Google Scholar](http://scholar.google.co.uk/citations?user=iQNOnjEAAAAJ). Selected publications below, loosely organized thematically.** 
+**A full list can be found at [DBLP](https://dblp.org/pid/52/570), [Edinburgh Preprints](https://www.research.ed.ac.uk/portal/en/persons/vaishak-belle(bd14c9d9-1e8b-4816-b547-d3727e0d8537)/publications.html), and [Google Scholar](http://scholar.google.co.uk/citations?user=iQNOnjEAAAAJ). A few representative publications below, organized thematically.** 
 
 
 
