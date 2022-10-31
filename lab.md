@@ -46,7 +46,6 @@ For example, our recent work has touched upon:
 *   _Paulius Dilkas_, interested in logical abstractions
 *   _Miguel Mendez Lucero_, interested in causality
 *   _Jonathan Feldstein_ (with James Cheney), interested in probabilistic programming
-*   _Fazl Barez_ (with Ekaterina Komendantskaya), interested in explainable AI
 *   _Giannis Papantonis_, interested in causality
 *   _Ionela-Georgiana Mocanu_, interested in PAC learning
 *   _Gary Smith_ (with Ron Petrick), interested in epistemic planning
