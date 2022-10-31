@@ -4,7 +4,7 @@ title: News
 permalink: /news/
 --- 
 
-### **Updates from November, 2022 will appear [here](https://elbowroom.tumblr.com).**
+### **News updates from November, 2022 will be posted [here](https://elbowroom.tumblr.com).**
 
 **Oct 18, 2022** 
 
