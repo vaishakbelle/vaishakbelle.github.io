@@ -18,7 +18,7 @@ permalink: /about/
 <!-- **Research theme:** intersection of **machine learning** and **logic**, in service of the science and technology of **artificial intelligence**.  
  -->
  
-**Very brief bio:** *Dr Vaishak Belle is Reader at the University of Edinburgh, an Alan Turing Fellow, and a Royal Society University Research Fellow. He has made a career out of doing research on the science and technology of AI. He has published over 70 articles, won best paper awards, and consulted with banks on explainability. As PI and CoI, he has secured a grant income of close 8 million pounds.* 
+**Very brief bio:** *Dr Vaishak Belle is Reader at the University of Edinburgh, an Alan Turing Fellow, and a Royal Society University Research Fellow. He has made a career out of doing research on the science and technology of AI. He has published over 70 articles, won best paper awards, and consulted with banks on explainability. As PI and CoI, he has secured a grant income of close to 8 million pounds.* 
 
 **Brief bio:** *Dr Vaishak Belle is a Chancellor’s Fellow and Reader at the School of Informatics, University of Edinburgh. He is an Alan Turing Institute Faculty Fellow, a Royal Society University Research Fellow, and a member of the RSE (Royal Society of Edinburgh) Young Academy of Scotland.* 
 
