@@ -57,28 +57,7 @@ L. Treszkai and V. Belle.
 
 
 
-### Explainability 
 
-
-[**Principles and Practice of Explainable Machine Learning.**](https://www.frontiersin.org/articles/10.3389/fdata.2021.688969/full)
-
-_Frontiers in Big Data_, 2021.
-
-I. Papantonis and V. Belle. 
-
-
-[**Logic meets Probability: Towards Explainable AI Systems for Uncertain Worlds**](https://www.research.ed.ac.uk/portal/files/38472359/logic_meets_probability.pdf).
-
-_IJCAI_, 2017.
-
-V. Belle.
-
-
-[**Semiring Programming: A Semantic Framework for Generalized Sum Product Problems.**](/attachments/semi.pdf)
-
-_International Journal of Approximate Reasoning_, 2020.
-
-V. Belle and L. De Raedt. 
 
 ### Statistical relational AI 
 
@@ -180,6 +159,28 @@ _Neural Networks_, 2022.
 
 I. Mocanu, Z. Yang, and V. Belle. 
 
+### Explainability 
+
+
+[**Principles and Practice of Explainable Machine Learning.**](https://www.frontiersin.org/articles/10.3389/fdata.2021.688969/full)
+
+_Frontiers in Big Data_, 2021.
+
+I. Papantonis and V. Belle. 
+
+
+[**Logic meets Probability: Towards Explainable AI Systems for Uncertain Worlds**](https://www.research.ed.ac.uk/portal/files/38472359/logic_meets_probability.pdf).
+
+_IJCAI_, 2017.
+
+V. Belle.
+
+
+[**Semiring Programming: A Semantic Framework for Generalized Sum Product Problems.**](/attachments/semi.pdf)
+
+_International Journal of Approximate Reasoning_, 2020.
+
+V. Belle and L. De Raedt. 
 
 
 ### Ethical AI 
