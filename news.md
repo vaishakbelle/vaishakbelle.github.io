@@ -4,6 +4,8 @@ title: News
 permalink: /news/
 --- 
 
+### **Updates from November, 2022 will appear [here](https://elbowroom.tumblr.com).**
+
 **Oct 18, 2022** 
 
 Will be giving a talk on tractable models for ethical AI at the "The Unexpected: Talks on Humans and AI" at University of applied Arts, Vienna. [Link here](https://dieangewandte.at/en/news/detail?artikel_id=1665492971921) 
