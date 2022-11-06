@@ -4,7 +4,7 @@ title: News
 permalink: /news/
 --- 
 
-### **News updates from November, 2022 will be posted [here](https://elbowroom.tumblr.com).**
+### **News updates from November, 2022 will be posted [here](https://blog.vaishakbelle.com/search/news).**
 
 **Oct 18, 2022** 
 
