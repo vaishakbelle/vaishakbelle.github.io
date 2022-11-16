@@ -4,6 +4,7 @@ title: Honors
 permalink: /honors/
 ---
 
+*   __Second place (with Team)__, [Argument Mining Task](https://twitter.com/InfAtEd/status/1587354045903249408?s=20&t=fM87TKOuilnlFQRuKd1UOA), 2022 
 *   __Machine learning journal best student paper award__, International Conference on Inductive Logic Programming, 2019
 *   __Best paper__, The Fourth International Workshop on Declarative Learning Based Programming at IJCAI, 2019
 *   __Royal Society University Research Fellowship__, 2019
