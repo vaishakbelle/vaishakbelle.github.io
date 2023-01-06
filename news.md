@@ -1,7 +1,7 @@
 ---
 layout: page
 title: News
-permalink: https://blog.vaishakbelle.com/tagged/news
+permalink: /news/
 --- 
 
 ### **News updates from November, 2022 will be posted [here](https://blog.vaishakbelle.com/tagged/news).**
