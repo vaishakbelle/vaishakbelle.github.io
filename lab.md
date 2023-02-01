@@ -43,7 +43,7 @@ For example, our recent work has touched upon:
 **Postdoctoral fellows and PhD students:**
 
 
-*   _Paulius Dilkas_, interested in logical abstractions
+
 *   _Miguel Mendez Lucero_, interested in causality
 *   _Jonathan Feldstein_ (with James Cheney), interested in probabilistic programming
 *   _Giannis Papantonis_, interested in causality
@@ -51,12 +51,16 @@ For example, our recent work has touched upon:
 *   _Gary Smith_ (with Ron Petrick), interested in epistemic planning
 *   _Andreas Bueff_, interested in tractable learning and reinforcement learning
 *   _Sandor Bartha_ (with James Cheney), interested in program induction
-*   _Benedicte Legastelois_ (Postdoctoral fellow with TAS project collaborators), interested in explainability 
-*   _Xin Du_ (Postdoctoral fellow with TAS project collaborators), interested in explainability 
+*   _Benedicte Legastelois_ (Postdoctoral fellow with TAS project collaborators), interested in explainability
+*   _Daxin Liu_ (Postdoctoral fellow with Royal Society), interested in modal logics   
+*   _Xue Li_ (Postdoctoral fellow with ELIAI), interested in misinformation   
+
 
 
 **Alumni:**
 
+*   _Paulius Dilkas_ (PhD 2022, Edinburgh), interested in model counting 
+*   _Xin Du_ (Postdoctoral fellow with TAS project collaborators), interested in explainability 
 *   _Samuel Kolb_ (PhD 2019, KU Leuven, with Luc De Raedt), interested in inference for hybrid domains
 *   _Amélie Levray_ (Postdoctoral fellow 2018-2019), interested in tractable learning with credal networks
 *   _Davide Nitti_ (PhD 2016, KU Leuven, with Luc De Raedt), interested in machine learning for hybrid domains
