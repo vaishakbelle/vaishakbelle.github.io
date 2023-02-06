@@ -4,7 +4,7 @@ title: News
 permalink: /news/
 --- 
 
-### **News updates from November, 2022 will be posted [here](https://medium.com/@vaishakbelle/list/reading-list).**
+### **News updates from November, 2022 will be posted [here](https://medium.com/search/posts?q=%E2%80%9CNEWS+vaishakbelle%E2%80%9D).**
 
 **Oct 18, 2022** 
 
