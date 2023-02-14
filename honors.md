@@ -43,13 +43,13 @@ I am consulting and collaborating with a number of industry and educational part
 Funding 
 --------
 
-*   [AHRC grant on **enabling a responsible AI ecosystem**, with Shannon Vallor and Ewa Luger, 2022](https://blog.vaishakbelle.com/post/702913680202989568)
-*   AHRC grant on experential AI (with Drew Hemment), **The New Real – Trust and acceptance in networked, online experiences to enable and support post-COVID19 recovery**, 2021
-*   [Consortia project on trustworthy systems](https://www.ed.ac.uk/informatics/news-events/stories/2020/3-2-million-project-governance-regulation-machines), UKRI Trustworthy Autonomous Systems Programme, **Trustworthy AI & Governance**, 2020 
-*   Royal Society University Research Fellowship, __Efficient Inference and Learning in Probabilistic Logical Models__, 2019
-*   EPSRC IAA (with Raffaella Calabrese), __Explainable AI for credit risk__, 2019
-*   Industry supported studentship (with James Cheney), __Probabilistic property-based testing__, 2018
-*   EPSRC First Grant, __Towards Explainable and Robust Statistical AI: A Symbolic Approach__, 2018
+*   [**Enabling a responsible AI ecosystem**, AHRC, with Shannon Vallor and Ewa Luger, 2022](https://href.li/?https://www.ed.ac.uk/news/2022/edinburgh-professors-to-lead-ahrc-programme-on-ai)
+*   **The New Real – Trust and acceptance in networked, online experiences to enable and support post-COVID19 recovery**, AHRC, with Drew Hemment, 2021
+*   [**Governance node**](https://www.ed.ac.uk/informatics/news-events/stories/2020/3-2-million-project-governance-regulation-machines), UKRI Trustworthy Autonomous Systems Programme, with Ram, 2020 
+*   __Efficient Inference and Learning in Probabilistic Logical Models__, Royal Society University Research Fellowship,  2019
+*    __Explainable AI for credit risk__, EPSRC IAA (with Raffaella Calabrese), 2019
+*   __Probabilistic property-based testing__, Industry supported studentship (with James Cheney),  2018
+*   __Towards Explainable and Robust Statistical AI: A Symbolic Approach__, EPSRC First Grant,  2018
 
 * * *
 
