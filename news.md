@@ -4,8 +4,75 @@ title: News
 permalink: /news/
 --- 
 
-### **News updates from November, 2022 will be posted [on our blog.](https://medium.com/@vaishakbelle/news-from-our-lab-eda4dfd111e8?source=your_stories_page-------------------------------------)**
+<!-- ### **News updates from November, 2022 will be posted [on our blog.](https://medium.com/@vaishakbelle/news-from-our-lab-eda4dfd111e8?source=your_stories_page-------------------------------------)**
+ -->
+ 
+ 
+**Feb 2, 2023**
 
+[**4 papers at AAMAS-2023**](https://medium.com/@vaishakbelle/aamas-papers-801edad32372)
+
+We have 4 papers accepted at AAMAS. This is work with Till Hoffman, Ionela Mocanu, Daxin Liu and Brendan Juba.
+
+**Feb 1, 2023**
+
+[**Daxin Liu joins our lab**](https://medium.com/@vaishakbelle/daxin-liu-joins-our-lab-1d5a68f16a65)We are excited to have Daxin Liu join our lab as a postdoctoral fellow. He is funded by the royal society fellowship, and is joining us from Aachen, where he got his phd from Prof. Gerhard Lakemeyer.
+
+**Jan 28, 2023**
+
+[**sentiment analysis tools and queerphobia journal paper**](https://medium.com/@vaishakbelle/news-sentiment-analysis-tools-and-queerphobia-journal-paper-f94dd6fee11e)Automated sentiment analysis can help efficiently detect trends in patients’ moods, consumer preferences, political attitudes and more. Unfortunately, like many natural language processing techniques, sentiment analysis can show bias against marginalised groups. We illustrate this point by showing how six popular sentiment analysis tools respond to sentences about queer identities, expanding on existing work on gender, ethnicity and disability. This is joint work with Eddie, and Bjorn.
+
+**Jan 25, 2023**
+
+[**special issue on epistemic planning**](https://medium.com/@vaishakbelle/special-issue-on-epistemic-planning-a7d5b9e72df6)Thomas Bolander, Andreas Herzig, Bernhard Nebel and I have written up the editorial on the special issue on epistemic planning at the Artificial Intelligence Journal.
+
+**Jan 17, 2023**
+
+[**blameworthiness scores learning journal paper at AAAI-2023**](https://medium.com/@vaishakbelle/blameworthiness-scores-learning-journal-paper-at-aaai-2023-f9de2ad48886)Wanted to congratulate Lewis for getting our journal paper on learning moral models tractably (from data mining & knowledge discovery) accepted for the AAAI-23 Journal Track.
+
+**Jan 15, 2023**
+
+**ICAART-2023 position papers on deep logical induction and explainability**
+
+[Andreas and I have a new survey paper on logic + RL, and Giannis and I have a new position paper on model transparency.](https://medium.com/@vaishakbelle/new-position-papers-on-deep-logical-induction-and-explainability-c2ff42a34d11)
+
+**Jan 1, 2023**
+
+[**new journal on neuro-symbolic AI**](https://medium.com/@vaishakbelle/news-new-journal-on-neuro-symbolic-ai-cdc386938876)
+
+[As shared by Luis Lamb and Francesca Rossi](https://href.li/?https://twitter.com/luislamb/status/1592968845131542528?s=20&t=hUM47xkFgFlv9TAIgaK4PA), there is a new journal created for neuro symbolic AI, by Pascal, Artur and Tarek. I am excited to be part of the editorial board and receive submissions in the area.
+
+**Dec 21, 2022**
+
+**Neuro-symbolic AI for Agent and Multi-Agent systems [NeSyMAS] Workshop**
+
+We are excited to be sending out the call for the Neuro-symbolic AI for Agent and Multi-Agent systems workshop at AAMAS-2023. [Details here.](https://medium.com/@vaishakbelle/neuro-symbolic-ai-for-agent-and-multi-agent-systems-nesymas-workshop-8de6a198b03)
+
+**Dec 20, 2022**
+
+[**AHRC grant on responsible AI ecosystem**](https://medium.com/@vaishakbelle/news-ahrc-grant-on-responsible-ai-ecosystem-fa6f5e36b7a4)
+
+Very excited to be part of this team, with incredible partners and colleagues from law and philosophy, among others. [Looking forward to working on responsible AI ecosystems.](https://href.li/?https://www.ed.ac.uk/news/2022/edinburgh-professors-to-lead-ahrc-programme-on-ai)
+
+**Dec 18, 2022**
+
+[**RSE magazine piece on ethics and AI**](https://href.li/?https://rse.org.uk/resource-winter-2022/)In my RSE magazine piece, I tried to emphasise that integrating concept-based models, common-sense reasoning and well-defined human-in-the-loop systems might provide better interfaces for reasoning and contextualising ethics in systems. Legal and regulatory work is needed moreover.
+
+**Dec 1, 2022**
+
+**Alan Turing Interest group in neuro-symbolic AI.**
+
+[I’m part of a new Interest Group in Neuro-Symbolic AI at The Alan Turing Institute.](https://medium.com/@vaishakbelle/news-alan-turing-interest-group-in-neuro-symbolic-ai-5b55ba8503de)
+
+**Nov 10, 2022**
+
+**prize in argument mining task**
+
+I’d like to congratulate Xue Li and Nadin’s team who have gotten themselves second place in the argument mining task. This is exciting news! [Check out the paper on validity classifiers here.](https://href.li/?https://twitter.com/InfAtEd/status/1587354045903249408?s=20&t=fM87TKOuilnlFQRuKd1UOA)
+
+**Nov 3, 2022**
+
+Paulius Dilkas has successfully defended his phd. Congrats, Paulius! He had Guy Van Den Broeck as his external and James Cheney as his internal.
 **Oct 18, 2022** 
 
 Will be giving a talk on tractable models for ethical AI at the "The Unexpected: Talks on Humans and AI" at University of applied Arts, Vienna. [Link here](https://dieangewandte.at/en/news/detail?artikel_id=1665492971921) 
