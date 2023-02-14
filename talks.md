@@ -3,7 +3,7 @@ layout: page
 title: Talks
 permalink: /talks/
 ---
-For an archive of seminars, invited talks and other announcements can be found [here](/news/) and [in my twitter feed](https://twitter.com/vaishakbelle).
+For an archive of seminars, invited talks and other announcements can be found [here](/news/).
 
 <!--For an archive of seminars, invited talks and other announcements can be found [here](/news/) and [in my twitter feed](https://twitter.com/vaishakbelle). *   [Towards Intepretable & Responsible AI](/2018/10/24/towards-intepretable-responsible-ai.html) [**(video)**](https://www.youtube.com/watch?v=yA6DD9kjzLE&t=1s)
 *   [Tutorial on unifying logic, probability and dynamics](/2017/08/12/tutorial-on-unifying-logic-dynamics-and.html)
