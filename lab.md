@@ -54,6 +54,7 @@ For example, our recent work has touched upon:
 *   _Benedicte Legastelois_ (Postdoctoral fellow with TAS project collaborators), interested in explainability
 *   _Daxin Liu_ (Postdoctoral fellow with Royal Society), interested in modal logics   
 *   _Xue Li_ (Postdoctoral fellow with ELIAI), interested in misinformation   
+*   _Eddie Ungless_ (with Bjorn Ross), interested in NLP and bias 
 
 
 
