@@ -95,7 +95,9 @@ V. Belle.
 
 Bartha, S., Cheney, J., Belle, V.
 
-[**Principles and Practice of Explainable Machine Learning.**](https://www.frontiersin.org/articles/10.3389/fdata.2021.688969/full)<span class="aej" style="box-sizing: inherit; font-style: italic;">Frontiers in Big Data</span>, 2021.
+[**Principles and Practice of Explainable Machine Learning.**](https://www.frontiersin.org/articles/10.3389/fdata.2021.688969/full)
+
+<span class="aej" style="box-sizing: inherit; font-style: italic;">Frontiers in Big Data</span>, 2021.
 
 V. Belle and I. Papantonis.
 
