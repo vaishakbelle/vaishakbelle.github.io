@@ -28,12 +28,14 @@ permalink: /about/
 
 *He has served on the senior program committee/area chair of major AI conferences, co-chaired the ML track at KR, among others, and as PI and CoI secured a grant income of close to 8 million pounds. Recently, he has consulted with major banks on explainable AI and its impact in financial institutions.*
 
-**A few representative publications are below, organized thematically. See also:**  
+**A few representative publications are below, organized thematically.**
+
+<!-- See also:**  
 
 * [DBLP](https://dblp.org/pid/52/570) 
 * [Edinburgh Preprints](https://www.research.ed.ac.uk/portal/en/persons/vaishak-belle(bd14c9d9-1e8b-4816-b547-d3727e0d8537)/publications.html), and 
 * [Google Scholar](http://scholar.google.co.uk/citations?user=iQNOnjEAAAAJ)
-
+ -->
 
 
 
