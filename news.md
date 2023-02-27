@@ -6,6 +6,19 @@ permalink: /news/
 
 
 
+**Feb 27, 2023** 
+
+I have a [**new book on robots that reason!**](https://medium.com/@vaishakbelle/news-a-book-on-robots-that-reason-logic-probability-causal-laws-89ad1825a568) 
+
+
+**Feb 26, 2023** 
+
+I have a [**new paper on knowledge representation and acquisition for ethical AI.**](https://medium.com/p/3e1ac0d1d6e7/edit?source=your_stories_page-------------------------------------) 
+
+**Feb 24, 2023**
+
+Our dagstuhl [**proposal for trustworthy AI through causality has been accepted.**](https://medium.com/p/363cc76c5339/edit?source=your_stories_page-------------------------------------)
+
 **Feb 2, 2023**
 
 [**4 papers at AAMAS-2023**](https://medium.com/@vaishakbelle/aamas-papers-801edad32372)
