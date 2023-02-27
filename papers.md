@@ -4,6 +4,18 @@ title: Papers
 permalink: /papers/
 ---
 
+[**Toward Robots That Reason: Logic, Probability & Causal Laws**](https://link.springer.com/book/10.1007/978-3-031-21003-7)
+
+*Morgan Claypool/Springer*, 2023.
+
+V. Belle. 
+
+[**Knowledge Representation and Acquisition for Ethical AI: Challenges and Opportunities.**]
+
+*Ethics and Information Technology,* 2023.
+
+V. Belle.
+
 
 [**Potential Pitfalls with Automatic Sentiment Analysis: The Example of Queerphobic Bias**](https://github.com/vaishakbelle/vaishakbelle.github.io/blob/master/attachments/Potential_Pitfalls_UNGLESS_DOA05012023_VOR_CC_BY.pdf)**.**
 
