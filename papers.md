@@ -10,7 +10,7 @@ permalink: /papers/
 
 V. Belle. 
 
-[**Knowledge Representation and Acquisition for Ethical AI: Challenges and Opportunities.**]
+**Knowledge Representation and Acquisition for Ethical AI: Challenges and Opportunities.**
 
 *Ethics and Information Technology,* 2023.
 
