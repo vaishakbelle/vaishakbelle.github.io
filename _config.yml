@@ -1,5 +1,5 @@
 remote_theme: broccolini/swiss
-title: Vaishak Belle 
+title: Dr Vaishak Belle 
 # description: Faculty at University of Edinburgh 
 #baseurl: "" # the subpath of your site, e.g. /blog
 # url: "vaishakbelle.github.io" # "vaishakbelle.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -27,9 +27,9 @@ markdown: kramdown
 
 plugins:
   - jekyll-feed
-# title: Vaishak Belle
-# description: Vaishak Belle
-# author: Vaishak Belle
+# title: Dr Vaishak Belle
+# description: Dr Vaishak Belle
+# author: Dr Vaishak Belle
 
 # remote_theme: mmistakes/so-simple-theme
 # # remote_theme: mmistakes/so-simple-theme
