@@ -451,7 +451,7 @@ D. Nitti, V. Belle, T. De Laet and L. De Raedt.
 
 V. Belle, G. Lakemeyer and H. Levesque.
 
-[**Action-Centric Probabilistic Programming**](http://vaishakbelle.com/attachments/srlallegro.pdf).
+[**Action-Centric Probabilistic Programming**](/attachments/srlallegro.pdf).
 
 <span class="aej" style="box-sizing: inherit; font-style: italic;">StarAI Workshop at IJCAI</span>, 2016.
 
@@ -543,7 +543,7 @@ V. Belle and G. Lakemeyer.
 
 C. Muise, V. Belle, P. Felli, S. A. McIlraith, T. Miller, A. R. Pearce and L. Sonenberg.
 
-[**Planning Over Multi-Agent Epistemic States: A Classical Planning Approach (Amended Version)**](http://vaishakbelle.com/attachments/muise-amended.pdf).
+[**Planning Over Multi-Agent Epistemic States: A Classical Planning Approach (Amended Version)**](/attachments/muise-amended.pdf).
 
 <span class="aej" style="box-sizing: inherit; font-style: italic;">Workshop on Distributed and Multi-Agent Planning, ICAPS</span>, 2015.
 
@@ -557,13 +557,13 @@ D. Nitti, V. Belle and L. De Raedt.
 
 **<span class="aej" style="box-sizing: inherit; font-style: italic;">Machine learning journal best student paper award.</span>**
 
-[**Sample-based abstraction for hybrid relational MDPs**](http://vaishakbelle.com/attachments/wrl15.pdf).
+[**Sample-based abstraction for hybrid relational MDPs**](/attachments/wrl15.pdf).
 
 <span class="aej" style="box-sizing: inherit; font-style: italic;">European Workshop on Reinforcement Learning, ICML</span>, 2015.
 
 Davide Nitti, V. Belle, T. De Laet and Luc De Raedt.
 
-[**A Logical Theory of Robot Localization**](http://vaishakbelle.com/attachments/loc.pdf).
+[**A Logical Theory of Robot Localization**](/attachments/loc.pdf).
 
 <span class="aej" style="box-sizing: inherit; font-style: italic;">AAMAS</span>, 2014.
 
@@ -587,7 +587,7 @@ V. Belle and H. J. Levesque.
 
 V. Belle and H. J. Levesque.
 
-[**Multiagent Only Knowing in Dynamic Systems**](http://vaishakbelle.com/attachments/jair14.pdf).
+[**Multiagent Only Knowing in Dynamic Systems**](/attachments/jair14.pdf).
 
 <span class="aej" style="box-sizing: inherit; font-style: italic;">Journal of Artificial Intelligence Research</span>, 49:363–402, 2014.
 
@@ -605,7 +605,7 @@ V. Belle and G. Lakemeyer.
 
 V. Belle.
 
-[**PREGO: An Action Language for Belief-Based Cognitive Robotics in Continuous Domains**](http://vaishakbelle.com/attachments/tool.pdf).
+[**PREGO: An Action Language for Belief-Based Cognitive Robotics in Continuous Domains**](/attachments/tool.pdf).
 
 <span class="aej" style="box-sizing: inherit; font-style: italic;">AAAI</span>, 2014.
 
@@ -629,7 +629,7 @@ C. Muise, S. McIlraith and V. Belle.
 
 C. J. Muise, S. A. McIlraith and V. Belle.
 
-[**Computing Contingent Plans via Fully Observable Non-Deterministic Planning**](http://vaishakbelle.com/attachments/aaai14.pdf).
+[**Computing Contingent Plans via Fully Observable Non-Deterministic Planning**](/attachments/aaai14.pdf).
 
 <span class="aej" style="box-sizing: inherit; font-style: italic;">AAAI</span>, 2014.
 
@@ -647,7 +647,7 @@ V. Belle and H. J. Levesque.
 
 V. Belle and H. J. Levesque.
 
-[**Reasoning about Continuous Uncertainty in the Situation Calculus**](http://vaishakbelle.com/attachments/ijcai13.pdf).
+[**Reasoning about Continuous Uncertainty in the Situation Calculus**](/attachments/ijcai13.pdf).
 
 <span class="aej" style="box-sizing: inherit; font-style: italic;">IJCAI</span>, 2013.
 
@@ -659,7 +659,7 @@ V. Belle and H. J. Levesque.
 
 V. Belle and H. J. Levesque.
 
-[**Reasoning about Probabilities in Dynamic Systems using Goal Regression**](http://vaishakbelle.com/attachments/uai13.pdf).
+[**Reasoning about Probabilities in Dynamic Systems using Goal Regression**](/attachments/uai13.pdf).
 
 <span class="aej" style="box-sizing: inherit; font-style: italic;">UAI</span>, 2013.
 
@@ -671,13 +671,13 @@ V. Belle and H. J. Levesque.
 
 V. Belle and H. J. Levesque.
 
-[**Robot Location Estimation in the Situation Calculus**](http://vaishakbelle.com/attachments/commonsense13.pdf).
+[**Robot Location Estimation in the Situation Calculus**](/attachments/commonsense13.pdf).
 
 <span class="aej" style="box-sizing: inherit; font-style: italic;">Symposium on Logical Formalizations of Commonsense Reasoning</span>, 2013.
 
 V. Belle and H. J. Levesque.
 
-[**On the Projection Problem in Active Knowledge Bases with Incomplete Information**](http://vaishakbelle.com/attachments/thesis.pdf).
+[**On the Projection Problem in Active Knowledge Bases with Incomplete Information**](/attachments/thesis.pdf).
 
 PhD thesis, Dept. of Computer Science, RWTH Aachen University, 2012.
 
@@ -695,7 +695,7 @@ V. Belle and G. Lakemeyer.
 
 V. Belle and G. Lakemeyer.
 
-[**On Progression and Query Evaluation in First-Order Knowledge Bases with Function Symbols**](http://vaishakbelle.com/attachments/ijcai.pdf).
+[**On Progression and Query Evaluation in First-Order Knowledge Bases with Function Symbols**](/attachments/ijcai.pdf).
 
 <span class="aej" style="box-sizing: inherit; font-style: italic;">IJCAI</span>, 2011.
 
@@ -725,13 +725,13 @@ V. Belle.
 
 V. Belle and G. Lakemeyer.
 
-[**Detection and Recognition of Human Faces using Random Forests for a Mobile Robot**](http://vaishakbelle.com/attachments/msc.pdf).
+[**Detection and Recognition of Human Faces using Random Forests for a Mobile Robot**](/attachments/msc.pdf).
 
 Master’s thesis, Dept. of Computer Science, RWTH Aachen University, 2008.
 
 V. Belle.
 
-[**Randomized trees for real-time one-step face detection and recognition**](http://vaishakbelle.com/attachments/icpr2008.pdf).
+[**Randomized trees for real-time one-step face detection and recognition**](/attachments/icpr2008.pdf).
 
 <span class="aej" style="box-sizing: inherit; font-style: italic;">ICPR</span>, 2008.
 
