@@ -1,5 +1,5 @@
-remote_theme: patdryburgh/hitchens 
-# remote_theme: broccolini/swiss
+# remote_theme: patdryburgh/hitchens 
+remote_theme: broccolini/swiss
 title: Dr Vaishak Belle 
 # description: Faculty at University of Edinburgh 
 #baseurl: "" # the subpath of your site, e.g. /blog
