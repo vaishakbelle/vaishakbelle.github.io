@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-I blog for fun on [**Medium**.](https://medium.com/@vaishakbelle) Here are a couple of goodies:
+I blog for fun and not (yet) for profit on [**Medium**.](https://medium.com/@vaishakbelle) Here are a couple of goodies:
 
 - [**What's my new book on robots that reason about?**](https://medium.com/@vaishakbelle/news-a-book-on-robots-that-reason-logic-probability-causal-laws-89ad1825a568?source=user_profile---------0----------------------------)
 - [**What does twitter get wrong about logic and AI?**](https://medium.com/@vaishakbelle/many-twitter-views-on-deep-learning-vs-symbols-are-misinformed-non-constructive-or-simply-wrong-4bdf2236e0ec?source=user_profile---------1----------------------------)
