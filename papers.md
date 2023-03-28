@@ -10,28 +10,30 @@ permalink: /papers/
 
 V. Belle. 
 
-**Andreas Bueff and Vaishak Belle.**
+**Deep Inductive Logic Programming meets Reinforcement Learning.**
 
-Deep Inductive Logic Programming meets Reinforcement Learning.
-
-*ICLP, 2023.*
-
-**Vaishak Belle**
-
-Toward A Logical Theory Of Fairness and Bias
+A. Bueff and V. Belle.
 
 *ICLP, 2023.*
 
+**Toward A Logical Theory Of Fairness and Bias.**
 
-**Ionela Mocanu, Vaishak Belle and Brendan Juba**
+V. Belle.
 
-Learnability with PAC Semantics for Multi-agent Beliefs
+
 
 *ICLP, 2023.*
 
-**Vaishak Belle**
 
-Counterfactual Explanations as Plans
+**Learnability with PAC Semantics for Multi-agent Beliefs.**
+
+I. Mocanu, B. Juba and V Belle.
+
+*ICLP, 2023.*
+
+**Counterfactual Explanations as Plans.**
+
+V. Belle.
 
 *ICLP, 2023.*
 
