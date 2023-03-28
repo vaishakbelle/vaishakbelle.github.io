@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 --- 
 
+**See [medium.com/@vaishakbelle](https://medium.com/@vaishakbelle) for detailed updates.**
+
+---
+
 **March 28, 2023**
 
 [We have **4 papers accepted at ICLP.**](https://medium.com/@vaishakbelle/news-4-papers-accepted-at-iclp-fairness-counterfactuals-differential-logic-programming-and-9a236e806581?source=user_profile---------3----------------------------)
