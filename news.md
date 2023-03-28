@@ -4,6 +4,15 @@ title: News
 permalink: /news/
 --- 
 
+**March 28, 2023**
+
+[We have **4 papers accepted at ICLP.**](https://medium.com/@vaishakbelle/news-4-papers-accepted-at-iclp-fairness-counterfactuals-differential-logic-programming-and-9a236e806581?source=user_profile---------3----------------------------)
+
+**March 25, 2023**
+
+Tia Byer did an interview with me for Oxford Global, [interview video here.](https://medium.com/@vaishakbelle/interview-with-oxford-global-explainability-ethics-and-more-36f0bbd705de?source=user_profile---------9----------------------------)
+
+
 
 
 **Feb 27, 2023** 
