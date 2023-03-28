@@ -10,6 +10,31 @@ permalink: /papers/
 
 V. Belle. 
 
+**Andreas Bueff and Vaishak Belle.**
+
+Deep Inductive Logic Programming meets Reinforcement Learning.
+
+*ICLP, 2023.*
+
+**Vaishak Belle**
+
+Toward A Logical Theory Of Fairness and Bias
+
+*ICLP, 2023.*
+
+
+**Ionela Mocanu, Vaishak Belle and Brendan Juba**
+
+Learnability with PAC Semantics for Multi-agent Beliefs
+
+*ICLP, 2023.*
+
+**Vaishak Belle**
+
+Counterfactual Explanations as Plans
+
+*ICLP, 2023.*
+
 **Knowledge Representation and Acquisition for Ethical AI: Challenges and Opportunities.**
 
 *Ethics and Information Technology,* 2023.
