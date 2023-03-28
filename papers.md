@@ -12,30 +12,38 @@ V. Belle.
 
 **Deep Inductive Logic Programming meets Reinforcement Learning.**
 
-A. Bueff and V. Belle.
+
 
 *ICLP, 2023.*
+
+A. Bueff and V. Belle.
 
 **Toward A Logical Theory Of Fairness and Bias.**
 
-V. Belle.
+
 
 
 
 *ICLP, 2023.*
+
+V. Belle.
 
 
 **Learnability with PAC Semantics for Multi-agent Beliefs.**
 
-I. Mocanu, B. Juba and V Belle.
+
 
 *ICLP, 2023.*
+
+I. Mocanu, B. Juba and V Belle.
 
 **Counterfactual Explanations as Plans.**
 
-V. Belle.
+
 
 *ICLP, 2023.*
+
+V. Belle.
 
 **Knowledge Representation and Acquisition for Ethical AI: Challenges and Opportunities.**
 
