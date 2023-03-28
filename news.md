@@ -4,9 +4,6 @@ title: News
 permalink: /news/
 --- 
 
-**See [medium.com/@vaishakbelle](https://medium.com/@vaishakbelle) for detailed updates.**
-
----
 
 **March 28, 2023**
 
