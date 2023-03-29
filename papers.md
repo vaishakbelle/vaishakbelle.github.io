@@ -136,6 +136,12 @@ Belle, V.
 
 V. Belle.
 
+**MultiplexNet: Towards Fully Satisfied Logical Constraints in Neural Networks.**
+
+_AAAI, 2022._
+
+N. Hoernle, R. Karampatsis, V. Belle, K. Gal.
+
 [**One Down, 699 to Go: or, synthesising compositional desugarings.**](https://arxiv.org/abs/2109.06114v1)
 
 <span class="aej" style="box-sizing: inherit; font-style: italic;">OOPSLA</span>, 2021.
