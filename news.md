@@ -4,6 +4,18 @@ title: News
 permalink: /news/
 --- 
 
+**April 14, 2023**
+
+In a recent presentation at the NatWest Group Data Science Seminar, which took place late last month, I discussed the utility of formula-based regularizers in the context of training deep learning networks using logical formulas. Details here.
+
+https://medium.com/@vaishakbelle/news-talk-on-formula-based-regularizers-618bc4204a1
+
+**April 13, 2023**
+
+A few weeks ago, I had the opportunity to give an invited talk on the topic of knowledge representation and ethical AI at PEEK/FWF Research Project “The Unexpected: talks on humans and AI”. [Details below.](https://medium.com/@vaishakbelle/news-the-unexpected-talks-on-humans-and-ai-4c15e1b6fde9)
+
+
+
 
 **Mar 28, 2023**
 
