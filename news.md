@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 --- 
 
+**April 28, 2023** 
+
+I will be giving a talk at the Alan Turing institute on "logic and probabilistic programming". Will share the slides soon.
+
 **April 14, 2023**
 
 In a recent presentation at the NatWest Group Data Science Seminar, which took place late last month, I discussed the utility of formula-based regularizers in the context of training deep learning networks using logical formulas. Details here.
