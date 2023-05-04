@@ -6,7 +6,7 @@ permalink: /news/
 
 **April 28, 2023** 
 
-I will be giving a talk at the Alan Turing institute on "logic and probabilistic programming". Will share the slides soon.
+I will be giving a talk at the Alan Turing institute on "logic and probabilistic programming". Will share the slides soon. [Here's a blog post on it.](https://link.medium.com/a93zJ0qCwzb) 
 
 **April 14, 2023**
 
