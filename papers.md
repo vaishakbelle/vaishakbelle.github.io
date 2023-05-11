@@ -58,6 +58,12 @@ V. Belle.
 
 E. Ungless, B. Ross, V. Belle.
 
+[**Ethical AI: Issues and Opportunites.**](https://rse.org.uk/resource-winter-2022/)
+
+_Royal Society of Edinburgh - Resource Magazine,_ 2023.
+
+V. Belle.
+
 **Learnability with PAC Semantics for Multi-agent Beliefs.**
 
 <span class="aej" style="box-sizing: inherit; font-style: italic;">AAMAS</span>, 2023.
