@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 --- 
 
+**May 23, 2023**
+
+Two papers accepted at KR-2023 on [first-order logic and probability!](/papers)
+
 **May 15, 2023**
 
 I'll be giving a presidential address at the [British Science Festival!](https://medium.com/@vaishakbelle/news-scientific-section-president-at-the-british-science-festival-36c01ea77bd3?source=user_profile---------2----------------------------)
