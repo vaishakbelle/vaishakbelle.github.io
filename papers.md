@@ -10,6 +10,21 @@ permalink: /papers/
 
 V. Belle. 
 
+**Concerning Measures in a First-order Logic with Actions and Meta-beliefs.**
+
+_KR,_ 2023.
+
+D. Liu, Q. Feng, V. Belle, and G. Lakemeyer. 
+
+**Synthesising Recursive Functions for First-Order Model Counting: Challenges, Progress, and Conjectures.**
+
+_KR,_ 2023.
+
+P. Dilkas and V. Belle.
+
+
+
+
 **Deep Inductive Logic Programming meets Reinforcement Learning.**
 
 
