@@ -4,6 +4,8 @@ title: News
 permalink: /news/
 --- 
 
+[*If not updated, check here.*](https://vaishakbelle.tumblr.com/tagged/news)
+
 **May 23, 2023**
 
 Two papers accepted at KR-2023 on [first-order logic and probability!](/papers)
