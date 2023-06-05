@@ -30,7 +30,17 @@ _KR,_ 2023.
 P. Dilkas and V. Belle.
 
 
+**Principled and Efficient Motif Finding for Structure Learning of Lifted Graphical Models**.
 
+_AAAI, 2023._
+
+J. Feldstein, D. Phillips, and E. Tsamoura.
+
+**Parallel Neurosymbolic Integration with Concordia.**
+
+_ICML, 2023._
+
+J. Feldstein, M. Jurcius, E. Tsamoura
 
 **Deep Inductive Logic Programming meets Reinforcement Learning.**
 
