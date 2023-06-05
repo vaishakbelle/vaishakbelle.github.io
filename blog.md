@@ -13,3 +13,5 @@ I blog for fun and not (yet) for profit on [**Medium**.](https://medium.com/@vai
 
 
 To get updates on new posts, [_sign up and subscribe here._](https://medium.com/@vaishakbelle/subscribe)
+
+_I also maintain [a micro-blog, on tumblr, for shorter updates](http://vaishakbelle.tumblr.com)._
