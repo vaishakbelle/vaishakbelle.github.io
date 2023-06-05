@@ -14,6 +14,10 @@ Two papers accepted at KR-2023 on [first-order logic and probability!](/papers)
 
 I'll be giving a presidential address at the [British Science Festival!](https://medium.com/@vaishakbelle/news-scientific-section-president-at-the-british-science-festival-36c01ea77bd3?source=user_profile---------2----------------------------)
 
+**April 30, 2023**
+
+Jonathan has papers accepted at AAAI-2023, and ICML-2023 on neuro-symbolic AI. Check out his work in our papers tab.
+
 **April 28, 2023** 
 
 I will be giving a talk at the Alan Turing institute on "logic and probabilistic programming". Will share the slides soon. [Here's a blog post on it.](https://link.medium.com/a93zJ0qCwzb) 
