@@ -4,7 +4,7 @@ title: News
 permalink: /news/
 --- 
 
-[*If not updated, check here.*](https://vaishakbelle.tumblr.com/tagged/news)
+[*If not updated, check here.*](https://medium.com/@vaishakbelle)
 
 **May 23, 2023**
 
