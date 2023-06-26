@@ -10,6 +10,15 @@ permalink: /news/
 
 I gave a long-ish seminar at the University (of Edinburgh, School of Informatics) today, covering the motivation and concepts behind my recent work with Till Hoffman, presented at AAMAS–2023. [Slides.](https://medium.com/@vaishakbelle/news-talk-on-abstracting-noisy-robot-programs-6af19f2533ce)
 
+
+**June 10, 2023**
+
+I ran through a few slides for our NeSy AAMAS-2023 workshop to introduce folks to our mission. [Check it out here.](https://medium.com/@vaishakbelle/news-introduction-to-the-neuro-symbolic-ai-workshop-at-aamas-2023-e075c9ca92c3)
+
+**June 6, 2023**
+
+We had Artur Garcez give a talk at the [NeSy session of the Knowledge graphs workshop at the Turing.](https://medium.com/@vaishakbelle/news-neuro-symbolic-ai-special-session-at-the-knowledge-graphs-workshop-alan-turing-institute-69e60a839e2d)
+
 **May 23, 2023**
 
 Two papers accepted at KR-2023 on [first-order logic and probability!](/papers)
