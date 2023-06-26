@@ -6,6 +6,10 @@ permalink: /news/
 
 [*If not updated, check here.*](https://medium.com/@vaishakbelle)
 
+**June 26, 2023**
+
+I gave a long-ish seminar at the University (of Edinburgh, School of Informatics) today, covering the motivation and concepts behind my recent work with Till Hoffman, presented at AAMAS–2023. [Slides.](https://medium.com/@vaishakbelle/news-talk-on-abstracting-noisy-robot-programs-6af19f2533ce)
+
 **May 23, 2023**
 
 Two papers accepted at KR-2023 on [first-order logic and probability!](/papers)
