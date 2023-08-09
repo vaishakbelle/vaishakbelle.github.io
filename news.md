@@ -6,6 +6,14 @@ permalink: /news/
 
 [*If not updated, check here.*](https://medium.com/@vaishakbelle)
 
+**9 Aug, 2023** 
+
+New article in the [compendium on Neuro-symbolic AI!](https://medium.com/@vaishakbelle/contributing-article-to-the-compendium-of-neurosymbolic-artificial-intelligence-46561a179c0e?source=user_profile---------1----------------------------)
+
+**8 Aug, 2023** 
+
+2 papers [accepted at ECAI.](https://medium.com/@vaishakbelle/news-2-papers-accepted-at-ecai-2023-sum-product-networks-and-verifying-probabilistic-programs-c613742da742?source=user_profile---------2----------------------------)
+
 **June 26, 2023**
 
 I gave a long-ish seminar at the University (of Edinburgh, School of Informatics) today, covering the motivation and concepts behind my recent work with Till Hoffman, presented at AAMAS–2023. [Slides.](https://medium.com/@vaishakbelle/news-talk-on-abstracting-noisy-robot-programs-6af19f2533ce)
