@@ -17,6 +17,24 @@ permalink: /papers/
 
 V. Belle. 
 
+**Boolean Connectives and Deep Learning: Three Interpretations.**
+
+*Compendium of Neurosymbolic Artificial Intelligence, IOS Press, 2023.* 
+ 
+ M. Mendez-Lucero, V. Belle.
+
+**Transparency in Sum-Product Network Decompilation.** 
+
+_ECAI, 2023._
+
+I. Papantonis, V. Belle.
+
+**Verifying Belief-based Programs via Symbolic Dynamic Programming.** 
+
+_ECAI,2023._
+
+D. Liu, Q. Huang, G. Lakemeyer, V. Belle.
+
 **Concerning Measures in a First-order Logic with Actions and Meta-beliefs.**
 
 _KR,_ 2023.
