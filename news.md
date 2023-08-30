@@ -6,6 +6,12 @@ permalink: /news/
 
 [*If not updated, check here.*](https://medium.com/@vaishakbelle)
 
+**30 Aug, 2023**
+
+New article at JELIA-2023: [Excursions in First-Order Logic
+and Probability: Infinitely Many Random Variables, Continuous Distributions, Recursive Programs and Beyond.](https://medium.com/@vaishakbelle/news-excursions-in-first-order-logic-and-probability-infinitely-many-random-variables-and-52d02bdc5d5b).
+
+
 **9 Aug, 2023** 
 
 New article in the [compendium on Neuro-symbolic AI!](https://medium.com/@vaishakbelle/contributing-article-to-the-compendium-of-neurosymbolic-artificial-intelligence-46561a179c0e?source=user_profile---------1----------------------------)
