@@ -17,6 +17,13 @@ permalink: /papers/
 
 V. Belle. 
 
+**Excursions in First-Order Logic
+and Probability: Infinitely Many Random Variables, Continuous Distributions, Recursive Programs and Beyond.**
+
+_JELIA, 2023._
+
+V. Belle.
+
 **Boolean Connectives and Deep Learning: Three Interpretations.**
 
 *Compendium of Neurosymbolic Artificial Intelligence, IOS Press, 2023.* 
