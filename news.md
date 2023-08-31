@@ -8,7 +8,7 @@ permalink: /news/
 
 **30 Aug, 2023**
 
-New article at JELIA-2023: [Excursions in First-Order Logic
+I'll be giving a keynote at JELIA-2023; corresponding article: [Excursions in First-Order Logic
 and Probability: Infinitely Many Random Variables, Continuous Distributions, Recursive Programs and Beyond.](https://medium.com/@vaishakbelle/news-excursions-in-first-order-logic-and-probability-infinitely-many-random-variables-and-52d02bdc5d5b)
 
 
