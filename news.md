@@ -6,6 +6,10 @@ permalink: /news/
 
 [*If not updated, check here.*](https://medium.com/@vaishakbelle)
 
+**Sep 13, 2023** 
+
+It was my pleasure and honor to deliver the presidential address on the engineering theme at [the British Science Festival in Exeter last week!](https://medium.com/@vaishakbelle/risky-robots-presidential-address-d5524d179717)
+
 **30 Aug, 2023**
 
 I'll be giving a keynote at JELIA-2023; corresponding article: [Excursions in First-Order Logic
