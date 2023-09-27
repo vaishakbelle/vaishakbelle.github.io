@@ -7,6 +7,7 @@ permalink: /news/
 [*If not updated, check here.*](https://medium.com/@vaishakbelle)
 
 **Sep 27, 2023**
+
 Excited to report about a recent article I wrote for the Royal Society Open Science, where I discuss the successful integration of logic and probabilistic programming in the domains of planning and causal laws. The article is entitled: [Logic + probabilistic programming + causal laws](https://medium.com/@vaishakbelle/news-logic-probabilistic-programming-causal-laws-30563666d0f6
 ). 
 
