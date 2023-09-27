@@ -6,6 +6,15 @@ permalink: /news/
 
 [*If not updated, check here.*](https://medium.com/@vaishakbelle)
 
+**Sep 27, 2023**
+Excited to report about a recent article I wrote for the Royal Society Open Science, where I discuss the successful integration of logic and probabilistic programming in the domains of planning and causal laws. The article is entitled: [Logic + probabilistic programming + causal laws](https://medium.com/@vaishakbelle/news-logic-probabilistic-programming-causal-laws-30563666d0f6
+). 
+
+
+**Sep 26, 2023**
+
+I gave a keynote talk at the inaugural workshop of Learning, Law, and Society in conjunction with ECML 2023 in Turin, Italy. [Details here.](https://medium.com/@vaishakbelle/news-keynote-talk-at-ml-law-and-society-2403dab78486) 
+
 **Sep 13, 2023** 
 
 It was my pleasure and honor to deliver the presidential address on the engineering theme at [the British Science Festival in Exeter last week!](https://medium.com/@vaishakbelle/risky-robots-presidential-address-d5524d179717)
