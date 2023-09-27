@@ -17,6 +17,14 @@ permalink: /papers/
 
 V. Belle. 
 
+
+**Logic + probabilistic programming + causal laws.**
+
+_Royal Society Open Science, 2023._
+
+V. Belle. 
+
+
 **Excursions in First-Order Logic
 and Probability: Infinitely Many Random Variables, Continuous Distributions, Recursive Programs and Beyond.**
 
