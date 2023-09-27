@@ -20,6 +20,10 @@ I gave a keynote talk at the inaugural workshop of Learning, Law, and Society in
 
 It was my pleasure and honor to deliver the presidential address on the engineering theme at [the British Science Festival in Exeter last week!](https://medium.com/@vaishakbelle/risky-robots-presidential-address-d5524d179717)
 
+**Sep 6, 2023**
+
+Both Andreas and Giannis have cleared their PhD vivas. Congratulations to them!
+
 **30 Aug, 2023**
 
 I'll be giving a keynote at JELIA-2023; corresponding article: [Excursions in First-Order Logic
