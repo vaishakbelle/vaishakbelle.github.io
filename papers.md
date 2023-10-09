@@ -18,7 +18,7 @@ permalink: /papers/
 V. Belle. 
 
 
-**Logic + probabilistic programming + causal laws.**
+**[Logic + probabilistic programming + causal laws.](https://royalsocietypublishing.org/doi/10.1098/rsos.230785)** 
 
 _Royal Society Open Science, 2023._
 
