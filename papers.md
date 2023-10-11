@@ -18,6 +18,13 @@ permalink: /papers/
 V. Belle. 
 
 
+**Principled Diverse Counterfactuals in Multilinear Models.**
+
+_Machine Learning, 2023._
+
+I. Papantonis and V. Belle. 
+
+
 **[Logic + probabilistic programming + causal laws.](https://royalsocietypublishing.org/doi/10.1098/rsos.230785)** 
 
 _Royal Society Open Science, 2023._
