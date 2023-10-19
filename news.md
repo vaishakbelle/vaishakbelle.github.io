@@ -8,7 +8,7 @@ permalink: /news/
 
 **Oct 19, 2023**
 
-Gini and I have a new position paper accepted at the [Natural Language Processing Journal,](/papers), entitled "Knowledge representation and acquisition in the era of large language models: Reflections on learning to reason via PAC-Semantics." 
+Gini and I have a new position paper accepted at the [Natural Language Processing Journal](/papers), entitled "Knowledge representation and acquisition in the era of large language models: Reflections on learning to reason via PAC-Semantics." 
 
 **Oct 11, 2023** 
 
