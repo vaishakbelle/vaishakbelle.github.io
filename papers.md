@@ -17,6 +17,13 @@ permalink: /papers/
 
 V. Belle. 
 
+**Knowledge representation and acquisition in the era of large language models: Reflections on learning to reason via PAC-Semantics.**
+
+_Natural Language Processing Journal_, 2023. 
+
+I. Mocanu & V. Belle.
+
+
 
 **Principled Diverse Counterfactuals in Multilinear Models.**
 
