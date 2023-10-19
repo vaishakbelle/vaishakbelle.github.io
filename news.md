@@ -8,6 +8,10 @@ permalink: /news/
 
 **Oct 19, 2023**
 
+Congratulations to Ionela (Gini) Mocanu who has just passed her viva with minor corrections. Many thanks to the examiners, Loizos Michael from OU Cyprus and our own Rik Sarkar. Her thesis looked at probably approximately correct (PAC)-semantics for integrating reasoning and learning, and she has a number of results on learning to reason in linear arithmetic and temporal logic.
+
+**Oct 18, 2023**
+
 Gini and I have a new position paper accepted at the [Natural Language Processing Journal](/papers), entitled "Knowledge representation and acquisition in the era of large language models: Reflections on learning to reason via PAC-Semantics." 
 
 **Oct 11, 2023** 
