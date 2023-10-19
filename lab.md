@@ -44,23 +44,20 @@ For example, our recent work has touched upon:
 
 
 
-*   _Miguel Mendez Lucero_, interested in causality
-*   _Jonathan Feldstein_ (with James Cheney), interested in probabilistic programming
-*   _Giannis Papantonis_, interested in causality
-*   _Ionela-Georgiana Mocanu_, interested in PAC learning
-*   _Gary Smith_ (with Ron Petrick), interested in epistemic planning
-*   _Andreas Bueff_, interested in tractable learning and reinforcement learning
-*   _Sandor Bartha_ (with James Cheney), interested in program induction
-*   _Benedicte Legastelois_ (Postdoctoral fellow with TAS project collaborators), interested in explainability
-*   _Daxin Liu_ (Postdoctoral fellow with Royal Society), interested in modal logics   
-*   _Xue Li_ (Postdoctoral fellow with ELIAI), interested in misinformation   
-*   _Eddie Ungless_ (with Bjorn Ross), interested in NLP and bias 
+*   _Miguel Mendez Lucero_, interested in neuro-symbolic AI
+*   _Jonathan Feldstein_ (with James Cheney), interested in neuro-symbolic AI
+*   _Daxin Liu_ (Postdoctoral fellow with Royal Society), interested in probabilistic modal logics
+*   _Jessica Ciupa_ (Masters by Research), interested in RL 
 
 
 
 **Alumni:**
 
-*   _Paulius Dilkas_ (PhD 2022, Edinburgh), interested in model counting 
+*   _Benedicte Legastelois_ (Postdoctoral fellow with TAS project collaborators), interested in explainability
+*   _Andreas Bueff_ (PhD 2023), interested in tractable learning and reinforcement learning
+*   _Giannis Papantonis_ (PhD 2023), interested in causality
+*   _Ionela-Georgiana Mocanu_ (PhD 2023), interested in PAC learning
+*   _Paulius Dilkas_ (PhD 2022), interested in model counting 
 *   _Xin Du_ (Postdoctoral fellow with TAS project collaborators), interested in explainability 
 *   _Samuel Kolb_ (PhD 2019, KU Leuven, with Luc De Raedt), interested in inference for hybrid domains
 *   _Amélie Levray_ (Postdoctoral fellow 2018-2019), interested in tractable learning with credal networks
@@ -68,6 +65,15 @@ For example, our recent work has touched upon:
 *   _Eleanor Platt_ (research associate), interested in explainability 
 *   _Amit Parag_ (MscR 2019), interested in tractable models and cosmological simulations  
 *   _Rafael Karampatsis_ (Postdoctoral fellow 2019-2021), interested in ML interpretability 
+
+**Associates:** 
+
+*   _Sandor Bartha_ (with James Cheney, PhD 2023), interested in program induction
+*   _Gary Smith_ (with Ron Petrick), interested in epistemic planning
+*   _Xue Li_ (Postdoctoral fellow with ELIAI), interested in misinformation   
+*   _Eddie Ungless_ (with Bjorn Ross), interested in NLP and bias 
+
+
 
 **Visitors:**
 
