@@ -6,6 +6,10 @@ permalink: /news/
 
 [*If not updated, check here.*](https://medium.com/@vaishakbelle)
 
+**Nov 1, 2023**
+
+[Pleased to report that I gave my two cents worth on AI expertise to a comprehensive analysis by the government office of science on the future risks of frontier (cutting-edge including generative) AI.](https://medium.com/@vaishakbelle/future-risks-of-frontier-ai-uk-government-office-of-science-5e25032c8a0f)
+
 **Oct 19, 2023**
 
 Congratulations to Ionela (Gini) Mocanu who has just passed her viva with minor corrections. Many thanks to the examiners, Loizos Michael from OU Cyprus and our own Rik Sarkar. Her thesis looked at probably approximately correct (PAC)-semantics for integrating reasoning and learning, and she has a number of results on learning to reason in linear arithmetic and temporal logic.
