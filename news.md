@@ -6,6 +6,16 @@ permalink: /news/
 
 [*If not updated, check here.*](https://medium.com/@vaishakbelle)
 
+
+**Nov 16, 2023**
+
+Gave a talk at the Bayes center on explainable machine learning, diverse counterfactuals and explaining explainability to stakeholders. [Based on papers 1 and 3 by Giannis.](https://arxiv.org/search/?searchtype=author&query=Papantonis%2C+I) 
+
+
+**Nov 14, 2023**
+
+A few weeks ago, I attended a very nice workshop on Safe and Robust Machine learning and gave [a talk on logical loss functions.](https://medium.com/@vaishakbelle/news-talk-at-the-workshop-on-safe-and-robust-machine-learning-92f0fba8507a)
+
 **Nov 1, 2023**
 
 [Pleased to report that I gave my two cents worth on AI expertise to a comprehensive analysis by the government office of science on the future risks of frontier (cutting-edge including generative) AI.](https://medium.com/@vaishakbelle/future-risks-of-frontier-ai-uk-government-office-of-science-5e25032c8a0f)
