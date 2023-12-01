@@ -6,6 +6,10 @@ permalink: /news/
 
 [*If not updated, check here.*](https://medium.com/@vaishakbelle)
 
+**1 Dec, 2023**
+
+In the past few weeks, I gave two lectures / seminars at the data science course at the Bayes Centre, as well as the topics in [knowledge representation course at the University of Toronto.](https://medium.com/@vaishakbelle/news-two-lectures-at-the-bayes-centre-and-the-university-of-toronto-86d082108e17)
+
 
 **Nov 16, 2023**
 
