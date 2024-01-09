@@ -11,11 +11,17 @@ permalink: /papers/
 
 --- 
 
-[**Toward Robots That Reason: Logic, Probability & Causal Laws**](https://link.springer.com/book/10.1007/978-3-031-21003-7)
+[**Toward Robots That Reason: Logic, Probability & Causal Laws.**](https://link.springer.com/book/10.1007/978-3-031-21003-7)
 
 *Morgan Claypool/Springer*, 2023.
 
 V. Belle. 
+
+**Progression with probabilities in the situation calculus: representation and succinctness.**
+
+_AAMAS, 2024._
+
+D. Liu, & V. Belle.
 
 **Knowledge representation and acquisition in the era of large language models: Reflections on learning to reason via PAC-Semantics.**
 
