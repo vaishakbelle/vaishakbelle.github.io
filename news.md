@@ -6,6 +6,11 @@ permalink: /news/
 
 [*If not updated, check here.*](https://medium.com/@vaishakbelle)
 
+
+**1 Jan, 2023**
+
+paper on probabilistic updates of logical representations, [accepted at AAMAS-2024](https://medium.com/@vaishakbelle/news-paper-on-probabilistic-updates-of-logical-representations-accepted-at-aamas-2024-a8a5c842b3c8)
+
 **1 Dec, 2023**
 
 In the past few weeks, I gave two lectures / seminars at the data science course at the Bayes Centre, as well as the topics in [knowledge representation course at the University of Toronto.](https://medium.com/@vaishakbelle/news-two-lectures-at-the-bayes-centre-and-the-university-of-toronto-86d082108e17)
