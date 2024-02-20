@@ -7,6 +7,11 @@ permalink: /news/
 [*If not updated, check here.*](https://medium.com/@vaishakbelle)
 
 
+**Feb 20, 2023**
+
+I co-chaired the Royal Society of UK and Royal Society of Canada [Frontiers of Science Conference in Ottawa, Canada last week.](https://medium.com/@vaishakbelle/frontiers-of-science-artificial-intelligence-by-the-royal-society-of-canada-and-the-royal-society-6360b911d5d2)
+
+
 **1 Jan, 2023**
 
 paper on probabilistic updates of logical representations, [accepted at AAMAS-2024](https://medium.com/@vaishakbelle/news-paper-on-probabilistic-updates-of-logical-representations-accepted-at-aamas-2024-a8a5c842b3c8)
