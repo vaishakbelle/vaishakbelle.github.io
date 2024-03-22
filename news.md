@@ -6,13 +6,17 @@ permalink: /news/
 
 [*If not updated, check here.*](https://medium.com/@vaishakbelle)
 
-**March 19, 2024**
+**Mar 22, 2024**
+
+co-organized a dagstuhl seminar on [trustworthy AI via causality.](https://medium.com/@vaishakbelle/news-dagstuhl-seminar-on-trustworthiness-and-responsibility-in-ai-causality-learning-and-4ccc18053730)
+
+**Mar 19, 2024**
 
 
 gave a talk on [Neuro-symbolic explainability and ethics at Dagstuhl.](https://medium.com/@vaishakbelle/news-neuro-symbolic-ai-explainability-and-ethics-c033656b96a3?source=your_stories_page-------------------------------------)
 
 
-**March 16, 2024**
+**Mar 16, 2024**
 
 organized the foundations of[ neuro-symbolic AI event in Santiago, Chile.](https://medium.com/@vaishakbelle/foundations-of-neurosymbolic-computing-in-santiago-chile-38a65605282d?source=your_stories_page-------------------------------------)
 
