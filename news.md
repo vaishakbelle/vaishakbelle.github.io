@@ -6,13 +6,30 @@ permalink: /news/
 
 [*If not updated, check here.*](https://medium.com/@vaishakbelle)
 
+**March 19, 2024**
 
-**Feb 20, 2023**
+
+gave a talk on [Neuro-symbolic explainability and ethics at Dagstuhl.](https://medium.com/@vaishakbelle/news-neuro-symbolic-ai-explainability-and-ethics-c033656b96a3?source=your_stories_page-------------------------------------)
+
+
+**March 16, 2024**
+
+organized the foundations of[ neuro-symbolic AI event in Santiago, Chile.](https://medium.com/@vaishakbelle/foundations-of-neurosymbolic-computing-in-santiago-chile-38a65605282d?source=your_stories_page-------------------------------------)
+
+**Feb 27, 2024**
+
+did an interview on [neuro-symbolic ai for the reasoner!](https://medium.com/@vaishakbelle/interview-in-the-reasoner-on-neuro-symbolic-ai-544870417081?source=your_stories_page-------------------------------------)
+
+**Feb 26, 2024**
+
+Jonathan [passes his viva.](https://medium.com/@vaishakbelle/news-jonathan-feldstein-passes-his-viva-on-neuro-symbolic-ai-0b86da054a7a?source=your_stories_page-------------------------------------)
+
+**Feb 20, 2024**
 
 I co-chaired the Royal Society of UK and Royal Society of Canada [Frontiers of Science Conference in Ottawa, Canada last week.](https://medium.com/@vaishakbelle/frontiers-of-science-artificial-intelligence-by-the-royal-society-of-canada-and-the-royal-society-6360b911d5d2)
 
 
-**1 Jan, 2023**
+**1 Jan, 2024**
 
 paper on probabilistic updates of logical representations, [accepted at AAMAS-2024](https://medium.com/@vaishakbelle/news-paper-on-probabilistic-updates-of-logical-representations-accepted-at-aamas-2024-a8a5c842b3c8)
 
