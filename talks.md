@@ -4,6 +4,20 @@ title: Talks
 permalink: /talks/
 ---
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GitHub Subpage Loader</title>
+</head>
+<body>
+
+<div id="subpage-container">
+  <!-- Subpage content will be loaded here -->
+</div>
+
+<script>
 // Function to load content from another page
 function loadSubpage(url, targetElementId) {
     fetch(url)
@@ -17,6 +31,10 @@ function loadSubpage(url, targetElementId) {
 
 // Usage example: load the content of "another_page.html" into a div with id "subpage-container"
 loadSubpage('https://vaishakbelle.notion.site/Vienna-Scribe-4620526428e24793850474e71b5a13b6', 'subpage-container');
+</script>
+
+</body>
+</html>
 
 For an archive of seminars, invited talks and other announcements can be found [here](/news/).
 
