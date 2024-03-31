@@ -3,6 +3,21 @@ layout: page
 title: Talks
 permalink: /talks/
 ---
+
+<!DOCTYPE HTML>
+<html lang="en" style="min-height:100%;">
+<meta http-equiv="refresh" content="0; URL=https://vaishakbelle.notion.site/Vienna-Scribe-4620526428e24793850474e71b5a13b6"> <!-- edit this line -->
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+</head>
+
+<body style="background:black;">
+    <h1>Loading...</h1>
+</body>
+
+</html>
+
 For an archive of seminars, invited talks and other announcements can be found [here](/news/).
 
 <!--For an archive of seminars, invited talks and other announcements can be found [here](/news/) and [in my twitter feed](https://twitter.com/vaishakbelle). *   [Towards Intepretable & Responsible AI](/2018/10/24/towards-intepretable-responsible-ai.html) [**(video)**](https://www.youtube.com/watch?v=yA6DD9kjzLE&t=1s)
