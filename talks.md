@@ -4,19 +4,19 @@ title: Talks
 permalink: /talks/
 ---
 
-<!DOCTYPE HTML>
-<html lang="en" style="min-height:100%;">
-<meta http-equiv="refresh" content="0; URL=https://vaishakbelle.notion.site/Vienna-Scribe-4620526428e24793850474e71b5a13b6"> <!-- edit this line -->
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-</head>
+// Function to load content from another page
+function loadSubpage(url, targetElementId) {
+    fetch(url)
+        .then(response => response.text())
+        .then(html => {
+            // Inject the fetched HTML content into the target element
+            document.getElementById(targetElementId).innerHTML = html;
+        })
+        .catch(error => console.error('Error loading subpage:', error));
+}
 
-<body style="background:black;">
-    <h1>Loading...</h1>
-</body>
-
-</html>
+// Usage example: load the content of "another_page.html" into a div with id "subpage-container"
+loadSubpage('https://vaishakbelle.notion.site/Vienna-Scribe-4620526428e24793850474e71b5a13b6', 'subpage-container');
 
 For an archive of seminars, invited talks and other announcements can be found [here](/news/).
 
