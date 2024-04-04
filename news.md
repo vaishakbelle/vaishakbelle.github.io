@@ -8,6 +8,10 @@ permalink: /news/
 
 **Apr 4, 2024**
 
+last year Michael Fisher, a few others, and I had conducted the Neurosymbolic and Multi-Agent Systems Workshop at AAMAS in London. One of the outcomes of that is that we decided to write a position paper on what we felt were some of the key interesting angles in this space, and this was drawn from a summary of the panel discussion at the end of this workshop. [This position paper is now to appear in the proceedings of select papers from AAMAS.](https://medium.com/@vaishakbelle/news-neuro-symbolic-ai-agent-systems-position-paper-8c65b4e454e4)
+
+**Apr 3, 2024**
+
 happy to announce that Andreas’ paper on Neurosymbolic Program Induction [has been accepted in the Machine Learning Journal.](https://medium.com/@vaishakbelle/news-machine-learning-journal-article-on-neuro-symbolic-program-induction-7a7f7d173b7b)
 
 **Mar 22, 2024**
