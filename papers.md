@@ -11,6 +11,12 @@ permalink: /papers/
 
 --- 
 
+**Neuro-Symbolic AI + Agent Systems: A First Reflection on Trends, Opportunities and Challenges.**
+
+_AAMAS 2023, LNAI 14456, 2024._
+
+V. Belle, M. Fisher, A. Russo, E. Komendantskaya & A. Nottle.
+
 **Learning Explanatory Logical Rules in Non-linear Domains: A Neuro-Symbolic Approach.**
 
 
