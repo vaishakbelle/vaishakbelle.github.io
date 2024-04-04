@@ -13,12 +13,12 @@ permalink: /papers/
 
 **Learning Explanatory Logical Rules in Non-linear Domains: A Neuro-Symbolic Approach.**
 
-A. Bueff & V. Belle. 
 
 _Machine Learning, 2024._
 
+A. Bueff & V. Belle. 
 
-V. Belle. 
+
 
 **Progression with probabilities in the situation calculus: representation and succinctness.**
 
@@ -35,6 +35,8 @@ I. Mocanu & V. Belle.
 [**Toward Robots That Reason: Logic, Probability & Causal Laws.**](https://link.springer.com/book/10.1007/978-3-031-21003-7)
 
 *Morgan Claypool/Springer*, 2023.
+
+V. Belle. 
 
 
 
