@@ -11,9 +11,12 @@ permalink: /papers/
 
 --- 
 
-[**Toward Robots That Reason: Logic, Probability & Causal Laws.**](https://link.springer.com/book/10.1007/978-3-031-21003-7)
+**Learning Explanatory Logical Rules in Non-linear Domains: A Neuro-Symbolic Approach.**
 
-*Morgan Claypool/Springer*, 2023.
+A. Bueff & V. Belle. 
+
+_Machine Learning, 2024._
+
 
 V. Belle. 
 
@@ -28,6 +31,10 @@ D. Liu, & V. Belle.
 _Natural Language Processing Journal_, 2023. 
 
 I. Mocanu & V. Belle.
+
+[**Toward Robots That Reason: Logic, Probability & Causal Laws.**](https://link.springer.com/book/10.1007/978-3-031-21003-7)
+
+*Morgan Claypool/Springer*, 2023.
 
 
 
