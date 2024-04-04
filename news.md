@@ -6,6 +6,10 @@ permalink: /news/
 
 [*If not updated, check here.*](https://medium.com/@vaishakbelle)
 
+**Apr 4, 2024**
+
+happy to announce that Andreas’ paper on Neurosymbolic Program Induction [has been accepted in the Machine Learning Journal.](https://medium.com/@vaishakbelle/news-machine-learning-journal-article-on-neuro-symbolic-program-induction-7a7f7d173b7b)
+
 **Mar 22, 2024**
 
 co-organized a dagstuhl seminar on [trustworthy AI via causality.](https://medium.com/@vaishakbelle/news-dagstuhl-seminar-on-trustworthiness-and-responsibility-in-ai-causality-learning-and-4ccc18053730)
