@@ -6,6 +6,10 @@ permalink: /news/
 
 [*If not updated, check here.*](https://medium.com/@vaishakbelle)
 
+**Apr 20, 2024**
+
+I’m happy to announce that a collaboration between the Edinburgh Futures Institute and some of us from Informatics as well as from the Robotics Institute at Heriot-Watt, we have a position paper on bringing art and AI closer together. This is not so much the case of AI-generated art, although of course it becomes a part of it, but more generally about how artistic practice could help us shape our thinking about how AI is used in society and its impact. [The work appears in the mit press art journal Leonardo.](https://medium.com/@vaishakbelle/news-journal-article-on-art-and-explainable-ai-11a1f01f37ff)
+
 **Apr 4, 2024**
 
 last year Michael Fisher, a few others, and I had conducted the Neurosymbolic and Multi-Agent Systems Workshop at AAMAS in London. One of the outcomes of that is that we decided to write a position paper on what we felt were some of the key interesting angles in this space, and this was drawn from a summary of the panel discussion at the end of this workshop. [This position paper is now to appear in the proceedings of select papers from AAMAS.](https://medium.com/@vaishakbelle/news-neuro-symbolic-ai-agent-systems-position-paper-8c65b4e454e4)
