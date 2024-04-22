@@ -11,6 +11,12 @@ permalink: /papers/
 
 --- 
 
+**Experiential AI: Between Arts and Explainable AI.**
+
+*Leonardo, 2024.* 
+
+D. Hemment, D Murray-Rust, V. Belle, R. Aylett, M. Vidmar, F. Broz. 
+
 **Neuro-Symbolic AI + Agent Systems: A First Reflection on Trends, Opportunities and Challenges.**
 
 _AAMAS 2023, LNAI 14456, 2024._
