@@ -6,6 +6,11 @@ permalink: /news/
 
 [*If not updated, check here.*](https://medium.com/@vaishakbelle)
 
+
+**May 14, 2024**
+
+I had a discussion with discussion with [Verve Search on ChatGPT in education.](https://medium.com/@vaishakbelle/discussion-with-verve-search-on-chatgpt-in-education-f3f8d46c10fa) 
+
 **Apr 20, 2024**
 
 I’m happy to announce that a collaboration between the Edinburgh Futures Institute and some of us from Informatics as well as from the Robotics Institute at Heriot-Watt, we have a position paper on bringing art and AI closer together. This is not so much the case of AI-generated art, although of course it becomes a part of it, but more generally about how artistic practice could help us shape our thinking about how AI is used in society and its impact. [The work appears in the mit press art journal Leonardo.](https://medium.com/@vaishakbelle/news-journal-article-on-art-and-explainable-ai-11a1f01f37ff)
