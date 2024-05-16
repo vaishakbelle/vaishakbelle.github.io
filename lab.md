@@ -45,15 +45,19 @@ For example, our recent work has touched upon:
 
 
 *   _Miguel Mendez Lucero_, interested in neuro-symbolic AI
-*   _Jonathan Feldstein_ (with James Cheney), interested in neuro-symbolic AI
 *   _Daxin Liu_ (Postdoctoral fellow with Royal Society), interested in probabilistic modal logics
-*   _Jessica Ciupa_ (Masters by Research), interested in RL 
+*   _Xue Li_ (Postdoctoral fellow with Bjorn Ross), interested in counterfactuals and language models
+*   _Antonio Miceli_ (Postdoctoral fellow with Cisco), interested in large language models, logic and vision
+*   _Jessica Ciupa_ (Masters by Research), interested in RL and ethics 
+*   _Nijesh Uperti_, interested in abstraction and logic-based learning
+*   _Ruta Tang_, interested in large language models and logic 
 
 
 
 **Alumni:**
 
 *   _Benedicte Legastelois_ (Postdoctoral fellow with TAS project collaborators), interested in explainability
+*   _Jonathan Feldstein_ (PhD 2024), interested in neuro-symbolic AI
 *   _Andreas Bueff_ (PhD 2023), interested in tractable learning and reinforcement learning
 *   _Giannis Papantonis_ (PhD 2023), interested in causality
 *   _Ionela-Georgiana Mocanu_ (PhD 2023), interested in PAC learning
@@ -84,6 +88,8 @@ For example, our recent work has touched upon:
 *   _Brendan Juba_, Washington University in St. Louis
 *   _Loizos Michael_ (via the Alan Turing Institute), Open University of Cyprus
 *   _Till Hoffman,_ RWTH Aachen University
+*   _Xenia Heilmann_, Mainz University
+*   _Chiara Manganini_, University of Milan 
 
 
 **MSc Students:** 
