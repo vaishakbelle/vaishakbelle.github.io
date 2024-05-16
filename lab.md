@@ -4,9 +4,9 @@ title: Belle Lab
 permalink: /lab/
 ---
 
-**TL;DR:** Here's a one-slide summary of our work:
+**TL;DR:** Here's a one-slide summary of our recent work:
 
-<img src="/slide.png" width="450"> 
+<img src="/slide.jpg" width="450"> 
 
 ---
 
@@ -18,7 +18,7 @@ The Lab carries out research in **artificial intelligence**, by unifying **learn
 
 We are motivated by the need to augment _learning_ and _perception_ with _high-level structured, commonsensical knowledge_, to enable systems to learn faster and more accurate models of the world. We are interested in developing computational frameworks that are able to _explain their decisions, modular, re-usable_, and _robust_ to variations in problem description. Here is a slightly more granular view of the research that we do, where  neurosymbolics AI sits at the intersection of learning and reasoning + our emphasis  on expressive languages.
 
-<img src="/nesy.png" width="450">  
+<img src="/nesy.jpg" width="450">  
 
 
 A non-exhaustive list of topics include:
