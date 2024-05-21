@@ -60,6 +60,7 @@ For example, our recent work has touched upon:
 *   _Daxin Liu_ (Postdoctoral fellow with Royal Society), interested in probabilistic modal logics
 *   _Xue Li_ (Postdoctoral fellow with Bjorn Ross), interested in counterfactuals and language models
 *   _Antonio Miceli_ (Postdoctoral fellow with Cisco), interested in large language models, logic and vision
+*   _Daga Panas_ (Postdoctoral fellow with Cisco), interested in large language models, logic and vision
 *   _Jessica Ciupa_ (Masters by Research), interested in RL and ethics 
 *   _Nijesh Uperti_, interested in abstraction and logic-based learning
 *   _Ruta Tang_, interested in large language models and logic 
