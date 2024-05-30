@@ -10,6 +10,10 @@ permalink: /news/
 
 I gave the keynote talk at AI Triangle workshop on Symbolic XAI -- [it was on logic-based loss functions.](https://medium.com/@vaishakbelle/news-keynote-talk-on-loss-functions-at-ai-triangle-workshop-on-symbolic-xai-bb7e5aaf6240)
 
+**May 28, 2024**
+
+New collaborative project with [CISCO on large language models.](https://medium.com/@vaishakbelle/news-new-collaborative-project-with-cisco-on-large-language-models-b2ed21290e4b) 
+
 
 **May 14, 2024**
 
