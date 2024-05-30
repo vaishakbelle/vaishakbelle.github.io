@@ -6,6 +6,10 @@ permalink: /news/
 
 [*If not updated, check here.*](https://medium.com/@vaishakbelle)
 
+**May 30, 2024**
+
+I gave the keynote talk at AI Triangle workshop on Symbolic XAI -- [it was on logic-based loss functions.](https://medium.com/@vaishakbelle/news-keynote-talk-on-loss-functions-at-ai-triangle-workshop-on-symbolic-xai-bb7e5aaf6240)
+
 
 **May 14, 2024**
 
