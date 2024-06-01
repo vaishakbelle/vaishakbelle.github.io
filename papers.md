@@ -11,6 +11,18 @@ permalink: /papers/
 
 --- 
 
+**Book:**
+
+[**Toward Robots That Reason: Logic, Probability & Causal Laws.**](https://link.springer.com/book/10.1007/978-3-031-21003-7)
+
+*Morgan Claypool/Springer*, 2023.
+
+V. Belle. 
+
+---
+
+
+
 **Experiential AI: Between Arts and Explainable AI.**
 
 *Leonardo, 2024.* 
@@ -44,11 +56,7 @@ _Natural Language Processing Journal_, 2023.
 
 I. Mocanu & V. Belle.
 
-[**Toward Robots That Reason: Logic, Probability & Causal Laws.**](https://link.springer.com/book/10.1007/978-3-031-21003-7)
 
-*Morgan Claypool/Springer*, 2023.
-
-V. Belle. 
 
 
 
