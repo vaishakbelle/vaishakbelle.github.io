@@ -6,6 +6,11 @@ permalink: /news/
 
 [*If not updated, check here.*](https://medium.com/@vaishakbelle)
 
+
+**Jun 19, 2024**
+
+Excited to report that we have 3 acceptances at the 18th International Conference for Neurosymbolic Learning and Reasoning, happening in Barcelona in September
+
 **May 30, 2024**
 
 I gave the keynote talk at AI Triangle workshop on Symbolic XAI -- [it was on logic-based loss functions.](https://medium.com/@vaishakbelle/news-keynote-talk-on-loss-functions-at-ai-triangle-workshop-on-symbolic-xai-bb7e5aaf6240)
