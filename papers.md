@@ -21,6 +21,25 @@ V. Belle.
 
 ---
 
+**Can Large Language Models put 2 and 2 together? Probing for Entailed Arithmetical Relationships.**
+
+_NeSy, 2024._
+
+D. Panas, V. Belle and S. Seth. 
+
+**ToM-LM: Delegating Theory of Mind Reasoning to External Symbolic Executors in Large Language Models.**
+
+
+_NeSy, 2024._
+
+W. Tang and V. Belle. 
+
+**Ethical Reward Machines.**
+
+_NeSy, 2024._
+
+J. Ciupa and V. Belle.
+
 
 
 **Experiential AI: Between Arts and Explainable AI.**
