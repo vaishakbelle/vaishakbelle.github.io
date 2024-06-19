@@ -9,7 +9,7 @@ permalink: /news/
 
 **Jun 19, 2024**
 
-Excited to report that we have 3 acceptances at the 18th International Conference for Neurosymbolic Learning and Reasoning, happening in Barcelona in September
+Excited to report that [we have 3 acceptances at the 18th International Conference for Neurosymbolic Learning and Reasoning](https://medium.com/@vaishakbelle/news-accepted-papers-at-the-neurosymbolic-learning-and-reasoning-conference-large-language-d60d63ab3ac0), happening in Barcelona in September. These invole reward machines and large language models.
 
 **May 30, 2024**
 
