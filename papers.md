@@ -21,6 +21,31 @@ V. Belle.
 
 ---
 
+**An Algebraic Framework for Hierarchical Probabilistic Abstraction.**
+
+_IJCLR, 2024._
+
+N. Uperti and V. Belle.
+
+
+**MisCC: Misinformation Detection on Counterfactual Claims.**
+
+_IJCLR, 2024._
+
+X. Li, B. Ross and V. Belle.
+
+**Reasoning about Neural Network Perception in the Situation Calculus. (Extended Abstract)**
+
+_IJCLR, 2024._
+
+D. Liu and V. Belle.
+
+**Implicit Learning as Reasoning: Language-Agnostic Semantics for Learning from Partial Observations.  (Extended Abstract)**
+
+_IJCLR, 2024._
+
+V. Belle.
+
 **Can Large Language Models put 2 and 2 together? Probing for Entailed Arithmetical Relationships.**
 
 _NeSy, 2024._
