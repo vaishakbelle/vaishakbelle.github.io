@@ -7,6 +7,13 @@ permalink: /news/
 [*If not updated, check here.*](https://medium.com/@vaishakbelle)
 
 
+**Aug 22, 2024**
+
+
+We have 2 papers accepted on abstraction and counterfactual claims at the Conference on Learning and Reasoning, which will happen in Nanjing, China, in September 2024. We also have extended abstracts accepted on the following topics: reasoning about neural network perception, the situation calculus, and a model of implicit learning. [Details here.](https://medium.com/@vaishakbelle/news-accepted-papers-on-abstraction-and-counterfactual-claims-at-ijclr-ddfb18e5c7bc
+)
+
+
 **Jun 19, 2024**
 
 Excited to report that [we have 3 acceptances at the 18th International Conference for Neurosymbolic Learning and Reasoning](https://medium.com/@vaishakbelle/news-accepted-papers-at-the-neurosymbolic-learning-and-reasoning-conference-large-language-d60d63ab3ac0), happening in Barcelona in September. These invole reward machines and large language models.
