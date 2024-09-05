@@ -7,6 +7,10 @@ permalink: /news/
 [*If not updated, check here.*](https://medium.com/@vaishakbelle)
 
 
+**Sep 5, 2024**
+
+I had the pleasure of presenting a tutorial on neuro-symbolic AI at the Logic for AI Spring School in Lake Como. [Details and slides here.](https://medium.com/@vaishakbelle/neuro-symbolic-ai-tutorial-at-the-logic-for-ai-spring-school-in-como-italy-59887531a0dd)
+
 **Aug 22, 2024**
 
 
