@@ -10,6 +10,10 @@ permalink: /news/
 
 Last week, I presented at the Workshop on AI Vulnerabilities and their Societal Implications, organized by Atoosa (now at Carnegie Mellon University) and Des from the University of Edinburgh. [My talk focused on the application of neuro-symbolic systems to ethical AI, based on my position paper at ethics and information technology.](https://medium.com/@vaishakbelle/neuro-symbolic-systems-for-ethical-ai-challenges-and-opportunities-52e612face8d)
 
+**Sep 30, 2024**
+
+Bjorn, Xue, and I are very pleased to announce that we won the best paper award at the International Conference of Learning and Reasoning in Nanjing, China. [This paper, which was supported and funded by the Edinburgh Integrated AI Lab, focuses on the problem of misinformation.](https://medium.com/@vaishakbelle/news-best-paper-award-on-counterfactual-claims-and-misinformation-de34ea381456) 
+
 
 **Sep 5, 2024**
 
