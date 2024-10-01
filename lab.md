@@ -56,19 +56,21 @@ For example, our recent work has touched upon:
 
 
 
-*   _Miguel Mendez Lucero_, interested in neuro-symbolic AI
-*   _Daxin Liu_ (Postdoctoral fellow with Royal Society), interested in probabilistic modal logics
 *   _Xue Li_ (Postdoctoral fellow with Bjorn Ross), interested in counterfactuals and language models
 *   _Antonio Miceli_ (Postdoctoral fellow with Cisco), interested in large language models, logic and vision
 *   _Daga Panas_ (Postdoctoral fellow with Cisco), interested in large language models, logic and vision
 *   _Jessica Ciupa_ (Masters by Research), interested in RL and ethics 
 *   _Nijesh Uperti_, interested in abstraction and logic-based learning
-*   _Ruta Tang_, interested in large language models and logic 
+*   _Ruta Tang_, interested in large language models and logic
+*  _Chris Sypherd_, interested in agents and LLMs
+*  _Ambrose Brown_, interested in explanations and LLMs 
 
 
 
 **Alumni:**
 
+*   _Daxin Liu_ (Postdoctoral fellow with Royal Society), interested in probabilistic modal logics
+*   _Miguel Mendez Lucero_ (PhD 2024), interested in neuro-symbolic AI
 *   _Benedicte Legastelois_ (Postdoctoral fellow with TAS project collaborators), interested in explainability
 *   _Jonathan Feldstein_ (PhD 2024), interested in neuro-symbolic AI
 *   _Andreas Bueff_ (PhD 2023), interested in tractable learning and reinforcement learning
@@ -85,7 +87,6 @@ For example, our recent work has touched upon:
 
 *   _Sandor Bartha_ (with James Cheney, PhD 2023), interested in program induction
 *   _Gary Smith_ (with Ron Petrick), interested in epistemic planning
-*   _Xue Li_ (Postdoctoral fellow with ELIAI), interested in misinformation   
 *   _Eddie Ungless_ (with Bjorn Ross), interested in NLP and bias
 *   _Samuel Kolb_ (PhD 2019, KU Leuven, with Luc De Raedt), interested in inference for hybrid domains
 *   _Davide Nitti_ (PhD 2016, KU Leuven, with Luc De Raedt), interested in machine learning for hybrid domains
