@@ -6,6 +6,10 @@ permalink: /news/
 
 [*If not updated, check here.*](https://medium.com/@vaishakbelle)
 
+**Oct 1, 2024**
+
+Last week, I presented at the Workshop on AI Vulnerabilities and their Societal Implications, organized by Atoosa (now at Carnegie Mellon University) and Des from the University of Edinburgh. [My talk focused on the application of neuro-symbolic systems to ethical AI, based on my position paper at ethics and information technology.](https://medium.com/@vaishakbelle/neuro-symbolic-systems-for-ethical-ai-challenges-and-opportunities-52e612face8d)
+
 
 **Sep 5, 2024**
 
