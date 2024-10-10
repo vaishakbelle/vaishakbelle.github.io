@@ -4,6 +4,7 @@ title: Honors
 permalink: /honors/
 ---
 
+* **Best paper award**, IJCLR, 2024.
 * **Presidential address**, British Science Festival (Exeter), 2023.
 *   __Second place (with Team)__, [Argument Mining Task](https://twitter.com/InfAtEd/status/1587354045903249408?s=20&t=fM87TKOuilnlFQRuKd1UOA), 2022 
 *   __Machine learning journal best student paper award__, International Conference on Inductive Logic Programming, 2019
