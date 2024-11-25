@@ -4,7 +4,11 @@ title: News
 permalink: /news/
 --- 
 
-[*If not updated, check here.*](https://medium.com/@vaishakbelle)
+
+
+**Oct 31, 2024**
+
+I gave a talk on  Neuro-symbolic systems for ethical AI as part of the Work in progress series at Centre for Technomoral Futures. Slides: https://zenodo.org/records/14217107  
 
 **Oct 1, 2024**
 
