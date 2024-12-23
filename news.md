@@ -4,6 +4,9 @@ title: News
 permalink: /news/
 --- 
 
+**Dec 23, 2024**
+
+Counterfactuals and actual causality in the situation calculus, a short paper accepted at AAMAS 2025!
 
 
 **Oct 31, 2024**
