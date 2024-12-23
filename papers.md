@@ -21,6 +21,12 @@ V. Belle.
 
 ---
 
+**What Is a Counterfactual Cause in Action Theories?**
+
+_AAMAS, 2025._
+
+D. Liu and V. Belle.
+
 **An Algebraic Framework for Hierarchical Probabilistic Abstraction.**
 
 _IJCLR, 2024._
