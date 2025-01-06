@@ -21,6 +21,29 @@ V. Belle.
 
 ---
 
+**Towards Developing Ethical Reasoners: Integrating Probabilistic Reasoning and Decision-Making for Complex AI Systems**  
+ 
+*ICAART, 2025*  
+  
+N. Uperti, J. Ciupa, V. Belle
+
+**Tractable Generative Modelling of Cosmological Numerical Simulations**  
+
+*ICAART, 2025*  
+ 
+A. Parag, V. Belle
+
+**Semantic Objective Functions: A distribution-aware method for adding logical constraints in deep learning**  
+
+*ICAART, 2025*  
+ 
+ M. Lucero, E. Bojorquez, V. Belle
+
+**Abnormal Predicates: Learning Categorical Defaults from Probabilistic Rules**  
+*ICAART, 2025*  
+ 
+ R. Khan, V. Belle
+
 **What Is a Counterfactual Cause in Action Theories?**
 
 _AAMAS, 2025._
