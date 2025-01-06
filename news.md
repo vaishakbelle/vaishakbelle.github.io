@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 --- 
 
+**Jan 6, 2025**
+
+Happy new year! Happy to report that we have [several papers accepted](https://medium.com/@vaishakbelle/papers-on-semantic-loss-cosmological-simulations-and-ethical-agents-at-icaart-2025-3c63fddcdd24) at the International Conference on Agents and Artificial Intelligence.
+
 **Dec 23, 2024**
 
 Counterfactuals and actual causality in the situation calculus, a short paper accepted at AAMAS 2025!
