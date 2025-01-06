@@ -39,10 +39,11 @@ A. Parag, V. Belle
  
  M. Lucero, E. Bojorquez, V. Belle
 
-**Abnormal Predicates: Learning Categorical Defaults from Probabilistic Rules**  
+**Abnormal Predicates: Learning Categorical Defaults from Probabilistic Rules**
+
 *ICAART, 2025*  
  
- R. Khan, V. Belle
+R. Khan, V. Belle
 
 **What Is a Counterfactual Cause in Action Theories?**
 
