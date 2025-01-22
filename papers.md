@@ -21,6 +21,12 @@ V. Belle.
 
 ---
 
+**On the relevance of logic for AI, and the promise of neuro-symbolic learning.**
+
+_Neurosymbolic Artificial Intelligence, 2025._
+
+V. Belle.
+
 **Towards Developing Ethical Reasoners: Integrating Probabilistic Reasoning and Decision-Making for Complex AI Systems**  
  
 *ICAART, 2025*  
