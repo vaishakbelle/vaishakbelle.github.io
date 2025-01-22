@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 --- 
 
+**Jan 22, 2025**
+
+happy to announce that my position paper “On the relevance of logic for AI, and the promise of neuro-symbolic learning” has been accepted for publication in [Neurosymbolic Artificial Intelligence journal](https://medium.com/@vaishakbelle/news-journal-article-on-the-relevance-of-logic-for-ai-bad47b6d460b)
+
 **Jan 6, 2025**
 
 Happy new year! Happy to report that we have [several papers accepted](https://medium.com/@vaishakbelle/papers-on-semantic-loss-cosmological-simulations-and-ethical-agents-at-icaart-2025-3c63fddcdd24) at the International Conference on Agents and Artificial Intelligence.
