@@ -4,6 +4,11 @@ title: News
 permalink: /news/
 --- 
 
+**Jan 25, 2025**
+
+Co-chairing with Abhilekha Dalal, we are organizing a special track titled “Neurosymbolic Methods for Trustworthy and Interpretable AI” at the upcoming 19th International Conference on Neurosymbolic Learning and Reasoning (NeSy 2025). https://2025.nesyconf.org/trustworthy-interpretable/
+
+
 **Jan 22, 2025**
 
 happy to announce that my position paper “On the relevance of logic for AI, and the promise of neuro-symbolic learning” has been accepted for publication in [Neurosymbolic Artificial Intelligence journal](https://medium.com/@vaishakbelle/news-journal-article-on-the-relevance-of-logic-for-ai-bad47b6d460b)
