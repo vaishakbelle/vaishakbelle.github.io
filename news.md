@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 --- 
 
+**Feb 18, 2025**
+
+Journal paper accepted on showing that first-order clauses defined over a countably infinite domain can be reduced to propositional satisfiability under some conditions, the result is then extended to the use of function symbols also over a countably infinite set. 
+
 **Jan 25, 2025**
 
 Co-chairing with Abhilekha Dalal, we are organizing a special track titled “Neurosymbolic Methods for Trustworthy and Interpretable AI” at the upcoming 19th International Conference on Neurosymbolic Learning and Reasoning (NeSy 2025). https://2025.nesyconf.org/trustworthy-interpretable/
