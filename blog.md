@@ -1,4 +1,8 @@
-
+---
+layout: page
+title: Blog
+permalink: /blog/
+---
 
 I blog for fun and not (yet) for profit on [**Medium**.](https://medium.com/@vaishakbelle) Here are a couple of goodies:
 
