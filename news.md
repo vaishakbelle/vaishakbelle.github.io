@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 --- 
 
+**Feb 25, 2025**
+
+We are very excited to announce that Antonio Valerio Miceli-Barone was awarded an EPSRC grant on behalf of the AI Security Institute for the project titled ["Understanding and Improving the Behaviour of AI Agents in Competitive and Cooperative Games"](https://medium.com/@vaishakbelle/news-aisi-systemic-ai-grant-on-safety-evaluation-of-llm-based-agents-on-cooperative-and-12531092e869). Shay Cohen and I are CoIs. 
+
 **Feb 18, 2025**
 
 Journal paper accepted on showing that first-order clauses defined over a countably infinite domain can be reduced to propositional satisfiability under some conditions, the result is then extended to the use of function symbols also over a countably infinite set. 
