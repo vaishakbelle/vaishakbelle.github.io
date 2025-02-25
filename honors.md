@@ -46,6 +46,8 @@ Funding
 --------
 
 
+* **Safety evaluation of LLM-based agents on cooperative and competitive games**, UKRI AISI Institute - Systemic AI
+Safety Grant, with Shay Cohen and Antonio Barone, 2025 
 * **[Logically consistent and coherent querying from large language models](https://medium.com/@vaishakbelle/news-new-collaborative-project-with-cisco-on-large-language-models-b2ed21290e4b)**, CISCO, 2024
 *   [**Enabling a responsible AI ecosystem**, AHRC, with Shannon Vallor and Ewa Luger, 2022](https://href.li/?https://www.ed.ac.uk/news/2022/edinburgh-professors-to-lead-ahrc-programme-on-ai)
 *   **The New Real – Trust and acceptance in networked, online experiences to enable and support post-COVID19 recovery**, AHRC, with Drew Hemment, 2021
