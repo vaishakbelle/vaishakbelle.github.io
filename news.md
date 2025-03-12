@@ -6,7 +6,7 @@ permalink: /news/
 
 **Mar 12, 2025**
 
-’ll be speaking at [this colloquium](https://bsky.app/profile/vaishakbelle.bsky.social/post/3ljzheupnsg2x) on “logic meets neural networks”, organised in celebration of the UNESCO world logic day. 
+I’ll be speaking at [this colloquium](https://bsky.app/profile/vaishakbelle.bsky.social/post/3ljzheupnsg2x) on “logic meets neural networks”, organised in celebration of the UNESCO world logic day. 
 
 **Feb 25, 2025**
 
