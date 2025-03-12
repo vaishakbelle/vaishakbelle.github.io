@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 --- 
 
+**Mar 12, 2025**
+
+’ll be speaking at [this colloquium](https://bsky.app/profile/vaishakbelle.bsky.social/post/3ljzheupnsg2x) on “logic meets neural networks”, organised in celebration of the UNESCO world logic day. 
+
 **Feb 25, 2025**
 
 We are very excited to announce that Antonio Valerio Miceli-Barone was awarded an EPSRC grant on behalf of the AI Security Institute for the project titled ["Understanding and Improving the Behaviour of AI Agents in Competitive and Cooperative Games"](https://medium.com/@vaishakbelle/news-aisi-systemic-ai-grant-on-safety-evaluation-of-llm-based-agents-on-cooperative-and-12531092e869). Shay Cohen and I are CoIs. 
