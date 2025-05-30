@@ -21,6 +21,25 @@ V. Belle.
 
 ---
 
+**A Neurosymbolic Approach to Counterfactual Fairness.**
+
+_NeSy, 2025._
+
+X. Heilmann, C. Manganini, M. Cerrato, and V. Belle.
+
+**UK/Canada Frontiers of Science: Artificial Intelligence Report.**
+
+_FACETS, 2025._
+
+V. Belle, N. Papernot.
+
+
+**HyGenar: An LLM-Driven Hybrid Genetic Algorithm for Few-Shot Grammar Generation.**
+
+_ACL Findings, 2025._ 
+
+W. Tang, Y. Li, C. Sypherd, E. Polgreen, Vaishak Belle.
+
 **A Propositional Encoding for First-Order Clausal Entailment over Infinitely Many Constants.**
 
 _Journal of Symbolic Computation, 2025._
