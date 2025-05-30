@@ -4,6 +4,15 @@ title: News
 permalink: /news/
 --- 
 
+
+**May 28, 2025**
+
+Xenia, Chiara, Mattia and I have a new paper that considers a neuro-symbolic approach to counterfactual fairness. [Accepted at Nesy, it models the fairness axioms as constraints during training, allowing for reliable predictions.](https://bsky.app/profile/vaishakbelle.bsky.social/post/3lqfbuyapqk2l)
+
+**May 30, 2025**
+
+We have a paper accepted at the [ACL Findings on grammar generation.](https://bsky.app/profile/vaishakbelle.bsky.social/post/3lpc4tudgfk2j)
+
 **Mar 12, 2025**
 
 I’ll be speaking at [this colloquium](https://bsky.app/profile/vaishakbelle.bsky.social/post/3ljzheupnsg2x) on “logic meets neural networks”, organised in celebration of the UNESCO world logic day. 
