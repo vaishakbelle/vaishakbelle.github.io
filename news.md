@@ -4,6 +4,9 @@ title: News
 permalink: /news/
 --- 
 
+**June 3, 2025**
+
+Fengxiang, Miguel, Cathy and I are organizing [Edinburgh Workshop on Neural-Symbolic AI, on June 5.](https://bsky.app/profile/vaishakbelle.bsky.social/post/3lqozjiuz222z) 
 
 
 
