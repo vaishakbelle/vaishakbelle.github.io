@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 --- 
 
+**Jun 26, 2025**
+
+I'll be in the Burgundy region of France next week for an [invited talk on "Neuro-symbolic systems for Responsible AI": pfia2025.u-bourgogne.fr ](https://bsky.app/profile/vaishakbelle.bsky.social/post/3lsjfbdkia22y)
+
 **June 3, 2025**
 
 Fengxiang, Miguel, Cathy and I are organizing [Edinburgh Workshop on Neural-Symbolic AI, on June 5.](https://bsky.app/profile/vaishakbelle.bsky.social/post/3lqozjiuz222z) 
