@@ -21,6 +21,12 @@ V. Belle.
 
 ---
 
+**A Uniform Language for Safety, Robustness and Explainability.**
+
+_JELIA, 2025._
+
+V. Belle and P. Barcelo.
+
 **Logic Tensor Network-Enhanced Generative Adversarial Network.**
 
 _ICLP, 2025._
