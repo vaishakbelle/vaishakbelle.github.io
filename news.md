@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 --- 
 
+**Jul 8, 2025.**
+
+We have two papers accepted at ICLP: one on abduction and another on logic tensor networks applied to generative adversarial networks. Pablo Barcelo and I have a paper accepted at JELIA that aims to unify the definitions of fairness, robustness, and explainability, including abductive explanations as well as semantic loss.
+
 **Jun 26, 2025**
 
 I'll be in the Burgundy region of France next week for an [invited talk on "Neuro-symbolic systems for Responsible AI": pfia2025.u-bourgogne.fr ](https://bsky.app/profile/vaishakbelle.bsky.social/post/3lsjfbdkia22y)
