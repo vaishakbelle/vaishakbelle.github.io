@@ -21,6 +21,12 @@ V. Belle.
 
 ---
 
+**Propositional Abduction via Only-Knowing: A Non-Monotonic Approach.**
+
+_ICLP, 2025._
+
+S. Molick and V. Belle.
+
 **A Neurosymbolic Approach to Counterfactual Fairness.**
 
 _NeSy, 2025._
@@ -38,7 +44,7 @@ V. Belle, N. Papernot.
 
 _ACL Findings, 2025._ 
 
-W. Tang, Y. Li, C. Sypherd, E. Polgreen, Vaishak Belle.
+W. Tang, Y. Li, C. Sypherd, E. Polgreen, and V. Belle.
 
 **A Propositional Encoding for First-Order Clausal Entailment over Infinitely Many Constants.**
 
