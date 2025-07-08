@@ -21,6 +21,12 @@ V. Belle.
 
 ---
 
+**Logic Tensor Network-Enhanced Generative Adversarial Network.**
+
+_ICLP, 2025._
+
+N. Uperti and V. Belle.
+
 **Propositional Abduction via Only-Knowing: A Non-Monotonic Approach.**
 
 _ICLP, 2025._
