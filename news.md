@@ -4,7 +4,11 @@ title: News
 permalink: /news/
 --- 
 
-**Jul 8, 2025.**
+**Jul 17, 2025**
+
+Jessica has a new paper accepted on "exploring verification frameworks for social choice alignment" at the Neurosymbolic Conference, 2025. This is one of the late-breaking papers.
+
+**Jul 8, 2025**
 
 We have two papers accepted at ICLP: one on abduction and another on logic tensor networks applied to generative adversarial networks. Pablo Barcelo and I have a paper accepted at JELIA that aims to unify the definitions of fairness, robustness, and explainability, including abductive explanations as well as semantic loss.
 
