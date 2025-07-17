@@ -21,6 +21,13 @@ V. Belle.
 
 ---
 
+**Exploring Verification Frameworks for Social Choice Alignment.**
+
+_NeSy, 2025._
+
+J. Ciupa, V. Belle, E. Komendantskaya. 
+
+
 **A Uniform Language for Safety, Robustness and Explainability.**
 
 _JELIA, 2025._
