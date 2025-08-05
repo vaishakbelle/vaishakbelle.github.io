@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 --- 
 
+**Aug 5, 2025**
+
+I'm excited to be joining as the  Director of Research and Innovation at the Bayes Centre. I'll be 40% at the Bayes. I'm particularly looking to see  how interest in generative AI and neurosymbolic AI could impact engagement with external stakeholders! https://bayes-centre.ed.ac.uk/
+
 **Jul 17, 2025**
 
 Jessica has a new paper accepted on "exploring verification frameworks for social choice alignment" at the Neurosymbolic Conference, 2025. This is one of the late-breaking papers.
