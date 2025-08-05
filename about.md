@@ -22,9 +22,7 @@ He is also Director of Research and Innovation at the Bayes Centre.
 He has made a career out of doing research on the science and technology of AI. He has published close to 120 peer-reviewed articles, won best paper awards, and consulted with banks on explainability. As PI and CoI, he has secured a grant income of close to 8 million pounds.* 
 
 **Brief bio:** *Dr Vaishak Belle (he/him) is a Chancellor’s Fellow and Reader at the School of Informatics, University of Edinburgh. 
-He is an Alan Turing Institute Faculty Fellow, a Royal Society University Research Fellow, and a member of the RSE (Royal Society of Edinburgh) Young Academy of Scotland. He is also Director of Research and Innovation at the Bayes Centre (40% of his time). 
-
-He was previously at KU Leuven (Belgium), University of Toronto (Canada), Aachen University of Technology (Germany) and University of Trento (Italy).*   
+He is an Alan Turing Institute Faculty Fellow, a Royal Society University Research Fellow, and a member of the RSE (Royal Society of Edinburgh) Young Academy of Scotland. He is also Director of Research and Innovation at the Bayes Centre (40% of his time). He was previously at KU Leuven (Belgium), University of Toronto (Canada), Aachen University of Technology (Germany) and University of Trento (Italy).*   
 
 *At the University of Edinburgh, he directs a research lab on artificial intelligence, specialising in the unification of logic and machine learning, with a recent emphasis on explainability and ethics. He has given research seminars at academic institutions such as MIT and Oxford, tutorials at AI conferences, and talks at venues such as Ars Electronica and the Samsung AI Forum.*
 
