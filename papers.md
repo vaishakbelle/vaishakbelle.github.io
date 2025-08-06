@@ -21,6 +21,12 @@ V. Belle.
 
 ---
 
+**Why not both? Complementing explanations with uncertainty, and self-confidence in human-AI collaboration.**
+
+_Frontiers in Computer Science, 2025._
+
+I. Papantonis  and V. Belle.
+
 **Explainability in machine learning: a pedagogical perspective.**
 
 _Frontiers in Education, 2025._
