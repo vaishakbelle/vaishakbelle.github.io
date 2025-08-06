@@ -21,6 +21,12 @@ V. Belle.
 
 ---
 
+**Doing AI Differently: Rethinking the Foundations of AI via the Humanities.**
+
+_The Alan Turing Institute, 2025. DOI: 10.5281/zenodo.16421296_
+
+Hemment, D., Kommers, C., et al. 
+
 **Exploring Verification Frameworks for Social Choice Alignment.**
 
 _NeSy, 2025._
