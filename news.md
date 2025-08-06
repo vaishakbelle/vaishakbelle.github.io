@@ -4,6 +4,11 @@ title: News
 permalink: /news/
 --- 
 
+
+**Aug 6, 2025**
+
+Proud to be a co-author the launch of the Doing AI Differently white paper at the The Alan Turing Institute. This publication is a call to action for meaningful change in AI, reflecting collective [insights from the arts and the humanities. And includes a mention of neuro-symbolic AI :-).](https://www.turing.ac.uk/news/publications/doing-ai-differently) 
+
 **Aug 5, 2025**
 
 I'm excited to be joining as the  Director of Research and Innovation at the Bayes Centre. I'll be 40% at the Bayes. I'm particularly looking to see  how interest in generative AI and neurosymbolic AI could impact engagement with external stakeholders! https://bayes-centre.ed.ac.uk/
