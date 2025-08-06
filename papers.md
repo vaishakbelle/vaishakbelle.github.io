@@ -21,6 +21,12 @@ V. Belle.
 
 ---
 
+**Explainability in machine learning: a pedagogical perspective.**
+
+_Frontiers in Education, 2025._
+
+A. Bueff, I. Papantonis, A. Simkute and V. Belle.
+
 **Doing AI Differently: Rethinking the Foundations of AI via the Humanities.**
 
 _The Alan Turing Institute, 2025. DOI: 10.5281/zenodo.16421296_
