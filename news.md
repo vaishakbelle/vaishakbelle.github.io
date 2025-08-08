@@ -4,7 +4,9 @@ title: News
 permalink: /news/
 --- 
 
+**Aug 8, 2025**
 
+We have 6 papers accepted at [HAR, from LLMs and beliefs, to reward machines](https://har-conf.eu). [Have a look here](/papers).
 
 
 **Aug 6, 2025**
