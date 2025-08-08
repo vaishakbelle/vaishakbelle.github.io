@@ -21,6 +21,39 @@ V. Belle.
 
 ---
 
+**Statistical relational learning and neuro-symbolic AI: what does first-order logic offer?**
+
+_HAR, 2025._
+
+V. Belle.
+
+**Logic (in action) meets probability: a new dawn for robotics?**
+
+_HAR, 2025._
+
+V. Belle.
+
+**Knowledge-Free and Knowledge-Based Theory of Mind Reasoning in Large Language Models.**
+
+_HAR, 2025._
+
+W. Tang & V. Belle.
+
+
+**MoRM: Cross Cultural Moral Reward Machines.**
+
+_HAR, 2025._
+
+J. Ciupa & V. Belle.
+
+
+**Breaking the Illusion: Revisiting LLM Anthropomorphism.**
+
+_HAR, 2025._
+
+C. Sypherd & V. Belle.
+
+
 **Why not both? Complementing explanations with uncertainty, and self-confidence in human-AI collaboration.**
 
 _Frontiers in Computer Science, 2025._
