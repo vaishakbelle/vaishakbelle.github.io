@@ -21,6 +21,12 @@ V. Belle.
 
 ---
 
+**Can Decomposition Surpass Human Bias on the Wason Task?**
+
+_HAR, 2025._
+
+A. Brown & V. Belle.
+
 **Statistical relational learning and neuro-symbolic AI: what does first-order logic offer?**
 
 _HAR, 2025._
