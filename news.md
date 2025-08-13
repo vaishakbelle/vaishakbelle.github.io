@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 --- 
 
+**Aug 13, 2025**
+
+I'll be joining Bev Hood for Tipping Point/Authenticity Unmasked Tour - where we'll talk about technical insights & discussions about the art and implications for the field of responsible AI. If you are here for the Edinburgh Fringe, pop in https://inspace.ed.ac.uk/bridging-responsible-ai-divides-braid-guided-expert-tours/
+
 **Aug 8, 2025**
 
 We have 6 papers accepted at [HAR, from LLMs and beliefs, to reward machines](https://har-conf.eu). [Have a look here](/papers).
