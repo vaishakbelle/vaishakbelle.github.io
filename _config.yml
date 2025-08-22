@@ -1,6 +1,8 @@
 # remote_theme: patdryburgh/hitchens 
 remote_theme: broccolini/swiss
 title: Dr Vaishak Belle 
+url: "https://vaishakbelle.github.io"
+baseurl: ""
 # description: Faculty at University of Edinburgh 
 #baseurl: "" # the subpath of your site, e.g. /blog
 # url: "vaishakbelle.github.io" # "vaishakbelle.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -35,7 +37,6 @@ plugins:
 # remote_theme: mmistakes/so-simple-theme
 # # remote_theme: mmistakes/so-simple-theme
 # #skin: "/assets/css/skins/default.css"
-url: "https://vaishakbelle.github.io"
-baseurl: ""
+
 
 
