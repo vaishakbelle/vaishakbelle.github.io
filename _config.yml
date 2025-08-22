@@ -35,3 +35,7 @@ plugins:
 # remote_theme: mmistakes/so-simple-theme
 # # remote_theme: mmistakes/so-simple-theme
 # #skin: "/assets/css/skins/default.css"
+url: "https://vaishakbelle.github.io"
+baseurl: ""
+
+
