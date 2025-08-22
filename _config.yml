@@ -3,7 +3,7 @@
 title: Dr Vaishak Belle 
 url: "https://vaishakbelle.github.io"
 baseurl: ""
-theme: broccolini/swiss
+remote_theme: broccolini/swiss
 # description: Faculty at University of Edinburgh 
 #baseurl: "" # the subpath of your site, e.g. /blog
 # url: "vaishakbelle.github.io" # "vaishakbelle.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -31,6 +31,7 @@ markdown: kramdown
 
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 # title: Dr Vaishak Belle
 # description: Dr Vaishak Belle
 # author: Dr Vaishak Belle
