@@ -4,6 +4,14 @@ title: News
 permalink: /news/
 --- 
 
+**Sep 3, 2025**
+
+Excited to be in Sweden next week to give a keynote talk on large and small models in the neurosymbolic AI context. 
+
+Language models And RePresentations (LARP) organised by the Centre for Linguistic Theory and Studies in Probability, Uni of Gothenburg 
+
+https://gu-clasp.github.io/LARP/index.html
+
 **Aug 13, 2025**
 
 I'll be joining Bev Hood for Tipping Point/Authenticity Unmasked Tour - where we'll talk about technical insights & discussions about the art and implications for the field of responsible AI. If you are here for the Edinburgh Fringe, pop in https://inspace.ed.ac.uk/bridging-responsible-ai-divides-braid-guided-expert-tours/
