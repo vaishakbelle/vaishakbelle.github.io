@@ -4,6 +4,12 @@ title: News
 permalink: /news/
 --- 
 
+**Sep 17, 2025**
+
+headed to Glasgow for a keynote at the "Playtime is Over GenAI" event by Capgemini. 
+
+Title: "Large Language Models & Reasoning -- Bridging Symbolic and Neural Approaches".
+
 **Sep 3, 2025**
 
 Excited to be in Sweden next week to give a keynote talk on large and small models in the neurosymbolic AI context. 
