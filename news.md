@@ -4,6 +4,13 @@ title: News
 permalink: /news/
 --- 
 
+**Sep 25, 2025**
+
+
+our new DDI Fellows Programme, designed to help University of Edinburgh staff develop and commercialise innovative ideas, is launching!
+
+[Supported by Emma and many others.](https://bsky.app/profile/vaishakbelle.bsky.social/post/3lzm2fi2s5m2t)
+
 **Sep 23, 2025**
 
 was excited to be giving "The Grand AI Perspective" talk at the group NAO's event here at the Edinburgh Futures Institute. These included travel associations from a range of destinations that I had travelled to!  https://groupnao.com 
