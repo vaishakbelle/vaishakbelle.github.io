@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 --- 
 
+**Oct 2, 2025**
+
+Happy for Nijesh to have had a paper "Satisfiability Modulo Theory Meets Inductive Logic Programming" accepted at IJCLR. We've been thinking about how to integrate linear constraints and real-valued constraints in inductive logic programming. And Nijesh has been working out a general solution for this. 
+
 **Sep 25, 2025**
 
 
