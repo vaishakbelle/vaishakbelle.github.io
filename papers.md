@@ -21,6 +21,12 @@ V. Belle.
 
 ---
 
+**Satisfiability Modulo Theory Meets Inductive Logic Programming.**
+
+_IJCLR, 2025._
+
+N. Uperti and V. Belle.
+
 **Can Decomposition Surpass Human Bias on the Wason Task?**
 
 _HAR, 2025._
