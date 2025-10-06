@@ -4,6 +4,11 @@ title: News
 permalink: /news/
 --- 
 
+**Oct 6, 2025**
+
+Very excited to be a mentor at the new AHRC sandpit (funding value totaling £1M) working with a team from the US, Canada and the UK. Do apply! 
+https://bsky.app/profile/vaishakbelle.bsky.social/post/3m2k6ozdtak2y
+
 **Oct 2, 2025**
 
 Happy for Nijesh to have had a paper "Satisfiability Modulo Theory Meets Inductive Logic Programming" accepted at IJCLR. We've been thinking about how to integrate linear constraints and real-valued constraints in inductive logic programming. And Nijesh has been working out a general solution for this. 
