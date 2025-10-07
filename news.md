@@ -4,10 +4,16 @@ title: News
 permalink: /news/
 --- 
 
+**Oct 7, 2025**
+
+
+The tipping point highlights from our [AHRC BRAID program is here!](https://vimeo.com/1123604736/f01595d84a?trk=feed-detail_main-feed-card_ingested-content-summary-external-video-content
+)
+
 **Oct 6, 2025**
 
-Very excited to be a mentor at the new AHRC sandpit (funding value totaling £1M) working with a team from the US, Canada and the UK. Do apply! 
-https://bsky.app/profile/vaishakbelle.bsky.social/post/3m2k6ozdtak2y
+Very excited to be a mentor at the new AHRC sandpit (funding value totaling £1M) working with a team from the US, Canada and the UK. [Do apply!](https://bsky.app/profile/vaishakbelle.bsky.social/post/3m2k6ozdtak2y) 
+
 
 **Oct 2, 2025**
 
