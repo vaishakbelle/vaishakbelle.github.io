@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 --- 
 
+**Oct 8, 2025**
+
+Our report for the Dagstuhl Seminar on [Logic and Neural Networks in February this year is now online.](https://drops.dagstuhl.de/entities/document/10.4230/DagRep.15.2.1) 
+
 **Oct 7, 2025**
 
 
