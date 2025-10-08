@@ -21,6 +21,12 @@ V. Belle.
 
 ---
 
+**Logic and Neural Networks (Dagstuhl Seminar 25061).**
+
+_Dagstuhl Reports, Volume 15, Issue 2, pp. 1-20, Schloss Dagstuhl – Leibniz-Zentrum für Informatik, 2025._
+
+V. Belle, M. Benedikt, D. Drachsler-Cohen, D. Neider, and T. Yuviler.
+
 **Satisfiability Modulo Theory Meets Inductive Logic Programming.**
 
 _IJCLR, 2025._
