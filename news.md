@@ -4,6 +4,12 @@ title: News
 permalink: /news/
 --- 
 
+**Oct 15, 2025**
+
+I’ll be in Copenhagen (DTU) this week for a talk on neurosymbolic AI, LLMs and the like. 
+
+[Thanks to Hugo Lopez for the invite!](https://bsky.app/profile/vaishakbelle.bsky.social/post/3m37tkrmwk62m)
+
 **Oct 8, 2025**
 
 Our report for the Dagstuhl Seminar on [Logic and Neural Networks in February this year is now online.](https://drops.dagstuhl.de/entities/document/10.4230/DagRep.15.2.1) 
