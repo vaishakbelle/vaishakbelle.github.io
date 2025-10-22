@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 --- 
 
+**Oct 22, 2025**
+
+Few of us are organizing a special issue on Neurosymbolic AI, looking at first-order logic, modal logic, causality & beyond. [Do consider submitting your work.](https://neurosymbolic-ai-journal.com/content/call-papers-special-issue-neurosymbolic-ai-first-order-logic-and-beyond)
+
 **Oct 20, 2025**
 
 I joined the editorial board of Nature Humanities and Social Sciences Communications. Send us your punchiest articles on AI & humanities :-)!
