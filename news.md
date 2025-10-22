@@ -10,7 +10,7 @@ Few of us are organizing a special issue on Neurosymbolic AI, looking at first-o
 
 **Oct 20, 2025**
 
-I joined the editorial board of Nature Humanities and Social Sciences Communications. Send us your punchiest articles on AI & humanities :-)!
+I joined the editorial board of [Nature Humanities and Social Sciences Communications](https://www.nature.com/palcomms/). Send us your punchiest articles on AI & humanities :-)!
 
 **Oct 15, 2025**
 
