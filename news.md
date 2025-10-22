@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 --- 
 
+**Oct 20, 2025**
+
+I joined the editorial board of Nature Humanities and Social Sciences Communications. Send us your punchiest articles on AI & humanities :-)!
+
 **Oct 15, 2025**
 
 I’ll be in Copenhagen (DTU) this week for a talk on neurosymbolic AI, LLMs and the like. 
