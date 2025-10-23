@@ -4,6 +4,11 @@ title: News
 permalink: /news/
 --- 
 
+**Oct 23, 2025**
+
+So kicked to finally hold our children's book "the girl and the robot", published by Parakeet Books, is printed & here! https://www.parakeetbooks.com/blogs/new-book-alert-the-girl-and-the-robot/ 
+
+
 **Oct 22, 2025**
 
 Few of us are organizing a special issue on Neurosymbolic AI, looking at first-order logic, modal logic, causality & beyond. [Do consider submitting your work.](https://neurosymbolic-ai-journal.com/content/call-papers-special-issue-neurosymbolic-ai-first-order-logic-and-beyond)
