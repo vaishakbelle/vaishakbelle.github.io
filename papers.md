@@ -11,7 +11,7 @@ permalink: /papers/
 
 --- 
 
-**Book:**
+**Books:**
 
 [**Toward Robots That Reason: Logic, Probability & Causal Laws.**](https://link.springer.com/book/10.1007/978-3-031-21003-7)
 
