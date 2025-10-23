@@ -19,6 +19,12 @@ permalink: /papers/
 
 V. Belle. 
 
+[**The Girl and the Robot**](https://www.parakeetbooks.com/blogs/new-book-alert-the-girl-and-the-robot/)
+
+_Parakeet books_, 2025.
+
+V. Belle & L. Chan.
+
 ---
 
 **Logic and Neural Networks (Dagstuhl Seminar 25061).**
