@@ -4,6 +4,12 @@ title: News
 permalink: /news/
 --- 
 
+**Oct 30, 2025**
+
+A few weeks ago, I appeared on the future medicine podcast with Abigail. This was such a fun conversation and we veered off into interesting territory about the importance of neuro-symbolic AI 
+
+https://www.linkedin.com/posts/futuremedicine_ai-neurosymbolicai-futuremedicine-ugcPost-7389702987046330368-NQ1N
+
 **Oct 23, 2025**
 
 So kicked to finally hold our children's book "the girl and the robot", published by Parakeet Books, is printed & here! https://www.parakeetbooks.com/blogs/new-book-alert-the-girl-and-the-robot/ 
