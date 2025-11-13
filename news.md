@@ -4,6 +4,12 @@ title: News
 permalink: /news/
 --- 
 
+**Nov 13, 2025**
+
+Excited to report that Gary Marcus  and I have a new position paper at the AAAI-2026 in the "Emerging Trends in AI" track. 
+We make a case for neuro-symbolic AI, survey the field briefly, and point to various case studies that seem to also imply the need and growth of this paradigm. 
+
+
 **Oct 30, 2025**
 
 A few weeks ago, I appeared on the future medicine podcast with Abigail. This was such a fun conversation and we veered off into interesting territory about the importance of neuro-symbolic AI 
