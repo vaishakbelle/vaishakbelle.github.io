@@ -27,6 +27,13 @@ V. Belle & L. Chan.
 
 ---
 
+
+**The Future is Neuro-Symbolic: Where has it been, and where is it going?**
+
+_AAAI (Emerging Trends in AI), 2026._
+
+V. Belle and G. Marcus.
+
 **Logic and Neural Networks (Dagstuhl Seminar 25061).**
 
 _Dagstuhl Reports, Volume 15, Issue 2, pp. 1-20, Schloss Dagstuhl – Leibniz-Zentrum für Informatik, 2025._
