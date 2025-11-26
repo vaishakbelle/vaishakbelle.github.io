@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 --- 
 
+**Nov 27, 2025**
+
+excited to be in Valencia next week to give a talk to the Valencia AI community: https://www.linkedin.com/posts/valgrai_valgrai-ia-ai-activity-7399409260008312832-nBus?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAicNYQBY_8JWpwIsWbFIZ3qEBTk3M1S8jA
+
 **Nov 13, 2025**
 
 Excited to report that Gary Marcus  and I have a new position paper at the AAAI-2026 in the "Emerging Trends in AI" track. 
