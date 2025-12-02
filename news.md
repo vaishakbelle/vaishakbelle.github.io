@@ -4,9 +4,20 @@ title: News
 permalink: /news/
 --- 
 
+**Dec 1, 2025**
+
+[Proceedings for our work on IJCLR/ILP 2024, Nanjing, China are now online.](https://lnkd.in/epd_Hpnx) We looked into work
+
+- on checking misinformation using counterfactuals 
+- theories of probabilistic abstraction 
+- the semantics of neural networks within the situation calculus 
+- inductive learning without an explicit hypothesis 
+
+
+
 **Nov 27, 2025**
 
-excited to be in Valencia next week to give a talk to the Valencia AI community: https://www.linkedin.com/posts/valgrai_valgrai-ia-ai-activity-7399409260008312832-nBus?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAicNYQBY_8JWpwIsWbFIZ3qEBTk3M1S8jA
+excited to be in Valencia next week to give a [talk to the Valencia AI community.](https://www.linkedin.com/posts/valgrai_valgrai-ia-ai-activity-7399409260008312832-nBus?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAicNYQBY_8JWpwIsWbFIZ3qEBTk3M1S8jA)
 
 **Nov 13, 2025**
 
