@@ -56,21 +56,25 @@ For example, our recent work has touched upon:
 
 
 
-*   _Xue Li_ (Postdoctoral fellow with Bjorn Ross), interested in counterfactuals and language models
-*   _Antonio Miceli_ (Postdoctoral fellow with Cisco), interested in large language models, logic and vision
-*   _Daga Panas_ (Postdoctoral fellow with Cisco), interested in large language models, logic and vision
-*   _Jessica Ciupa_ (Masters by Research), interested in RL and ethics 
+*   _Antonio Miceli_ (Postdoctoral fellow with AISI), interested in large language models and games 
+*   _Jessica Ciupa_ (DAIR CDT), interested in RL and ethics 
 *   _Nijesh Uperti_, interested in abstraction and logic-based learning
 *   _Ruta Tang_, interested in large language models and logic
-*  _Chris Sypherd_, interested in agents and LLMs
-*  _Ambrose Brown_, interested in explanations and LLMs 
+*  _Ambrose Brown_, interested in explanations and LLMs
+*  _Max Scribner_ (Masters by Research), interested in Neuro-symbolic AI and language
+  
 
 
 
 **Alumni:**
 
+*   _Daga Panas_ (Postdoctoral fellow with Cisco), interested in large language models, logic and vision
+*   _Antonio Miceli_ (Postdoctoral fellow with Cisco), interested in large language models and programs 
+*   _Xue Li_ (Postdoctoral fellow with Bjorn Ross), interested in counterfactuals and language models
 *   _Daxin Liu_ (Postdoctoral fellow with Royal Society), interested in probabilistic modal logics
 *   _Miguel Mendez Lucero_ (PhD 2024), interested in neuro-symbolic AI
+*  _Chris Sypherd_ (Masters by Research 2025), interested in agents and LLMs
+*   _Jessica Ciupa_ (Masters by Research 2024), interested in RL and ethics 
 *   _Benedicte Legastelois_ (Postdoctoral fellow with TAS project collaborators), interested in explainability
 *   _Jonathan Feldstein_ (PhD 2024), interested in neuro-symbolic AI
 *   _Andreas Bueff_ (PhD 2023), interested in tractable learning and reinforcement learning
