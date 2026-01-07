@@ -28,6 +28,13 @@ V. Belle & L. Chan.
 ---
 
 
+**Epistemic Modal Logic Meets Algebraic Model Counting.**
+
+_AAMAS, 2026._
+
+D. Liu and V. Belle. 
+
+
 **The Future is Neuro-Symbolic: Where has it been, and where is it going?**
 
 _AAAI (Emerging Trends in AI), 2026._
