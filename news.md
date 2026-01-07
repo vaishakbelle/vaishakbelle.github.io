@@ -4,6 +4,17 @@ title: News
 permalink: /news/
 --- 
 
+
+
+**Dec 25, 2025**
+
+Our AAMAS submission has been accepted for publication as a full paper! The paper is on Epistemic Modal Logic and its connection to Algebraic Model Counting.
+
+
+**Dec 15, 2025**
+
+Will be giving a talk at MIT CSAIL on neurosymbolic AI. [Join here.](https://www.csail.mit.edu/event/vaishak-belle-dec-19-11am-reasoning-small-large-models-bridging-symbolic-and-neural)
+
 **Dec 1, 2025**
 
 [Proceedings for our work on IJCLR/ILP 2024, Nanjing, China are now online.](https://lnkd.in/epd_Hpnx) We looked into work
