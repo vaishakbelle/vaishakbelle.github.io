@@ -15,6 +15,10 @@ Our AAMAS submission has been accepted for publication as a full paper! The pape
 
 Will be giving a talk at MIT CSAIL on neurosymbolic AI. [Join here.](https://www.csail.mit.edu/event/vaishak-belle-dec-19-11am-reasoning-small-large-models-bridging-symbolic-and-neural)
 
+**Dec 10, 2025**
+
+We now have a special call for Neurosymbolic Benchmark Papers: short-to-medium-sized papers (typically up to 12 pages) presenting and [describing novel neurosymbolic benchmarks with corresponding tasks, metrics, and datasets.](https://www.linkedin.com/posts/vaishakbelle_httpslnkdinevtuyibr-we-now-have-a-activity-7405201415050010624-N_Cx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAicNYQBY_8JWpwIsWbFIZ3qEBTk3M1S8jA)
+
 **Dec 1, 2025**
 
 [Proceedings for our work on IJCLR/ILP 2024, Nanjing, China are now online.](https://lnkd.in/epd_Hpnx) We looked into work
