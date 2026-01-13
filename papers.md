@@ -28,11 +28,19 @@ V. Belle & L. Chan.
 ---
 
 
+
 **Epistemic Modal Logic Meets Algebraic Model Counting.**
 
 _AAMAS, 2026._
 
 D. Liu and V. Belle. 
+
+
+**Unreasonable effectiveness of LLM reasoning: a doubly cautionary tale of temporal question-answering.**
+
+_TMLR, 2025._
+
+D. Panas,  A. Payani and V. Belle.
 
 
 **The Future is Neuro-Symbolic: Where has it been, and where is it going?**
