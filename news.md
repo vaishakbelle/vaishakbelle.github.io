@@ -5,6 +5,12 @@ permalink: /news/
 --- 
 
 
+**Jan 10, 2026**
+
+Together with Ali Payani from Cisco, Daga and I have a paper accepted in [Transactions on Machine Learning Research.](https://t.co/59aWyAxc24) 
+It discusses our issues of integrating a symbolic solver with LLMs. 
+
+
 
 **Dec 25, 2025**
 
