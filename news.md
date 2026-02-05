@@ -4,6 +4,9 @@ title: News
 permalink: /news/
 --- 
 
+**Feb 5, 2026**
+
+the BRAID program has launched a new MOOC on responsible AI https://www.linkedin.com/feed/update/urn:li:share:7425205948786376704
 
 **Jan 10, 2026**
 
