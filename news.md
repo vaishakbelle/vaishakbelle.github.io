@@ -4,6 +4,11 @@ title: News
 permalink: /news/
 --- 
 
+**Feb 10, 2026**
+
+if you are in Edinburgh, drop by to our discussion on the growing concerns around the use of AI in research https://www.linkedin.com/feed/update/urn:li:share:7426936772066029568
+
+
 **Feb 5, 2026**
 
 the BRAID program has launched a new MOOC on responsible AI https://www.linkedin.com/feed/update/urn:li:share:7425205948786376704
