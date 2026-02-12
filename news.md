@@ -4,6 +4,12 @@ title: News
 permalink: /news/
 --- 
 
+**Feb 12, 2026**
+
+Will be teaching "Logic meets Learning" at ESSAI 2026, July in Vienna! Tutorial explores how symbolic reasoning and data-driven learning can work together—covering neuro-symbolic systems.
+https://essai2026.eu/program.php 
+
+
 **Feb 10, 2026**
 
 if you are in Edinburgh, drop by to our discussion on the growing concerns around the use of AI in research https://www.linkedin.com/feed/update/urn:li:share:7426936772066029568
