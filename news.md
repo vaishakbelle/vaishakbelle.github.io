@@ -9,6 +9,9 @@ permalink: /news/
 Gave a talk today at Imperial College London on neurosymbolic AI, LLMs, loss functions and symbolic executors. 
 https://www.linkedin.com/feed/update/urn:li:ugcPost:7430332280771883008
 
+**Feb 18, 2026**
+The next installation of our Exec Ed course on Gen AI is happening in a few months. Sign up now https://www.linkedin.com/posts/jackie-whittaker-mba-66510923_ai-and-generative-ai-for-leaders-empowering-activity-7429865123424612352-nhDF
+
 
 **Feb 12, 2026**
 
