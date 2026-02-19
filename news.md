@@ -4,6 +4,12 @@ title: News
 permalink: /news/
 --- 
 
+**Feb 19, 2026**
+
+Gave a talk today at Imperial College London on neurosymbolic AI, LLMs, loss functions and symbolic executors. 
+https://www.linkedin.com/feed/update/urn:li:ugcPost:7430332280771883008
+
+
 **Feb 12, 2026**
 
 Will be teaching "Logic meets Learning" at ESSAI 2026, July in Vienna! Tutorial explores how symbolic reasoning and data-driven learning can work together—covering neuro-symbolic systems.
