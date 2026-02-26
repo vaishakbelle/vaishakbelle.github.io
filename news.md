@@ -4,6 +4,11 @@ title: News
 permalink: /news/
 --- 
 
+**Feb 25, 2026**
+
+happy to announce that our manuscript "Neuro-symbolic Weak Supervision: Theory and Semantics," has been accepted for the Royal Society's Philosophical Transactions A! [Congrats to Nijesh on all of his hard work.](https://www.linkedin.com/feed/update/urn:li:ugcPost:7432799352924008450)
+It explores what the heck is going on with weak supervision (e.g., symbolic loss functions) :-).
+
 **Feb 19, 2026**
 
 Gave a talk today at Imperial College London on neurosymbolic AI, LLMs, loss functions and symbolic executors. 
