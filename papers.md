@@ -27,6 +27,12 @@ V. Belle & L. Chan.
 
 ---
 
+**Neuro-symbolic Weak Supervision: Theory and Semantics.**
+
+_Philosophical Transactions
+of the Royal Society A, 2026._
+
+N. Uperti & V. Belle.
 
 
 **Epistemic Modal Logic Meets Algebraic Model Counting.**
