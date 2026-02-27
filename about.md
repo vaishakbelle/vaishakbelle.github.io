@@ -28,7 +28,7 @@ He is an Alan Turing Institute Faculty Fellow, a Royal Society University Resear
 
 *He has co-authored close to 150 peer-reviewed articles on AI, at venues such as IJCAI, UAI, AAAI, MLJ, AIJ, JAIR, AAMAS, and along with his co-authors, he has won the Microsoft best paper award at UAI, the Machine learning journal best student paper award at ECML-PKDD, and the Machine learning journal best student paper award at ILP. In 2014, he received a silver medal by the Kurt Goedel Society.*
 
-*He has served on the senior program committee/area chair of major AI conferences, co-chaired the ML track at KR, among others, and as PI and CoI secured a grant income of over 10 million pounds. He is also CoI of the 15.9 million investment in enabling responsible AI in the UK, funded by the Arts and Humanities Research Council (AHRC) -- the BRAID Programme. He has consulted with major banks on explainable AI and its impact in financial institutions.*
+*He has served on the senior program committee/area chair of major AI conferences, co-chaired the ML track at KR, among others. As PI and CoI secured a grant income of over 10 million pounds. He is also CoI of the 15.9 million investment in enabling responsible AI in the UK, funded by the Arts and Humanities Research Council (AHRC) -- the BRAID Programme. He has consulted with major banks on explainable AI and its impact in financial institutions.*
 
 **A few representative publications are below, organized thematically.**
 
