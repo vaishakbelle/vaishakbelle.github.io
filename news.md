@@ -4,9 +4,12 @@ title: News
 permalink: /news/
 --- 
 
+**Feb 28, 2026**
 
+participated in a roundtable with the chambers of commerce 
+https://www.linkedin.com/posts/edinburgh-chamber-of-commerce_on-friday-we-were-delighted-to-be-joined-ugcPost-7434641333241155584-1W4l
 
-**Feb 26, 2027**
+**Feb 26, 2026**
 
 Innovation vs. responsibility isn't a battle! Led this round table conversation w.r.t. BRAID's launch of the Responsible AI for SMEs MOOC. https://www.linkedin.com/posts/activity-7432828316757422080-RE7Y?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAicNYQBY_8JWpwIsWbFIZ3qEBTk3M1S8jA
 
