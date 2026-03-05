@@ -6,7 +6,7 @@ permalink: /news/
 
 **Feb 28, 2026**
 
-participated in a roundtable with the chambers of commerce 
+was fun to be in a roundtable with IBM and the chambers of commerce 
 https://www.linkedin.com/posts/edinburgh-chamber-of-commerce_on-friday-we-were-delighted-to-be-joined-ugcPost-7434641333241155584-1W4l
 
 **Feb 26, 2026**
