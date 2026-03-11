@@ -27,6 +27,12 @@ V. Belle & L. Chan.
 
 ---
 
+**A Neurosymbolic Approach to Counterfactual Fairness.**
+
+_Neurosymbolic Artificial Intelligence, 2026._
+
+X. Heilmann, C. Manganini, M. Cerrato, L. Kestel, and V. Belle.
+
 **Neuro-symbolic Weak Supervision: Theory and Semantics.**
 
 _Philosophical Transactions
