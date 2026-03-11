@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 --- 
 
+**Mar 11, 2026**
+
+We have our paper accepted -- a neuro-symbolic approach to counterfactual fairness, at the Neurosymbolic Artificial Intelligence journal. Handles things like [sub-group fairness via logic tensor networks.](https://www.linkedin.com/feed/update/urn:li:share:7437486184693518336)
+
 **Feb 28, 2026**
 
 last week, it was fun to host & be in a roundtable with IBM and Chamber of Commerce 
