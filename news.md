@@ -8,6 +8,12 @@ permalink: /news/
 
 Looking forward to talking on neurosymbolic AI in Milan next month https://www.linkedin.com/posts/gprimiero_workshop-learning-with-guarantees-neurosymbolic-activity-7439596482900582404-iiCV
 
+**Mar 16, 2026**
+
+https://lnkd.in/eqFKV4bH 
+
+Here in Sweden for the nice program on neurosymbolic AI by Luc, Pablo and team
+
 **Mar 11, 2026**
 
 We have our paper accepted -- a neuro-symbolic approach to counterfactual fairness, at the Neurosymbolic Artificial Intelligence journal. Handles things like [sub-group fairness via logic tensor networks.](https://www.linkedin.com/feed/update/urn:li:share:7437486184693518336)
