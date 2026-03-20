@@ -12,7 +12,7 @@ Looking forward to talking on neurosymbolic AI in Milan next month https://www.l
 
 https://lnkd.in/eqFKV4bH 
 
-Here in Sweden for the nice program on neurosymbolic AI by Luc, Pablo and team
+Here in Sweden for the Wallenberg AI  program on neurosymbolic AI by Luc, Pablo and team
 
 **Mar 11, 2026**
 
