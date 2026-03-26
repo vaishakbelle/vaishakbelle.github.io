@@ -4,7 +4,13 @@ title: News
 permalink: /news/
 --- 
 
-**March 17, 2026**
+**Mar 26, 2026**
+
+https://www.sps.ed.ac.uk/news-events/event/between-law-and-technology-explainable-ai-and-ai-assurance
+
+Tomorrow I’ll be talking about neuro-symbolic AI, accountability and explainability at the controversies in data society. 
+
+**Mar 17, 2026**
 
 Looking forward to talking on neurosymbolic AI in Milan next month https://www.linkedin.com/posts/gprimiero_workshop-learning-with-guarantees-neurosymbolic-activity-7439596482900582404-iiCV
 
