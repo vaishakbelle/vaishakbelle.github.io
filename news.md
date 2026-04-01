@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 --- 
 
+**Mar 31, 2026**
+
+Together with Cheng and Luo, the Bayes center is hosting an Edge AI workshop on Thursday: https://bsky.app/profile/vaishakbelle.bsky.social/post/3midldrujeo2r
+
 **Mar 26, 2026**
 
 https://www.sps.ed.ac.uk/news-events/event/between-law-and-technology-explainable-ai-and-ai-assurance
