@@ -2,7 +2,11 @@
 layout: page
 title: News
 permalink: /news/
---- 
+---
+
+**Apr 8, 2026**
+
+Very excited to be part of the investigator team of UKRI's Quantum Advantage TurboCHarger (QATCH). Will be looking at trust and verification with hybrid models. https://www.ed.ac.uk/news/quantum-computing-research-turbocharged-by-funding-boost
 
 **Mar 31, 2026**
 

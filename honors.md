@@ -46,6 +46,7 @@ Funding
 --------
 
 
+* [**Quantum Advantage TurboCHarger (QATCH)**](https://www.ed.ac.uk/news/quantum-computing-research-turbocharged-by-funding-boost), UKRI, co-investigator on trust and verification with hybrid models, 2026
 * **Safety evaluation of LLM-based agents on cooperative and competitive games**, UKRI AISI Institute - Systemic AI
 Safety Grant, with Shay Cohen and Antonio Barone, 2025 
 * **[Logically consistent and coherent querying from large language models](https://medium.com/@vaishakbelle/news-new-collaborative-project-with-cisco-on-large-language-models-b2ed21290e4b)**, CISCO, 2024
