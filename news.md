@@ -4,6 +4,11 @@ title: News
 permalink: /news/
 ---
 
+**Apr 9, 2026**
+
+In June, I'll be giving a talk on "The Future is Neuro-symbolic" at the ScaDS.AI Summer School 2026 on Neuro+Symbolic AI. Registration is now open. https://www.linkedin.com/posts/scads-ai_the-registration-for-the-scadsai-summer-activity-7442187092283203584-p3EO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAicNYQBY_8JWpwIsWbFIZ3qEBTk3M1S8jA
+
+
 **Apr 8, 2026**
 
 Very excited to be part of the investigator team of UKRI's Quantum Advantage TurboCHarger (QATCH). Will be looking at trust and verification with hybrid models. https://www.ed.ac.uk/news/quantum-computing-research-turbocharged-by-funding-boost
