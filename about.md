@@ -19,7 +19,7 @@ permalink: /about/
  
 **Very brief bio:** *Dr Vaishak Belle (he/him) is Reader at the University of Edinburgh, an Alan Turing Fellow, and a Royal Society University Research Fellow. 
 He is also Director of Research and Innovation at the Bayes Centre. 
-He has made a career out of doing research on the science and technology of AI. He has published close to 150 peer-reviewed articles, won best paper awards, and consulted with banks on explainability. As PI and CoI, he has secured a grant income of over 10 million pounds.* 
+He has made a career out of doing research on the science and technology of AI. He has published close to 150 peer-reviewed articles, won best paper awards, and consulted with banks on explainability. As PI and CoI, he has secured a grant income of close to 40 million pounds.* 
 
 **Brief bio:** *Dr Vaishak Belle (he/him) is a Chancellor’s Fellow and Reader at the School of Informatics, University of Edinburgh. 
 He is an Alan Turing Institute Faculty Fellow, a Royal Society University Research Fellow, and a member of the RSE (Royal Society of Edinburgh) Young Academy of Scotland. He is also Director of Research and Innovation at the Bayes Centre (40% of his time). He was previously at KU Leuven (Belgium), University of Toronto (Canada), Aachen University of Technology (Germany) and University of Trento (Italy).*   
@@ -28,17 +28,9 @@ He is an Alan Turing Institute Faculty Fellow, a Royal Society University Resear
 
 *He has co-authored close to 150 peer-reviewed articles on AI, at venues such as IJCAI, UAI, AAAI, MLJ, AIJ, JAIR, AAMAS, and along with his co-authors, he has won the Microsoft best paper award at UAI, the Machine learning journal best student paper award at ECML-PKDD, and the Machine learning journal best student paper award at ILP. In 2014, he received a silver medal by the Kurt Goedel Society.*
 
-*He has served on the senior program committee/area chair of major AI conferences, co-chaired the ML track at KR, among others. As PI and CoI secured a grant income of over 10 million pounds. He is also CoI of the 15.9 million investment in enabling responsible AI in the UK, funded by the Arts and Humanities Research Council (AHRC) -- the BRAID Programme. He has consulted with major banks on explainable AI and its impact in financial institutions.*
+*He has served on the senior program committee/area chair of major AI conferences, co-chaired the ML track at KR, among others. As PI and CoI secured a grant income of close to 40 million pounds. He is  CoI of the 16 million investment in enabling responsible AI in the UK, funded by the Arts and Humanities Research Council (AHRC) -- the BRAID Programme. He is also CoI on the 20 million Quantum Advantage TurboCHarger (QATCH) programme by UKRI. He has consulted with major banks on explainable AI and its impact in financial institutions.*
 
 **A few representative publications are below, organized thematically.**
-
-<!-- See also:**  
-
-* [DBLP](https://dblp.org/pid/52/570) 
-* [Edinburgh Preprints](https://www.research.ed.ac.uk/portal/en/persons/vaishak-belle(bd14c9d9-1e8b-4816-b547-d3727e0d8537)/publications.html), and 
-* [Google Scholar](http://scholar.google.co.uk/citations?user=iQNOnjEAAAAJ)
- -->
-
 
 
 
