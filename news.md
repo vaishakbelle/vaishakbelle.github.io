@@ -4,6 +4,11 @@ title: News
 permalink: /news/
 ---
 
+**Apr 14, 2026**
+
+Gary Marcus argues that much of Claude Code engine is so good because its inherently neuro-symbolic (cf our AAAI-2026 paper): https://garymarcus.substack.com/p/the-biggest-advance-in-ai-since-the?r=8tdk6&utm_medium=ios&triedRedirect=true
+
+
 **Apr 9, 2026**
 
 In June, I'll be giving a talk on "The Future is Neuro-symbolic" at the ScaDS.AI Summer School 2026 on Neuro+Symbolic AI. Registration is now open. https://www.linkedin.com/posts/scads-ai_the-registration-for-the-scadsai-summer-activity-7442187092283203584-p3EO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAicNYQBY_8JWpwIsWbFIZ3qEBTk3M1S8jA
