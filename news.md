@@ -6,6 +6,11 @@ permalink: /news/
 
 **Apr 14, 2026**
 
+I wrote a thought piece on Generative AI for the Bayes center. Part 1 here: https://bayes-centre.ed.ac.uk/news/the-reality-of-generative-ai-achievements-and-limitations
+
+
+**Apr 14, 2026**
+
 Gary Marcus argues that much of Claude Code engine is so good because its inherently neuro-symbolic (cf our AAAI-2026 paper): https://garymarcus.substack.com/p/the-biggest-advance-in-ai-since-the?r=8tdk6&utm_medium=ios&triedRedirect=true
 
 
