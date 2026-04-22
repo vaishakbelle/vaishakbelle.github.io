@@ -4,6 +4,11 @@ title: News
 permalink: /news/
 ---
 
+**Apr 22, 2026**
+
+The Doing AI Differently team (led by Drew) and The Alan Turing Institute are organising the Culture x AI workshop at ICML: https://www.doingaidifferently.org/culturexaiworkshop
+
+
 **Apr 14, 2026**
 
 I wrote a thought piece on Generative AI for the Bayes center. Part 1 here: https://bayes-centre.ed.ac.uk/news/the-reality-of-generative-ai-achievements-and-limitations
