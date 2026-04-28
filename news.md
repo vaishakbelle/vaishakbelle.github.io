@@ -4,9 +4,9 @@ title: News
 permalink: /news/
 ---
 
-**Apr 26, 2026**
+**Apr 28, 2026**
 
-Interpretable Moral Decision-Making under Epistemic Uncertainty (Jessica Ciupa, Vaishak Belle, Antonia Sewell) accepted at NeSy 2026.
+In August, I'll be giving a tutorial on neuro-symbolic AI at the Scandinavian Logic Society Summer School in Copenhagen: https://slss2026.compute.dtu.dk/logic-meets-learning-explanations-and-llm-based-symbolic-executors/
 
 
 **Apr 27, 2026**
@@ -14,9 +14,9 @@ Interpretable Moral Decision-Making under Epistemic Uncertainty (Jessica Ciupa, 
 Soft Symbol Grounding for Prototypical Concepts (Marcos Galván-López, Nijesh Upreti, Vaishak Belle) accepted at NeSy 2026.
 
 
-**Apr 27, 2026**
+**Apr 26, 2026**
 
-In August, I'll be giving a tutorial on neuro-symbolic AI at the Scandinavian Logic Society Summer School in Copenhagen: https://slss2026.compute.dtu.dk/logic-meets-learning-explanations-and-llm-based-symbolic-executors/
+Interpretable Moral Decision-Making under Epistemic Uncertainty (Jessica Ciupa, Vaishak Belle, Antonia Sewell) accepted at NeSy 2026.
 
 
 **Apr 25, 2026**
