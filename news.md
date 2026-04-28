@@ -4,12 +4,12 @@ title: News
 permalink: /news/
 ---
 
-**Apr 28, 2026**
+**Apr 26, 2026**
 
 Interpretable Moral Decision-Making under Epistemic Uncertainty (Jessica Ciupa, Vaishak Belle, Antonia Sewell) accepted at NeSy 2026.
 
 
-**Apr 28, 2026**
+**Apr 26, 2026**
 
 Soft Symbol Grounding for Prototypical Concepts (Marcos Galván-López, Nijesh Upreti, Vaishak Belle) accepted at NeSy 2026.
 
