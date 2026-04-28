@@ -4,6 +4,11 @@ title: News
 permalink: /news/
 ---
 
+**Apr 25, 2026**
+
+Our exec ed on AI and Gen AI kicked off last week with our new cohort, with Neil Pollock on "leading in the age of AI": https://www.business-school.ed.ac.uk/executive-education/ai-and-generative-ai-for-leaders
+
+
 **Apr 24, 2026**
 
 It was fun to chair the Bayes Community Collider inviting some of our newest members to present and discuss their vision: https://www.linkedin.com/posts/bayes-centre_bayescentrecommunity-datascience-ai-activity-7447278313439588352-0E7w
