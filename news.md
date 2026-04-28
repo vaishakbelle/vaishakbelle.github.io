@@ -4,6 +4,11 @@ title: News
 permalink: /news/
 ---
 
+**Apr 24, 2026**
+
+It was fun to chair the Bayes Community Collider inviting some of our newest members to present and discuss their vision: https://www.linkedin.com/posts/bayes-centre_bayescentrecommunity-datascience-ai-activity-7447278313439588352-0E7w
+
+
 **Apr 22, 2026**
 
 The Doing AI Differently team (led by Drew) and The Alan Turing Institute are organising the Culture x AI workshop at ICML: https://www.doingaidifferently.org/culturexaiworkshop
