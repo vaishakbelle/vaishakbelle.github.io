@@ -27,6 +27,12 @@ V. Belle & L. Chan.
 
 ---
 
+**Soft Symbol Grounding for Prototypical Concepts.**
+
+_NeSy, 2026._
+
+M. Galván-López, N. Upreti, and V. Belle.
+
 **[LLMs, Limitations and Capabilities: Musings from a Logician's Viewpoint.](https://cspafrica.org/wp-content/uploads/2026/04/2.-EZ-BELLE-LARGE-LANGUAGE-MODELS.pdf)**
 
 _Ezumezu: African Perspectives on Logic, Transhumanism and AI Ethics, 2026._
