@@ -27,6 +27,12 @@ V. Belle & L. Chan.
 
 ---
 
+**Interpretable Moral Decision-Making under Epistemic Uncertainty.**
+
+_NeSy, 2026._
+
+J. Ciupa, V. Belle, and A. Sewell.
+
 **Soft Symbol Grounding for Prototypical Concepts.**
 
 _NeSy, 2026._
