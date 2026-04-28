@@ -4,6 +4,11 @@ title: News
 permalink: /news/
 ---
 
+**Apr 27, 2026**
+
+In August, I'll be giving a tutorial on neuro-symbolic AI at the Scandinavian Logic Society Summer School in Copenhagen: https://slss2026.compute.dtu.dk/logic-meets-learning-explanations-and-llm-based-symbolic-executors/
+
+
 **Apr 25, 2026**
 
 Our exec ed on AI and Gen AI kicked off last week with our new cohort, with Neil Pollock on "leading in the age of AI": https://www.business-school.ed.ac.uk/executive-education/ai-and-generative-ai-for-leaders
