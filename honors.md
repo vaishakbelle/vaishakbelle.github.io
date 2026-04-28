@@ -60,6 +60,28 @@ Safety Grant, with Shay Cohen and Antonio Barone, 2025
 
 * * *
 
+PhD Examining
+-------
+
+**External examiner**
+
+*   Qihui Feng, RWTH Aachen, 2026
+*   Chiara Manganini, University of Milan, 2026
+*   Victor Verreet, KU Leuven, 2025
+*   Benjie Wang, University of Oxford, 2024
+*   Ben Krakup, King's College London, 2024
+*   Sagar Malhotra, University of Trento, 2023
+*   Nitesh Kumar, KU Leuven, 2023
+*   Pascal Chinedu Ezenkwu, University of Aberdeen, 2022
+*   Daxin Liu, RWTH Aachen, 2022
+
+**Internal examiner**
+
+*   Ebtehal Alotaibi, University of Edinburgh, 2026
+*   Kwabena Nuamah, University of Edinburgh, 2019
+
+* * *
+
 Service
 -------
 
