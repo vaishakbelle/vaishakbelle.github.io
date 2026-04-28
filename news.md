@@ -14,6 +14,11 @@ Our exec ed on AI and Gen AI kicked off last week with our new cohort, with Neil
 It was fun to chair the Bayes Community Collider inviting some of our newest members to present and discuss their vision: https://www.linkedin.com/posts/bayes-centre_bayescentrecommunity-datascience-ai-activity-7447278313439588352-0E7w
 
 
+**Apr 23, 2026**
+
+I gave a talk in celebration of UNESCO World Logic Day in 2025. This is now published as a position piece in the Ezumezu journal: "LLMs, Limitations and Capabilities: Musings from a Logician's Viewpoint": https://cspafrica.org/wp-content/uploads/2026/04/2.-EZ-BELLE-LARGE-LANGUAGE-MODELS.pdf
+
+
 **Apr 22, 2026**
 
 The Doing AI Differently team (led by Drew) and The Alan Turing Institute are organising the Culture x AI workshop at ICML: https://www.doingaidifferently.org/culturexaiworkshop
