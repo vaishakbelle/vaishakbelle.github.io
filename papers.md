@@ -29,7 +29,7 @@ V. Belle & L. Chan.
 
 **[LLMs, Limitations and Capabilities: Musings from a Logician's Viewpoint.](https://cspafrica.org/wp-content/uploads/2026/04/2.-EZ-BELLE-LARGE-LANGUAGE-MODELS.pdf)**
 
-_Ezumezu: A Journal of Philosophy, 2026._
+_Ezumezu: African Perspectives on Logic, Transhumanism and AI Ethics, 2026._
 
 V. Belle.
 
