@@ -4,6 +4,11 @@ title: News
 permalink: /news/
 ---
 
+**May 8, 2026**
+
+Part 2 of my position piece on GenAI, now touching on neuro-symbolic AI, is out via the Bayes Centre: https://bayes-centre.ed.ac.uk/news/current-news/beyond-large-language-models
+
+
 **Apr 28, 2026**
 
 In August, I'll be giving a tutorial on neuro-symbolic AI at the Scandinavian Logic Society Summer School in Copenhagen: https://slss2026.compute.dtu.dk/logic-meets-learning-explanations-and-llm-based-symbolic-executors/
