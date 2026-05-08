@@ -4,14 +4,14 @@ title: News
 permalink: /news/
 ---
 
-**May 7, 2026**
-
-A Counterfactual Cause in Situation Calculus (Daxin Liu, Vaishak Belle) accepted at ICLP 2026.
-
-
 **May 8, 2026**
 
 Part 2 of my position piece on GenAI, now touching on neuro-symbolic AI, is out via the Bayes Centre: https://bayes-centre.ed.ac.uk/news/current-news/beyond-large-language-models
+
+
+**May 7, 2026**
+
+A Counterfactual Cause in Situation Calculus (Daxin Liu, Vaishak Belle) accepted at ICLP 2026.
 
 
 **Apr 28, 2026**
