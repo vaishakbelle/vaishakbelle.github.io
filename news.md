@@ -11,7 +11,7 @@ Part 2 of my position piece on GenAI, now touching on neuro-symbolic AI, is out 
 
 **May 7, 2026**
 
-A Counterfactual Cause in Situation Calculus (Daxin Liu, Vaishak Belle) accepted at ICLP 2026.
+Daxin and I have been working on a new language and account for actual causality in a first-order language. This is now accepted at ICLP 2026, and extends our short paper from AAMAS-2026.
 
 
 **Apr 28, 2026**
