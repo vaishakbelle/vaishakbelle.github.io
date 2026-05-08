@@ -27,6 +27,12 @@ V. Belle & L. Chan.
 
 ---
 
+**A Counterfactual Cause in Situation Calculus.**
+
+_ICLP, 2026._
+
+D. Liu and V. Belle.
+
 **Interpretable Moral Decision-Making under Epistemic Uncertainty.**
 
 _NeSy, 2026._
