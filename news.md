@@ -85,6 +85,12 @@ In June, I'll be giving a talk on "The Future is Neuro-symbolic" at the ScaDS.AI
 
 Very excited to be part of the investigator team of UKRI's Quantum Advantage TurboCHarger (QATCH). Will be looking at trust and verification with hybrid models. https://www.ed.ac.uk/news/quantum-computing-research-turbocharged-by-funding-boost
 
+
+**Apr 2, 2026**
+
+I gave a talk on LLMs and neuro-symbolic AI (virtually) at Two Six Tech, Arlington: https://twosixtech.com -- thanks to Emma Barnes for the invite.
+
+
 **Mar 31, 2026**
 
 Together with Cheng and Luo, the Bayes center is hosting an Edge AI workshop on Thursday: https://bsky.app/profile/vaishakbelle.bsky.social/post/3midldrujeo2r
