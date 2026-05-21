@@ -27,6 +27,12 @@ V. Belle & L. Chan.
 
 ---
 
+**[What the Edinburgh Festivals Need to Know About AI.](https://www.edinburghfestivalcity.com/assets/000/000/926/AI_and_the_Festivals_-_May_2026_original.pdf?1778074642)**
+
+_AI and the Festivals: Thoughts on how the Edinburgh Festivals might respond to the opportunities and challenges of Artificial Intelligence. May, 2026._
+
+V. Belle.
+
 **A Counterfactual Cause in Situation Calculus.**
 
 _ICLP, 2026._

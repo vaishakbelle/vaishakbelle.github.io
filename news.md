@@ -4,6 +4,13 @@ title: News
 permalink: /news/
 ---
 
+**May 18, 2026**
+
+For the Edinburgh Festivals, I wrote a piece on what the Festivals needs to know about (Generative) AI. Read the full report here: https://www.edinburghfestivalcity.com/assets/000/000/926/AI_and_the_Festivals_-_May_2026_original.pdf?1778074642
+
+Coverage in The Herald (paywall): https://www.heraldscotland.com/news/26097282.edinburgh-festivals-urged-get-ahead-artificial-intelligence
+
+
 **May 8, 2026**
 
 Part 2 of my position piece on GenAI, now touching on neuro-symbolic AI, is out via the Bayes Centre: https://bayes-centre.ed.ac.uk/news/current-news/beyond-large-language-models
