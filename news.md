@@ -4,6 +4,11 @@ title: News
 permalink: /news/
 ---
 
+**May 19, 2026**
+
+I'm happy to announce that Weizhi Tang has passed his viva today (minor corrections). He was examined by Oliver Lemon (Google Deepmind/HWU) and internal examiner Jeff Pan.
+
+
 **May 18, 2026**
 
 For the Edinburgh Festivals, I wrote a piece on what the Festivals needs to know about (Generative) AI. Read the full report here: https://www.edinburghfestivalcity.com/assets/000/000/926/AI_and_the_Festivals_-_May_2026_original.pdf?1778074642
