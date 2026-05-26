@@ -9,6 +9,11 @@ permalink: /news/
 It was great fun to co-direct the DDI Fellows programme with Lynne from EFI. We wrapped up the program today: https://www.linkedin.com/posts/ddifellows-innovation-entrepreneurship-share-7465040378593832965-e0A0/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAicNYQBY_8JWpwIsWbFIZ3qEBTk3M1S8jA
 
 
+**May 22, 2026**
+
+I gave a talk on "Experimental Studies in Neurosymbolic AI" at the Workshop on Experimental Studies in AI, organised at the University of Edinburgh by Esra Erdem and Ram Ramamoorthy.
+
+
 **May 19, 2026**
 
 I'm happy to announce that Weizhi Tang has passed his viva today (minor corrections). He was examined by Oliver Lemon (Google Deepmind/HWU) and internal examiner Jeff Pan.
