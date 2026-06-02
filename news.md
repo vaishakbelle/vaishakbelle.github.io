@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 ---
 
+**June 2, 2026**
+
+  Looking forward to talking on neurosymbolic AI and LLMs, and the closing panel, at the Data, Digital and AI Fest: https://www.b2match.com/e/fast-forward-data-digital-ai/components/65057
+
 **May 26, 2026**
 
 It was great fun to co-direct the DDI Fellows programme with Lynne from EFI. We wrapped up the program today: https://www.linkedin.com/posts/ddifellows-innovation-entrepreneurship-share-7465040378593832965-e0A0/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAicNYQBY_8JWpwIsWbFIZ3qEBTk3M1S8jA
