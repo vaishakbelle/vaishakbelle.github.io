@@ -2,6 +2,8 @@
 layout: page
 title: News
 permalink: /news/
+---
+
 **June 7, 2026**
 
 Some of the Bayes team is at London Tech Week, check it out: https://www.linkedin.com/posts/as-we-arrive-at-london-tech-week-today-last-ugcPost-7469691858504413185-ArhC/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAicNYQBY_8JWpwIsWbFIZ3qEBTk3M1S8jA
