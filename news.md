@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 ---
 
+**June 8, 2026**
+
+Two papers accepted at PhilML@ICML 2026.
+
 **June 7, 2026**
 
 The 2025-2026 DDI Fellows program has come to a close, thanks to Lynne and Emma among others for a great closing session: https://www.linkedin.com/posts/ddifellows-realworldimpact-universityofedinburgh-ugcPost-7468576892137254913-F5Hc/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAicNYQBY_8JWpwIsWbFIZ3qEBTk3M1S8jA
