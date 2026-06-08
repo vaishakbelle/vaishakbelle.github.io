@@ -10,7 +10,7 @@ The 2025-2026 DDI Fellows program has come to a close, thanks to Lynne and Emma 
 
 **June 6, 2026**
 
-Some of the Bayes team is at London Tech Week, check it out: https://www.linkedin.com/posts/as-we-arrive-at-london-tech-week-today-last-ugcPost-7469691858504413185-ArhC/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAicNYQBY_8JWpwIsWbFIZ3qEBTk3M1S8jA
+Check out the highlights from 'Data, digital and AI: The future beyond the hype' event: https://www.linkedin.com/posts/as-we-arrive-at-london-tech-week-today-last-ugcPost-7469691858504413185-ArhC/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAicNYQBY_8JWpwIsWbFIZ3qEBTk3M1S8jA
 
 **June 2, 2026**
 
