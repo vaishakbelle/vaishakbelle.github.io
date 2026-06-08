@@ -33,6 +33,12 @@ _AI and the Festivals: Thoughts on how the Edinburgh Festivals might respond to 
 
 V. Belle.
 
+**CFProbLog: Counterfactual Reasoning in ProbLog.**
+
+_PhilML@ICML, 2026._
+
+A. Habib, F. He, and V. Belle.
+
 **A Counterfactual Cause in Situation Calculus.**
 
 _ICLP, 2026._
