@@ -27,6 +27,16 @@ V. Belle & L. Chan.
 
 ---
 
+**Efficient Counterfactual Reasoning in ProbLog via Single-World Intervention Programs.**
+
+_ICML 2026 Workshop: Philosophy Meets Machine Learning._
+
+S. Habib, V. Belle, and F. He.
+
+**DeepSWIP: Single-World Counterfactual Semantics for DeepProbLog.**
+
+S. Habib, V. Belle, and F. He.
+
 **[What the Edinburgh Festivals Need to Know About AI.](https://www.edinburghfestivalcity.com/assets/000/000/926/AI_and_the_Festivals_-_May_2026_original.pdf?1778074642)**
 
 _AI and the Festivals: Thoughts on how the Edinburgh Festivals might respond to the opportunities and challenges of Artificial Intelligence. 2026._
