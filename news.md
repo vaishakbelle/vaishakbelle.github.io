@@ -6,6 +6,10 @@ permalink: /news/
 
 **June 10, 2026**
 
+Interested in the next iteration of the DDI Fellows? Register your interest now: https://www.linkedin.com/posts/ddifellows-innovation-entrepreneurship-share-7467887868695347201-_yxN/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAicNYQBY_8JWpwIsWbFIZ3qEBTk3M1S8jA
+
+**June 10, 2026**
+
 Excited to join the 3rd anniversary of the quantum software lab, leading into the start of the QATCH project. Looking forward to the next years on AI and quantum tech: https://www.linkedin.com/feed/update/urn:li:share:7470396007499993091
 
 **June 9, 2026**
