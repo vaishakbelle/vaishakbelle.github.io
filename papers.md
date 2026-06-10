@@ -29,6 +29,8 @@ V. Belle & L. Chan.
 
 **Principled Diverse Counterfactuals in Multilinear Models.**
 
+_Greeks in AI, 2026._
+
 I. Papantonis and V. Belle.
 
 **Efficient Counterfactual Reasoning in ProbLog via Single-World Intervention Programs.**
