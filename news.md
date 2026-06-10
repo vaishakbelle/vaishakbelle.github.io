@@ -6,10 +6,6 @@ permalink: /news/
 
 **June 10, 2026**
 
-Interested in the next iteration of the DDI Fellows? Register your interest now: https://www.linkedin.com/posts/ddifellows-innovation-entrepreneurship-share-7467887868695347201-_yxN/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAicNYQBY_8JWpwIsWbFIZ3qEBTk3M1S8jA
-
-**June 10, 2026**
-
 Excited to join the 3rd anniversary of the quantum software lab, leading into the start of the QATCH project. Looking forward to the next years on AI and quantum tech: https://www.linkedin.com/feed/update/urn:li:share:7470396007499993091
 
 **June 9, 2026**
@@ -19,10 +15,6 @@ Giannis has submitted our journal paper for discussion in the Greeks for AI foru
 **June 9, 2026**
 
 Saimun has an interesting paper on "Efficient Counterfactual Reasoning in ProbLog via Single-World Intervention Programs" at the ICML 2026 Workshop: Philosophy Meets Machine Learning.
-
-**June 9, 2026**
-
-New paper: DeepSWIP: Single-World Counterfactual Semantics for DeepProbLog, by Saimun Habib, Vaishak Belle, and Fengxiang He.
 
 **June 8, 2026**
 
@@ -35,6 +27,14 @@ The 2025-2026 DDI Fellows program has come to a close, thanks to Lynne and Emma 
 **June 6, 2026**
 
 Check out the highlights from 'Data, digital and AI: The future beyond the hype' event: https://edinburgh-innovations.ed.ac.uk/news/fast-forward-2026-ai-futures-beyond-the-hype
+
+**June 5, 2026**
+
+Saimun also has a paper on counterfactual semantics for DeepProbLog: "DeepSWIP: Single-World Counterfactual Semantics for DeepProbLog", at the ICML 2026 Workshop: Philosophy Meets Machine Learning.
+
+**June 4, 2026**
+
+Interested in the next iteration of the DDI Fellows? Register your interest now: https://www.linkedin.com/posts/ddifellows-innovation-entrepreneurship-share-7467887868695347201-_yxN/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAicNYQBY_8JWpwIsWbFIZ3qEBTk3M1S8jA
 
 **June 2, 2026**
 
