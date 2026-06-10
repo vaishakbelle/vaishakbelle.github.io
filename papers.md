@@ -27,6 +27,10 @@ V. Belle & L. Chan.
 
 ---
 
+**Principled Diverse Counterfactuals in Multilinear Models.**
+
+I. Papantonis and V. Belle.
+
 **Efficient Counterfactual Reasoning in ProbLog via Single-World Intervention Programs.**
 
 _ICML 2026 Workshop: Philosophy Meets Machine Learning._
