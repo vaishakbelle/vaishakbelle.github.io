@@ -8,6 +8,14 @@ permalink: /news/
 
 Excited to join the 3rd anniversary of the quantum software lab, leading into the start of the QATCH project. Looking forward to the next years on AI and quantum tech: https://www.linkedin.com/feed/update/urn:li:share:7470396007499993091
 
+**June 9, 2026**
+
+Saimun has an interesting paper on "Efficient Counterfactual Reasoning in ProbLog via Single-World Intervention Programs" at the ICML 2026 Workshop: Philosophy Meets Machine Learning.
+
+**June 9, 2026**
+
+New paper: DeepSWIP: Single-World Counterfactual Semantics for DeepProbLog, by Saimun Habib, Vaishak Belle, and Fengxiang He.
+
 **June 7, 2026**
 
 The 2025-2026 DDI Fellows program has come to a close, thanks to Lynne and Emma among others for a great closing session: https://www.linkedin.com/posts/ddifellows-realworldimpact-universityofedinburgh-ugcPost-7468576892137254913-F5Hc/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAicNYQBY_8JWpwIsWbFIZ3qEBTk3M1S8jA
