@@ -10,6 +10,10 @@ Excited to join the 3rd anniversary of the quantum software lab, leading into th
 
 **June 9, 2026**
 
+Giannis has submitted our journal paper for discussion in the Greeks for AI forum, which is our work on generating diverse counterfactuals: Principled Diverse Counterfactuals in Multilinear Models.
+
+**June 9, 2026**
+
 Saimun has an interesting paper on "Efficient Counterfactual Reasoning in ProbLog via Single-World Intervention Programs" at the ICML 2026 Workshop: Philosophy Meets Machine Learning.
 
 **June 9, 2026**
