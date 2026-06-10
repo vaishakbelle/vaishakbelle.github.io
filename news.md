@@ -8,6 +8,10 @@ permalink: /news/
 
 Excited to join the 3rd anniversary of the quantum software lab, leading into the start of the QATCH project. Looking forward to the next years on AI and quantum tech: https://www.linkedin.com/feed/update/urn:li:share:7470396007499993091
 
+**June 8, 2026**
+
+Just a week away for the ScaDS.AI School in Leipzig, I'll be talking about neuro-symbolic AI: https://www.linkedin.com/posts/another-highlight-of-the-scadsai-dresden-share-7470033353086484480-i4rR/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAicNYQBY_8JWpwIsWbFIZ3qEBTk3M1S8jA
+
 **June 9, 2026**
 
 Giannis has submitted our journal paper for discussion in the Greeks for AI forum, which is our work on generating diverse counterfactuals: Principled Diverse Counterfactuals in Multilinear Models.
