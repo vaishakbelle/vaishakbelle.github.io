@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 ---
 
+**June 11, 2026**
+
+Xenia and Nijesh are giving talks at the Centaur AI Institute, on fairness and GANs respectively, both via Logic Tensor Networks: https://www.linkedin.com/posts/vaishakbelle_listen-in-to-xenia-talk-about-our-work-on-ugcPost-7467465269486133248-XQnN/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAicNYQBY_8JWpwIsWbFIZ3qEBTk3M1S8jA
+
 **June 10, 2026**
 
 Excited to join the 3rd anniversary of the quantum software lab, leading into the start of the QATCH project. Looking forward to the next years on AI and quantum tech: https://www.linkedin.com/feed/update/urn:li:share:7470396007499993091
