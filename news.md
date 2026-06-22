@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 ---
 
+**June 22, 2026**
+
+In Leipzig for the ScaDS.AI Summer School on AI and Big Data, giving a talk on "The Future is Neuro-Symbolic: Where Has It Been and Where Is It Going?": https://www.linkedin.com/posts/scads-ai_ai-neurosymbolic-llms-ugcPost-7474769790851530752-cImz
+
 **June 11, 2026**
 
 Xenia and Nijesh are giving talks at the Centaur AI Institute, on fairness and GANs respectively, both via Logic Tensor Networks: https://www.linkedin.com/posts/vaishakbelle_listen-in-to-xenia-talk-about-our-work-on-ugcPost-7467465269486133248-XQnN/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAicNYQBY_8JWpwIsWbFIZ3qEBTk3M1S8jA
