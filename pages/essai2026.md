@@ -23,15 +23,15 @@ The course consists of 4 lectures (4 x 90 min):
 
 **Lecture 1: Foundations and Logic vs Learning**
 
-Motivation: the deduction-induction divide in AI. Background: propositional and first-order logic, probabilistic graphical models. Logic vs learning: weighted model counting.
+Motivation: the deduction-induction divide in AI. Background: propositional and first-order logic, probabilistic models. Logic vs learning: weighted model counting.
 
 **Lecture 2: Machine Learning for Logic**
 
-Inductive logic programming: learning rules from examples. Bayesian scoring of logical structures. PAC-semantics: probably approximately correct learning.
+Inductive logic programming: learning rules from examples. Case study: neuro-symbolic rule learning via differential inductive logic programming.
 
 **Lecture 3: Logic for Machine Learning**
 
-Probabilistic programming languages. Algebraic model counting. Abstraction and lifted inference. Case study: multilinear models for diverse counterfactuals.
+Probabilistic programming languages. Algebraic model counting. Abstraction. Case study: multilinear models for diverse counterfactuals.
 
 **Lecture 4: Integration and Advanced Topics**
 
