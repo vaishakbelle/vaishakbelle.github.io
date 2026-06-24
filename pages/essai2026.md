@@ -45,7 +45,7 @@ The course is pitched at an introductory level suitable for graduate students, r
 
 ## Previous Venues
 
-This tutorial has been delivered previously at IJCAI (2017), KR (2022), and the Logic in AI Summer School, Como (2024).
+This tutorial is a significantly expanded and revised version of ones previously delivered at IJCAI (2017), KR (2022), and the Logic in AI Summer School, Como (2024).
 
 
 ## Speaker
