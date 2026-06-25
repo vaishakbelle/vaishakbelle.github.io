@@ -27,6 +27,12 @@ V. Belle & L. Chan.
 
 ---
 
+**Vancomycert: A certified neuro-symbolic drug delivery system (case study).**
+
+_International Symposium on AI Verification, 2026._
+
+A. Sirman, F. Conway, J. Ciupa, G. G. Grinbergs, E. Komendantskaya, T. S. Hoang, M. Rawson, A. Bruni, V. Belle, and M. J. Williams.
+
 **Reshaping Conceptual Framing with LLM Anthropomorphism.**
 
 _HAR, 2026._
