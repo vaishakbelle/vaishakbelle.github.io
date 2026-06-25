@@ -27,6 +27,12 @@ V. Belle & L. Chan.
 
 ---
 
+**Reshaping Conceptual Framing with LLM Anthropomorphism.**
+
+_HAR, 2026._
+
+C. Sypherd and V. Belle.
+
 **Principled Diverse Counterfactuals in Multilinear Models.**
 
 _Greeks in AI, 2026._
