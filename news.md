@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 ---
 
+**June 28, 2026**
+
+Just a week to go for my 4 x 90-min tutorial on logic, learning, and neuro-symbolic AI, with case studies on program induction, circuits, and LLMs: https://vaishakbelle.github.io/pages/essai2026.html
+
 **June 22, 2026**
 
 In Leipzig for the ScaDS.AI Summer School on AI and Big Data, giving a talk on "The Future is Neuro-Symbolic: Where Has It Been and Where Is It Going?": https://www.linkedin.com/posts/scads-ai_ai-neurosymbolic-llms-ugcPost-7474769790851530752-cImz
