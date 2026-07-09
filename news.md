@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 ---
 
+**July 9, 2026**
+
+Thoroughly enjoyed doing the podcast series "Inside the Algorithm" with Jeremy and Ricardo. We went from neuro-symbolic AI to theory of mind to Claude Code: https://www.linkedin.com/posts/cambridge-spark_artificialintelligence-neurosymbolicai-ugcPost-7480562615031767040-S5JA
+
 **June 28, 2026**
 
 Just a week to go for my 4 x 90-min tutorial on logic, learning, and neuro-symbolic AI, with case studies on program induction, circuits, and LLMs: https://vaishakbelle.github.io/pages/essai2026.html
