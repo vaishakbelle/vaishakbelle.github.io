@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 ---
 
+**July 22, 2026**
+
+Ola Lisbon, here for the FLOC mega-fest and starting off with a talk on neuro-symbolic AI on July 22 at the Faculty of Sciences of the University of Lisbon: https://lasige.pt/talk/lasige-talks-vaishak-belle/ , thanks to Catia!
+
 **July 17, 2026**
 
 Congrats again to Nijesh — our work on the neuro-symbolic semantics of weak supervision has been accepted at Philosophical Transactions of the Royal Society A, one of the oldest scientific journals in the English-speaking world: https://royalsocietypublishing.org/rsta/article/384/2324/20250115/482557/Neuro-symbolic-weak-supervision-theory-and
