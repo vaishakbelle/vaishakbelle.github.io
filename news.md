@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 ---
 
+**July 31, 2026**
+
+Congrats to Weizhi and Kwabena — our paper "LTLBench: Towards Benchmarks for Evaluating Temporal Reasoning in Large Language Models" has been accepted at TMLR, 2026: https://openreview.net/pdf?id=6tP2fbRCIA
+
 **July 22, 2026**
 
 Ola Lisbon, here for the FLOC mega-fest and starting off with a talk on neuro-symbolic AI on July 22 at the Faculty of Sciences of the University of Lisbon: https://lasige.pt/talk/lasige-talks-vaishak-belle/ , thanks to Catia!
