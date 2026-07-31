@@ -12,6 +12,14 @@ Ola Lisbon, here for the FLOC mega-fest and starting off with a talk on neuro-sy
 
 Congrats again to Nijesh — our work on the neuro-symbolic semantics of weak supervision has been accepted at Philosophical Transactions of the Royal Society A, one of the oldest scientific journals in the English-speaking world: https://royalsocietypublishing.org/rsta/article/384/2324/20250115/482557/Neuro-symbolic-weak-supervision-theory-and
 
+**July 16, 2026**
+
+Congrats to Aiden, Andrew, and the team, our paper "Knowledge Neglect in Agent Interactions (with Chatbots)" has been accepted at HAR, 2026.
+
+**July 10, 2026**
+
+Camera-ready is in for "Automating Hard Choices: Agentic AI's Impact on Moral Identity and Intervention" with Julia and Marek, at the 5th Conference on Human and Artificial Reasonings (HAR-2026).
+
 **July 9, 2026**
 
 Thoroughly enjoyed doing the podcast series "Inside the Algorithm" with Jeremy and Ricardo. We went from neuro-symbolic AI to theory of mind to Claude Code: https://www.linkedin.com/posts/cambridge-spark_artificialintelligence-neurosymbolicai-ugcPost-7480562615031767040-S5JA
