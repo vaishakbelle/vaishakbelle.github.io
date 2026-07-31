@@ -27,6 +27,12 @@ V. Belle & L. Chan.
 
 ---
 
+**[LTLBench: Towards Benchmarks for Evaluating Temporal Reasoning in Large Language Models.](https://openreview.net/pdf?id=6tP2fbRCIA)**
+
+_TMLR, 2026._
+
+W. Tang, K. Nuamah, and V. Belle.
+
 **Knowledge Neglect in Agent Interactions (with Chatbots).**
 
 _HAR, 2026._
