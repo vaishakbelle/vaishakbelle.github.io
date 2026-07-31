@@ -14,11 +14,11 @@ Congrats again to Nijesh — our work on the neuro-symbolic semantics of weak su
 
 **July 16, 2026**
 
-Congrats to Aiden, Andrew, and the team, our paper "Knowledge Neglect in Agent Interactions (with Chatbots)" has been accepted at HAR, 2026.
+Congrats to Ambrose for our paper "Knowledge Neglect in Agent Interactions (with Chatbots)," accepted at HAR, 2026.
 
 **July 10, 2026**
 
-Camera-ready is in for "Automating Hard Choices: Agentic AI's Impact on Moral Identity and Intervention" with Julia and Marek, at the 5th Conference on Human and Artificial Reasonings (HAR-2026).
+Camera-ready is in for "Automating Hard Choices: Agentic AI's Impact on Moral Identity and Intervention," with Jessica, at HAR, 2026.
 
 **July 9, 2026**
 
