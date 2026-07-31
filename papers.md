@@ -27,6 +27,18 @@ V. Belle & L. Chan.
 
 ---
 
+**Knowledge Neglect in Agent Interactions (with Chatbots).**
+
+_HAR, 2026._
+
+A. Brown, V. Belle, and A. Hoskins.
+
+**Automating Hard Choices: Agentic AI's Impact on Moral Identity and Intervention.**
+
+_HAR, 2026._
+
+J. Ciupa, V. Belle, and M. Ciupa.
+
 **Vancomycert: A certified neuro-symbolic drug delivery system (case study).**
 
 _International Symposium on AI Verification, 2026._
