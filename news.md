@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 ---
 
+**August 4, 2026**
+
+Looking forward to talking at the 5th Neuro-Symbolic AI Summer School 2026: https://lnkd.in/p/eJJEcHwE
+
 **July 31, 2026**
 
 Congrats to Weizhi and Kwabena — our paper "LTLBench: Towards Benchmarks for Evaluating Temporal Reasoning in Large Language Models" has been accepted at TMLR, 2026: https://openreview.net/pdf?id=6tP2fbRCIA
