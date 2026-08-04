@@ -6,7 +6,7 @@ permalink: /news/
 
 **August 4, 2026**
 
-Looking forward to talking at the 5th Neuro-Symbolic AI Summer School 2026: https://lnkd.in/p/eJJEcHwE
+Looking forward to talking at the 5th Neuro-Symbolic AI Summer School 2026, organised by the Centaur AI Institute in Los Angeles: https://lnkd.in/p/eJJEcHwE
 
 **July 31, 2026**
 
