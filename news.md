@@ -4,6 +4,22 @@ title: News
 permalink: /news/
 ---
 
+**August 14, 2026**
+
+Congrats to Nijesh — our paper "Generate in the Chart, Not on the Boundary: Function-Symbol Grounding for Hard Constraints in LTN-GANs" has been accepted at NeSy, 2026.
+
+**August 13, 2026**
+
+Congrats to Antonio — our paper "Program Semantic Inequivalence Game with Large Language Models" has been accepted at NeSy, 2026.
+
+**August 12, 2026**
+
+Congrats to Max — our paper "Tractable Hierarchical Control of Large Language Models" has been accepted at NeSy, 2026.
+
+**August 11, 2026**
+
+Congrats to Saimun — our paper "DeepSWIP: Quotient-WMC Counterfactuals for Neural Probabilistic Logic Programs" has been accepted at NeSy, 2026.
+
 **August 4, 2026**
 
 Looking forward to talking at the 5th Neuro-Symbolic AI Summer School 2026, organised by the Centaur AI Institute in Los Angeles: https://lnkd.in/p/eJJEcHwE
