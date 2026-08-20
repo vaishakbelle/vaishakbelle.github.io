@@ -99,6 +99,30 @@ _NeSy, 2026._
 
 M. Galván-López, N. Upreti, and V. Belle.
 
+**DeepSWIP: Quotient-WMC Counterfactuals for Neural Probabilistic Logic Programs.**
+
+_NeSy, 2026._
+
+S. Habib, V. Belle, and F. He.
+
+**Tractable Hierarchical Control of Large Language Models.**
+
+_NeSy, 2026._
+
+M. Scribner, A. Vergari, and V. Belle.
+
+**Program Semantic Inequivalence Game with Large Language Models.**
+
+_NeSy, 2026._
+
+A. V. Miceli Barone, V. Belle, and A. Payani.
+
+**Generate in the Chart, Not on the Boundary: Function-Symbol Grounding for Hard Constraints in LTN-GANs.**
+
+_NeSy, 2026._
+
+N. Upreti and V. Belle.
+
 **[LLMs, Limitations and Capabilities: Musings from a Logician's Viewpoint.](https://cspafrica.org/wp-content/uploads/2026/04/2.-EZ-BELLE-LARGE-LANGUAGE-MODELS.pdf)**
 
 _Ezumezu: African Perspectives on Logic, Transhumanism and AI Ethics, 2026._
