@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 ---
 
+**August 19, 2026**
+
+In Copenhagen, here for the Nordic Logic Summer School — will be tutoring on logic, learning, explanations, and LLMs: https://slss2026.compute.dtu.dk/nordic-logic-school/
+
 **August 14, 2026**
 
 Congrats to Nijesh — our paper "Generate in the Chart, Not on the Boundary: Function-Symbol Grounding for Hard Constraints in LTN-GANs" has been accepted at NeSy, 2026.
