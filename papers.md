@@ -27,6 +27,12 @@ V. Belle & L. Chan.
 
 ---
 
+**Addressing AI Sycophancy: A New Frontier in the Attention Economy.**
+
+_HAR, 2026._
+
+T. A. Jackson, C. Higham, and V. Belle.
+
 **[LTLBench: Towards Benchmarks for Evaluating Temporal Reasoning in Large Language Models.](https://openreview.net/pdf?id=6tP2fbRCIA)**
 
 _TMLR, 2026._
