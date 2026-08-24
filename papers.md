@@ -27,6 +27,12 @@ V. Belle & L. Chan.
 
 ---
 
+**Agentic Cognitive Depth: Operational Criteria for Evaluating LLM Agents.**
+
+_HAR, 2026._
+
+N. Upreti, C. Sypherd, and V. Belle.
+
 **Addressing AI Sycophancy: A New Frontier in the Attention Economy.**
 
 _HAR, 2026._
