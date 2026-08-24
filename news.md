@@ -8,6 +8,10 @@ permalink: /news/
 
 Congrats to Thomas and Christopher — our paper "Addressing AI Sycophancy: A New Frontier in the Attention Economy" has been accepted at HAR, 2026.
 
+**August 23, 2026**
+
+Congrats to Nijesh and Chris — our paper "Agentic Cognitive Depth: Operational Criteria for Evaluating LLM Agents" has been accepted at HAR, 2026.
+
 **August 19, 2026**
 
 In Copenhagen, here for the Nordic Logic Summer School — will be tutoring on logic, learning, explanations, and LLMs: https://slss2026.compute.dtu.dk/nordic-logic-school/
