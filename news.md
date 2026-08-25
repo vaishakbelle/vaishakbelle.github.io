@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 ---
 
+**August 25, 2026**
+
+Very excited to be having a fireside chat with Kathleen Fisher, CEO of ARIA! Hosted graciously by Venture Cafe this Thursday: https://venturecafeedinburgh.org
+
 **August 24, 2026**
 
 Congrats to Thomas and Christopher — our paper "Addressing AI Sycophancy: A New Frontier in the Attention Economy" has been accepted at HAR, 2026.
