@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 ---
 
+**September 9, 2026**
+
+Congrats to Saimun — our paper "DeepSWIP: Quotient-WMC Counterfactuals for Neural Probabilistic Logic Programs" won the Best Paper Award at NeSy, 2026!
+
 **August 25, 2026**
 
 Very excited to be having a fireside chat with Kathleen Fisher, CEO of ARIA! Hosted graciously by Venture Cafe this Thursday: https://venturecafeedinburgh.org
