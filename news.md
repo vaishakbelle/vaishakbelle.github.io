@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 ---
 
+**September 11, 2026**
+
+It was very nice to have a range of questions on AI at our AIM Day on September 10: https://lnkd.in/p/dcR99nHP
+
 **September 9, 2026**
 
 Congrats to Saimun — our paper "DeepSWIP: Quotient-WMC Counterfactuals for Neural Probabilistic Logic Programs" won the Best Paper Award at NeSy, 2026!
