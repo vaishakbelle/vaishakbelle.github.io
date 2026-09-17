@@ -27,6 +27,12 @@ V. Belle & L. Chan.
 
 ---
 
+**Single-World Counterfactual Reasoning in ProbLog.**
+
+_Journal of Logic and Computation, 2026._
+
+S. Habib, V. Belle, and F. He.
+
 **Thinking Slow about Ethics: Theory of Mind and the Limits of Neural Moral Reasoning.**
 
 _HICSS-60, 2027._ (Track: AI Psychometrics for Equitable and Inclusive AI Systems)
