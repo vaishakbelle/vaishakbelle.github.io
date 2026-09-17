@@ -6,6 +6,10 @@ permalink: /news/
 
 **September 17, 2026**
 
+Congrats to Saimun and Fengxiang — our paper "Single-World Counterfactual Reasoning in ProbLog" has been accepted at the Journal of Logic and Computation!
+
+**September 17, 2026**
+
 Congrats to Jessica, Nijesh, Chris and Ambrose — our paper "Thinking Slow about Ethics: Theory of Mind and the Limits of Neural Moral Reasoning" has been accepted at HICSS-60, 2027, in the AI Psychometrics for Equitable and Inclusive AI Systems track!
 
 **September 11, 2026**
