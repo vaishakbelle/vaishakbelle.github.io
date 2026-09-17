@@ -27,6 +27,12 @@ V. Belle & L. Chan.
 
 ---
 
+**Thinking Slow about Ethics: Theory of Mind and the Limits of Neural Moral Reasoning.**
+
+_HICSS-60, 2027._ (Track: AI Psychometrics for Equitable and Inclusive AI Systems)
+
+J. Ciupa, N. Upreti, C. Sypherd, A. Brown, and V. Belle.
+
 **Agentic Cognitive Depth: Operational Criteria for Evaluating LLM Agents.**
 
 _HAR, 2026._
