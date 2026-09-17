@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 ---
 
+**September 17, 2026**
+
+Congrats to Jessica, Nijesh, Chris and Ambrose — our paper "Thinking Slow about Ethics: Theory of Mind and the Limits of Neural Moral Reasoning" has been accepted at HICSS-60, 2027, in the AI Psychometrics for Equitable and Inclusive AI Systems track!
+
 **September 11, 2026**
 
 It was very nice to have a range of questions on AI at our AIM Day on September 10: https://lnkd.in/p/dcR99nHP
