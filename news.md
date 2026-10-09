@@ -6,7 +6,7 @@ permalink: /news/
 
 **October 9, 2026**
 
-It was a pleasure to give an invited talk titled "The Future is Neuro-Symbolic" at the Advances in Cognitive Systems 2026 conference (ACS 2026), held at the Informatics Forum in Edinburgh: http://cogsys.org/conference/2026/
+It was a pleasure to give an invited talk titled "The Future is Neuro-Symbolic" at the Advances in Cognitive Systems 2026 conference (ACS 2026) in Edinburgh: http://cogsys.org/conference/2026/
 
 **September 17, 2026**
 
