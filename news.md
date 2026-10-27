@@ -4,6 +4,14 @@ title: News
 permalink: /news/
 ---
 
+**October 26, 2026**
+
+Congrats to Aryan, Aravind, Suryansh, Nijesh and Dhruv, our paper "Authority, Truth, and Citation Bias: A Multi-Domain Benchmark for Studying Citation Deference in Large Language Models" has been accepted at the AI4GOOD Workshop at NeurIPS 2026!
+
+**October 26, 2026**
+
+Congrats to Ambrose and Jessica, our paper "Institutionalised Memory for Theory of Mind in LLM Agents: A Deontic Framework for Belief Layering" has been accepted at the Third International Workshop on Formal Ethical Agents and Robots (FEAR), 2026!
+
 **October 9, 2026**
 
 It was a pleasure to give an invited talk titled "The Future is Neuro-Symbolic" at the Advances in Cognitive Systems 2026 conference (ACS 2026) in Edinburgh: http://cogsys.org/conference/2026/

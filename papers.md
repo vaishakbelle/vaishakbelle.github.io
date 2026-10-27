@@ -27,6 +27,18 @@ V. Belle & L. Chan.
 
 ---
 
+**Authority, Truth, and Citation Bias: A Multi-Domain Benchmark for Studying Citation Deference in Large Language Models.**
+
+_AI4GOOD Workshop @ NeurIPS, 2026._
+
+A. Khurana, A. Ramana RN, S. R. Menon, N. Upreti, V. Belle, and D. Kumar.
+
+**Institutionalised Memory for Theory of Mind in LLM Agents: A Deontic Framework for Belief Layering.**
+
+_Third International Workshop on Formal Ethical Agents and Robots (FEAR), 2026._
+
+A. Brown, J. Ciupa, and V. Belle.
+
 **Single-World Counterfactual Reasoning in ProbLog.**
 
 _Journal of Logic and Computation, 2026._
