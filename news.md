@@ -4,6 +4,10 @@ title: News
 permalink: /news/
 ---
 
+**October 29, 2026**
+
+It was a pleasure to give a talk on neuro-symbolic AI, titled "The Future is Neuro-Symbolic", at the 2nd On-line Workshop on Intersectional Approaches to AI, hosted by the Federal Institute of Pará (IFPA, Brazil) in collaboration with the Institute of Information for a Sustainable Economy (INE2S) at UNICAMP.
+
 **October 26, 2026**
 
 Congrats to Aryan, Aravind, Suryansh, Nijesh and Dhruv, our paper "Authority, Truth, and Citation Bias: A Multi-Domain Benchmark for Studying Citation Deference in Large Language Models" has been accepted at the AI4GOOD Workshop at NeurIPS 2026!
