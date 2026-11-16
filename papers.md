@@ -27,6 +27,12 @@ V. Belle & L. Chan.
 
 ---
 
+**Used Car Salesbots? Honesty and Credulity of LLMs as Bargaining Agents under Partial Information.**
+
+_Findings of EACL, 2027._
+
+A. Miceli Barone, S. Cohen, and V. Belle.
+
 **Authority, Truth, and Citation Bias: A Multi-Domain Benchmark for Studying Citation Deference in Large Language Models.**
 
 _AI4GOOD Workshop @ NeurIPS, 2026._
